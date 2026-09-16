@@ -1,6 +1,7 @@
 {
- "last_run": "2026-09-16T17:53:12Z",
+ "last_run": "2026-09-16T23:14:12Z",
  "records_by_source": {
+  "manual": 2,
   "openfacts": 3208607,
   "usda": 423538,
   "wikidata": 2191
@@ -85,7 +86,13 @@
    "last_success": "2026-09-16T17:53:12Z",
    "last_url": "https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_branded_food_csv_2026-04-30.zip"
   },
-  "webdatacommons": {},
+  "webdatacommons": {
+   "last_result": {
+    "added": 0,
+    "updated": 0
+   },
+   "last_success": "2026-09-16T23:14:12Z"
+  },
   "wikidata": {
    "last_result": {
     "added": 2191,
@@ -94,5 +101,5 @@
    "last_success": "2026-09-16T17:53:12Z"
   }
  },
- "total_records": 3634336
+ "total_records": 3634338
 }
