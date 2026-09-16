@@ -75,7 +75,8 @@ DEFAULT_CONFIG = {
         "discogs":        {"enabled": False, "priority": 40,  "every_days": 30, "first_wins": True},
         "openlibrary":    {"enabled": False, "priority": 40,  "every_days": 30, "first_wins": True},
         "webdatacommons": {"enabled": False, "priority": 20,  "every_days": 0,  "first_wins": True,
-                           "update_existing": False, "file_list_url": "", "parts_per_run": 3},
+                           "update_existing": False, "file_list_url": "", "file_list_urls": [],
+                           "parts_per_run": 50, "wanted_only": True},
     },
 }
 
@@ -160,6 +161,8 @@ def to_ean13(code, pad_short=False):
         code = code[1:]
     if pad_short and 0 < len(code) < 13:
         code = code.zfill(13)
+    if len(code) == 8:
+        code = code.zfill(13)          # EAN-8 stored with leading zeros (checksum stays valid)
     if len(code) == 12:
         code = "0" + code
     if len(code) != 13 or int(code) == 0:
@@ -669,6 +672,10 @@ NQ = re.compile(r'^(\S+)\s+<([^>]+)>\s+(.+?)\s+<([^>]*)>\s*\.\s*$')
 LIT = re.compile(r'^"((?:[^"\\]|\\.)*)"')
 ESC = re.compile(r'\\(u[0-9a-fA-F]{4}|U[0-9a-fA-F]{8}|.)')
 
+WDC_ID_PROPS = ("gtin13", "gtin12", "gtin14", "gtin8", "gtin")
+WDC_EXTRA_ID_PROPS = ("sku", "productID")     # only trusted when matched against the wanted list
+WDC_QUICK = ("/name>", "gtin", "/sku>", "/productID>", "#type>")
+
 
 def nq_unescape(s):
     def rep(m):
@@ -682,62 +689,185 @@ def nq_unescape(s):
     return ESC.sub(rep, s)
 
 
-def parse_nquads(lines, db):
-    buf = OrderedDict()
+def load_wanted():
+    """Barcodes you still need descriptions for: inbox/wanted*.txt (one per line)."""
+    wanted = set()
+    for f in sorted(INBOX.glob("wanted*.txt")):
+        for token in f.read_text(encoding="utf-8", errors="replace").split():
+            ean = to_ean13(token, pad_short=True)
+            if ean:
+                wanted.add(ean)
+    return wanted
 
-    def flush(node):
-        gtin, name = node.get("gtin"), node.get("name")
-        if gtin and name:
-            db.upsert(gtin, name)
+
+def tidy_wanted(db):
+    """Remove barcodes that now have a description from the wanted files."""
+    files = sorted(INBOX.glob("wanted*.txt"))
+    left = 0
+    for f in files:
+        keep = []
+        for token in f.read_text(encoding="utf-8", errors="replace").split():
+            ean = to_ean13(token, pad_short=True)
+            if ean and ean not in db.rows:
+                keep.append(ean)
+        f.write_text("\n".join(keep) + ("\n" if keep else ""), encoding="utf-8")
+        left += len(keep)
+    return left
+
+
+class WdcStop(Exception):
+    pass
+
+
+def parse_nquads(lines, db, wanted=None, skip_lines=0, progress=None):
+    """Collect product names and barcodes per web page (graph) and upsert matches."""
+    pages = OrderedDict()   # graph -> {subject: node}
+    count = 0
+
+    def flush(page):
+        product_names = [n["name"] for n in page.values() if n.get("product") and n.get("name")]
+        fallback = product_names[0] if len(set(product_names)) == 1 else None
+        for node in page.values():
+            ids = node.get("ids")
+            if not ids:
+                continue
+            name = node.get("name") or fallback
+            if not name:
+                continue
+            for prop, value in ids:
+                ean = to_ean13(value)
+                if not ean:
+                    continue
+                if wanted is not None:
+                    if ean not in wanted:
+                        continue
+                elif prop in WDC_EXTRA_ID_PROPS:
+                    continue
+                if db.upsert(ean, name) and wanted is not None:
+                    wanted.discard(ean)
+                    progress["found"] += 1
+                break
 
     for line in lines:
+        count += 1
+        if count <= skip_lines:
+            continue
+        if count % 2_000_000 == 0:
+            if progress is not None:
+                progress["line"] = count
+                log(f"  {count:,} lines, found {progress['found']:,}")
+            if minutes_used() > CFG["max_runtime_minutes"]:
+                for page in pages.values():
+                    flush(page)
+                raise WdcStop(count)
+        if not any(q in line for q in WDC_QUICK):
+            continue
         m = NQ.match(line)
         if not m:
             continue
         subj, pred, obj, graph = m.groups()
-        prop = pred.rsplit("/", 1)[-1]
-        if prop not in ("gtin13", "gtin12", "gtin14", "gtin", "name"):
+        prop = pred.rsplit("/", 1)[-1].rsplit("#", 1)[-1]
+
+        page = pages.get(graph)
+        if page is None:
+            page = pages[graph] = {}
+            if len(pages) > 500:
+                flush(pages.popitem(last=False)[1])
+
+        if prop == "type":
+            if obj.rstrip(">").rsplit("/", 1)[-1] == "Product":
+                page.setdefault(subj, {})["product"] = True
+            continue
+        if prop not in WDC_ID_PROPS and prop not in WDC_EXTRA_ID_PROPS and prop != "name":
             continue
         lit = LIT.match(obj)
         if not lit:
             continue
-        key = (subj, graph)
-        node = buf.get(key)
-        if node is None:
-            node = buf[key] = {}
-            if len(buf) > 2000:
-                flush(buf.popitem(last=False)[1])
         value = nq_unescape(lit.group(1))
+        node = page.setdefault(subj, {})
         if prop == "name":
             node.setdefault("name", value)
         else:
-            node.setdefault("gtin", value)
-    for node in buf.values():
-        flush(node)
+            node.setdefault("ids", []).append((prop, value))
+
+    for page in pages.values():
+        flush(page)
+    return count
+
+
+def wdc_part_urls(cfg):
+    """Accepts direct .gz links, file lists (one link per line) or a directory/HTML page with .gz links."""
+    sources = list(cfg.get("file_list_urls") or [])
+    if cfg.get("file_list_url"):
+        sources.append(cfg["file_list_url"])
+    parts = []
+
+    def add(url):
+        if url not in parts:
+            parts.append(url)
+
+    for src in sources:
+        src = src.strip()
+        if not src:
+            continue
+        if src.split("?")[0].endswith(".gz"):
+            add(src)
+            continue
+        r = HTTP.get(src, timeout=120)
+        r.raise_for_status()
+        text = r.text
+        links = re.findall(r'href="([^"]+\.gz)"', text, re.I) if "<a " in text.lower() else \
+            [l.strip() for l in text.splitlines() if l.strip().endswith(".gz")]
+        for link in links:
+            add(urljoin(src, html.unescape(link)))
+    return parts
 
 
 def src_webdatacommons(db, st, cfg):
-    list_url = cfg.get("file_list_url")
-    if not list_url:
-        log("Web Data Commons: set sources.webdatacommons.file_list_url in config.json")
+    if not (cfg.get("file_list_urls") or cfg.get("file_list_url")):
+        log("Web Data Commons: set sources.webdatacommons.file_list_urls in config.json")
         return False
-    r = HTTP.get(list_url, timeout=60)
-    r.raise_for_status()
-    parts = [urljoin(list_url, l.strip()) for l in r.text.splitlines() if l.strip().endswith(".gz")]
+
+    wanted = None
+    if cfg.get("wanted_only", True):
+        wanted = load_wanted()
+        wanted -= set(db.rows)
+        log(f"Wanted barcodes still missing: {len(wanted):,}")
+        if not wanted:
+            log("Nothing wanted - add barcodes to inbox/wanted_barcodes.txt")
+            return True
+
+    parts = wdc_part_urls(cfg)
     done = set(st.get("done", []))
-    todo = [p for p in parts if p not in done][: cfg.get("parts_per_run", 3)]
+    todo = [p for p in parts if p not in done][: cfg.get("parts_per_run", 50)]
+    partial = st.get("partial") or {}
+    progress = {"found": 0, "line": 0}
+
     for url in todo:
         if minutes_used() > CFG["max_runtime_minutes"]:
             break
-        log(f"WDC part: {url}")
+        skip = partial.get("line", 0) if partial.get("url") == url else 0
+        log(f"WDC part: {url}" + (f" (resuming after line {skip:,})" if skip else ""))
         try:
-            parse_nquads(stream_gz_lines(url), db)
+            parse_nquads(stream_gz_lines(url), db, wanted, skip, progress)
             done.add(url)
             st["done"] = sorted(done)
+            st.pop("partial", None)
+            partial = {}
+        except WdcStop as stop:
+            st["partial"] = {"url": url, "line": int(str(stop))}
+            log(f"Time budget used - will resume this part next run")
             db.save()
+            break
         except Exception as e:
             log(f"WDC part failed: {e}")
-    log(f"WDC progress: {len(done & set(parts))}/{len(parts)} parts")
+        db.save()
+        if wanted is not None and not wanted:
+            break
+
+    st["found_total"] = st.get("found_total", 0) + progress["found"]
+    left = tidy_wanted(db)
+    log(f"WDC progress: {len(done & set(parts))}/{len(parts)} parts, found this run {progress['found']:,}, wanted left {left:,}")
     return True
 
 

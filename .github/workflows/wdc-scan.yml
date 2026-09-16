@@ -1,0 +1,42 @@
+name: Web Data Commons scan (wanted barcodes)
+
+on:
+  schedule:
+    - cron: "0 8,15,22 * * *"   # 3 extra runs a day (Dubai 12:00, 19:00, 02:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: barcode-db
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Scan Web Data Commons for wanted barcodes
+        run: python update_db.py --sources webdatacommons
+
+      - name: Commit changes (runs even if the scan failed or timed out)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898599+github-actions[bot]@users.noreply.github.com"
+          rm -f data/*.tmp meta/*.tmp state.tmp
+          git add -A data meta inbox state.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "WDC scan $(date -u +%F)"
+          git pull --rebase
+          git push
