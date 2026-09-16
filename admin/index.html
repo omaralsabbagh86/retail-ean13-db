@@ -167,6 +167,46 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
 .toast.on{display:block}
 .toast.bad{background:var(--danger); color:#fff}
 .sr{position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap}
+.ver{font-family:var(--body); font-weight:500; font-size:.8rem; opacity:.7; vertical-align:middle}
+.withscan{display:grid; grid-template-columns:1fr auto; gap:6px; align-items:start}
+.scanbtn{width:44px; height:44px; border:1px solid var(--line); border-radius:var(--radius-s); background:var(--surface); cursor:pointer;
+  display:inline-grid; place-items:center; color:var(--ink); padding:0}
+.scanbtn svg{width:24px; height:24px}
+.scanbtn.big{height:auto; width:56px; border:0; border-left:1px solid var(--line); border-radius:0; background:var(--label); color:var(--label-ink)}
+.scanbtn.big svg{width:28px; height:28px}
+.scanlabel{grid-template-columns:1fr auto auto}
+@media (max-width:520px){ .scanbtn.big{width:52px} .scanlabel{grid-template-columns:1fr auto} .scanlabel select{grid-column:1 / -1; max-width:none; border-left:0; border-top:1px solid var(--line); min-height:40px; padding-left:28px} }
+
+dialog.scanner{width:100vw; max-width:100vw; height:100dvh; max-height:100dvh; margin:0; padding:0; border:0; border-radius:0; background:#000; color:#fff;
+  display:none; flex-direction:column}
+dialog.scanner[open]{display:flex}
+dialog.scanner::backdrop{background:#000}
+.sc-top{display:flex; justify-content:space-between; align-items:center; gap:12px; padding:calc(10px + env(safe-area-inset-top)) 14px 10px; background:#12303A}
+.sc-title{font-family:var(--head); font-weight:700; font-size:1.3rem}
+.sc-sub{font-size:.85rem; opacity:.8}
+.sc-done{min-height:44px; padding:0 18px; border:0; border-radius:var(--radius-s); background:#F2C12E; color:#1D1A0E; font-weight:700; cursor:pointer}
+.sc-view{position:relative; flex:1; overflow:hidden; background:#000}
+.sc-view video{position:absolute; inset:0; width:100%; height:100%; object-fit:cover}
+.sc-view video.mirror{transform:scaleX(-1)}
+.sc-frame{position:absolute; left:8%; right:8%; top:32%; height:36%; border:3px solid rgba(255,255,255,.9); border-radius:10px;
+  box-shadow:0 0 0 100vmax rgba(0,0,0,.45); transition:border-color .15s}
+.sc-frame.hit{border-color:#3BD48A}
+.sc-view.haszoom .sc-frame{left:5%; right:68px}
+.laser{position:absolute; left:6%; right:6%; top:50%; height:2px; background:#F2C12E; box-shadow:0 0 8px #F2C12E; animation:laser 1.8s ease-in-out infinite alternate}
+@keyframes laser{from{top:12%}to{top:88%}}
+@media (prefers-reduced-motion: reduce){ .laser{animation:none} }
+.sc-msg{position:absolute; left:12px; right:12px; bottom:16px; background:rgba(0,0,0,.75); padding:12px 14px; border-radius:8px; text-align:center}
+.sc-zoom{position:absolute; right:10px; top:18%; bottom:18%; display:flex; flex-direction:column; align-items:center; gap:8px;
+  background:rgba(0,0,0,.45); border-radius:24px; padding:8px 4px}
+.sc-zoom button{width:40px; height:40px; border-radius:50%; border:0; background:rgba(255,255,255,.18); color:#fff; font-size:1.4rem; cursor:pointer}
+.sc-zoom input{flex:1; writing-mode:vertical-lr; direction:rtl; width:28px; accent-color:#F2C12E}
+.sc-bar{display:flex; gap:10px; align-items:center; padding:10px 14px calc(12px + env(safe-area-inset-bottom)); background:#12303A; flex-wrap:wrap}
+.sc-btn{display:inline-flex; gap:8px; align-items:center; min-height:48px; padding:0 16px; border-radius:24px; border:1px solid rgba(255,255,255,.35);
+  background:transparent; color:#fff; font-weight:600; cursor:pointer}
+.sc-btn svg{width:22px; height:22px}
+.sc-btn[aria-pressed="true"]{background:#F2C12E; color:#1D1A0E; border-color:#F2C12E}
+.sc-engine{margin-left:auto; font-size:.75rem; opacity:.6}
+.toast{inset:16px auto auto 50%; margin:0; border:0}
 .note{border-left:4px solid var(--label); padding:6px 12px; background:var(--paper); border-radius:0 var(--radius-s) var(--radius-s) 0}
 @media (prefers-reduced-motion: reduce){ *{transition:none!important} }
 </style>
@@ -176,7 +216,7 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
 <header class="top">
   <div class="brand">
     <span class="bars" aria-hidden="true"><i style="width:3px"></i><i style="width:1px"></i><i style="width:4px"></i><i style="width:1px"></i><i style="width:2px"></i><i style="width:3px"></i></span>
-    <h1>Barcode database</h1>
+    <h1>Barcode database <span class="ver">v3</span></h1>
   </div>
   <div class="repo-chip" id="repoChip">Not connected</div>
 </header>
@@ -196,7 +236,8 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
     <form id="searchForm" autocomplete="off">
       <label class="f" for="qBarcode">Barcode</label>
       <div class="scanlabel">
-        <input id="qBarcode" inputmode="numeric" placeholder="6291003002052" aria-describedby="qBarcodeHint">
+        <input id="qBarcode" inputmode="numeric" placeholder="6291003002052" aria-describedby="qBarcodeHint" data-scan="ean" data-scan-label="Barcode">
+        <button type="button" class="scanbtn big" data-scan-for="qBarcode" aria-label="Scan barcode with camera"></button>
         <select id="qBarcodeMode" aria-label="Barcode match">
           <option value="exact">Exact</option>
           <option value="starts">Starts with</option>
@@ -210,7 +251,7 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
         <div class="row c2">
           <div>
             <label class="f" for="qText">Description contains</label>
-            <input class="input" id="qText" placeholder="masafi water">
+            <input class="input" id="qText" placeholder="masafi water" data-scan="text" data-scan-label="Description">
           </div>
           <div>
             <label class="f" for="qTextMode">Match</label>
@@ -218,10 +259,10 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
           </div>
         </div>
         <div class="row c4" style="margin-top:12px">
-          <div><label class="f" for="qCFrom">Created from</label><input class="input" type="date" id="qCFrom"></div>
-          <div><label class="f" for="qCTo">Created to</label><input class="input" type="date" id="qCTo"></div>
-          <div><label class="f" for="qMFrom">Modified from</label><input class="input" type="date" id="qMFrom"></div>
-          <div><label class="f" for="qMTo">Modified to</label><input class="input" type="date" id="qMTo"></div>
+          <div><label class="f" for="qCFrom">Created from</label><input class="input" type="date" id="qCFrom" data-scan="date" data-scan-label="Created from"></div>
+          <div><label class="f" for="qCTo">Created to</label><input class="input" type="date" id="qCTo" data-scan="date" data-scan-label="Created to"></div>
+          <div><label class="f" for="qMFrom">Modified from</label><input class="input" type="date" id="qMFrom" data-scan="date" data-scan-label="Modified from"></div>
+          <div><label class="f" for="qMTo">Modified to</label><input class="input" type="date" id="qMTo" data-scan="date" data-scan-label="Modified to"></div>
         </div>
         <p class="small muted">Dates are UTC. Searching without a barcode reads the whole database, which is slow the first time and fast after that.</p>
       </details>
@@ -268,7 +309,7 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
     <p class="muted">Imported rows are marked as your own data, so the daily update never overwrites them.</p>
     <div class="drop" id="drop">
       <p><strong>Choose a .csv, .xlsx or .xls file</strong></p>
-      <p class="small muted">Needs a barcode column and a description column. A created date column is optional.</p>
+      <p class="small muted">Needs a barcode column and a description column. A created date column is optional. Barcodes shorter than 13 digits are completed with leading zeros.</p>
       <input type="file" id="importFile" accept=".csv,.txt,.xlsx,.xls" style="margin-top:8px">
     </div>
   </div>
@@ -339,13 +380,13 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
     <h2>Connect to your GitHub repository</h2>
     <form id="settingsForm" class="row" style="margin-top:12px" autocomplete="off">
       <div class="row c3">
-        <div><label class="f" for="sOwner">GitHub username</label><input class="input" id="sOwner" placeholder="omaralsabbagh86" autocapitalize="off"></div>
-        <div><label class="f" for="sRepo">Repository</label><input class="input" id="sRepo" placeholder="retail-ean13-db" autocapitalize="off"></div>
-        <div><label class="f" for="sBranch">Branch</label><input class="input" id="sBranch" value="main" autocapitalize="off"></div>
+        <div><label class="f" for="sOwner">GitHub username</label><input class="input" id="sOwner" placeholder="omaralsabbagh86" autocapitalize="off" data-scan="text" data-scan-label="GitHub username"></div>
+        <div><label class="f" for="sRepo">Repository</label><input class="input" id="sRepo" placeholder="retail-ean13-db" autocapitalize="off" data-scan="text" data-scan-label="Repository"></div>
+        <div><label class="f" for="sBranch">Branch</label><input class="input" id="sBranch" value="main" autocapitalize="off" data-scan="text" data-scan-label="Branch"></div>
       </div>
       <div>
         <label class="f" for="sToken">Access token</label>
-        <input class="input" id="sToken" type="password" placeholder="github_pat_..." autocapitalize="off" spellcheck="false">
+        <input class="input" id="sToken" type="password" placeholder="github_pat_..." autocapitalize="off" spellcheck="false" data-scan="text" data-scan-label="Access token">
         <p class="small muted">Needed for private repositories and for any change. Create a fine-grained token limited to this one repository with Contents: Read and write, and Actions: Read. It is stored only in this browser.</p>
       </div>
       <label class="check"><input type="checkbox" id="sCache" checked> Keep an offline copy on this device for faster searches</label>
@@ -357,7 +398,17 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
       <div class="hint" id="connResult"></div>
     </form>
   </div>
-  <p class="small muted">Admin app v1</p>
+  <div class="panel">
+    <h2>Barcode scanning</h2>
+    <p class="muted small">Every field with a camera button can be filled by the camera. A hardware (USB or Bluetooth) scanner works in any selected field, and moves on when it sends Enter.</p>
+    <div class="row c2" style="margin-top:10px">
+      <label class="check"><input type="checkbox" id="optBeep" checked> Beep when a barcode is read</label>
+      <label class="check"><input type="checkbox" id="optVibrate" checked> Vibrate when a barcode is read</label>
+      <label class="check"><input type="checkbox" id="optAutoSearch" checked> Search right after scanning into Barcode</label>
+      <label class="check"><input type="checkbox" id="optWedge" checked> Catch hardware scans when no field is selected</label>
+    </div>
+  </div>
+  <p class="small muted">Admin app v3</p>
 </section>
 
 </main>
@@ -369,37 +420,59 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
 
 <dialog id="editDlg">
   <form method="dialog" id="editForm">
-    <div class="dlg-h"><h2 id="editTitle">Edit record</h2><button class="linkbtn" value="cancel" aria-label="Close">Close</button></div>
+    <div class="dlg-h"><h2 id="editTitle">Edit record</h2><button class="linkbtn" value="cancel" formnovalidate aria-label="Close">Close</button></div>
     <div class="dlg-b">
-      <div><label class="f" for="eEan">Barcode (EAN-13)</label><input class="input" id="eEan" inputmode="numeric" required><div class="hint" id="eEanHint"></div></div>
-      <div><label class="f" for="eDesc">Description</label><textarea id="eDesc" maxlength="250" required></textarea></div>
+      <div><label class="f" for="eEan">Barcode (EAN-13)</label><input class="input" id="eEan" inputmode="numeric" required data-scan="ean" data-scan-label="Barcode"><div class="hint" id="eEanHint"></div></div>
+      <div><label class="f" for="eDesc">Description</label><textarea id="eDesc" maxlength="250" required data-scan="text" data-scan-label="Description"></textarea></div>
       <div class="row c2">
-        <div><label class="f" for="eCreated">Created (UTC)</label><input class="input" id="eCreated" placeholder="2026-09-16 08:30"><div class="hint" id="eCreatedHint"></div></div>
+        <div><label class="f" for="eCreated">Created (UTC)</label><input class="input" id="eCreated" placeholder="2026-09-16 08:30" data-scan="datetime" data-scan-label="Created"><div class="hint" id="eCreatedHint"></div></div>
         <div><label class="f" for="eModified">Modified (UTC)</label><input class="input" id="eModified" disabled></div>
       </div>
       <p class="small muted">Modified is set automatically when you save.</p>
     </div>
     <div class="dlg-f">
       <button class="btn danger" type="button" id="eDelete">Delete record</button>
-      <span class="btns"><button class="btn" value="cancel">Cancel</button><button class="btn primary" type="button" id="eSave">Keep change</button></span>
+      <span class="btns"><button class="btn" value="cancel" formnovalidate>Cancel</button><button class="btn primary" type="button" id="eSave">Keep change</button></span>
     </div>
   </form>
 </dialog>
 
 <dialog id="replaceDlg">
   <form method="dialog">
-    <div class="dlg-h"><h2>Find and replace in descriptions</h2><button class="linkbtn" value="cancel">Close</button></div>
+    <div class="dlg-h"><h2>Find and replace in descriptions</h2><button class="linkbtn" value="cancel" formnovalidate>Close</button></div>
     <div class="dlg-b">
       <p class="muted small" id="replaceScope"></p>
-      <div><label class="f" for="rFind">Find</label><input class="input" id="rFind"></div>
-      <div><label class="f" for="rWith">Replace with</label><input class="input" id="rWith"></div>
+      <div><label class="f" for="rFind">Find</label><input class="input" id="rFind" data-scan="text" data-scan-label="Find"></div>
+      <div><label class="f" for="rWith">Replace with</label><input class="input" id="rWith" data-scan="text" data-scan-label="Replace with"></div>
       <label class="check"><input type="checkbox" id="rCase"> Match upper and lower case</label>
     </div>
-    <div class="dlg-f"><span></span><span class="btns"><button class="btn" value="cancel">Cancel</button><button class="btn primary" type="button" id="rApply">Replace</button></span></div>
+    <div class="dlg-f"><span></span><span class="btns"><button class="btn" value="cancel" formnovalidate>Cancel</button><button class="btn primary" type="button" id="rApply">Replace</button></span></div>
   </form>
 </dialog>
 
-<div class="toast" id="toast" role="alert"></div>
+<dialog id="scanner" class="scanner" aria-label="Camera scanner">
+  <div class="sc-top">
+    <div class="sc-head"><div class="sc-title" id="scTitle">Scan</div><div class="sc-sub" id="scSub">Point the camera at a barcode or QR code</div></div>
+    <button type="button" class="sc-done" id="scDone">Done</button>
+  </div>
+  <div class="sc-view" id="scView">
+    <video id="scVideo" playsinline muted autoplay></video>
+    <div class="sc-frame" id="scFrame"><span class="laser"></span></div>
+    <div class="sc-msg" id="scMsg" hidden></div>
+    <div class="sc-zoom" id="scZoomWrap" hidden>
+      <button type="button" id="scZoomIn" aria-label="Zoom in">+</button>
+      <input type="range" id="scZoom" aria-label="Zoom">
+      <button type="button" id="scZoomOut" aria-label="Zoom out">&minus;</button>
+    </div>
+  </div>
+  <div class="sc-bar">
+    <button type="button" class="sc-btn" id="scTorch" hidden aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10v4l-3 4v12h-4V10L7 6z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Flash</span></button>
+    <button type="button" class="sc-btn" id="scFlip" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h3l2-3h6l2 3h3v11H4z M9 13a3 3 0 0 0 6 0 M15 13l1.5-1.5M15 13l-1.5-1.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg><span>Switch camera</span></button>
+    <span class="sc-engine" id="scEngine"></span>
+  </div>
+</dialog>
+
+<div class="toast" id="toast" role="alert" popover="manual"></div>
 
 <script>
 "use strict";
@@ -416,7 +489,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function toast(msg, bad = false, ms = 4000) {
   const t = $("#toast"); t.textContent = msg; t.className = "toast on" + (bad ? " bad" : "");
-  clearTimeout(toast.t); toast.t = setTimeout(() => t.className = "toast", ms);
+  try { if (t.showPopover) { if (t.matches(":popover-open")) t.hidePopover(); t.showPopover(); } } catch {}
+  clearTimeout(toast.t); toast.t = setTimeout(() => { t.className = "toast"; try { t.hidePopover && t.hidePopover(); } catch {} }, ms);
 }
 
 async function pool(items, n, fn) {
@@ -447,11 +521,12 @@ function checkDigit(first12) {
   for (let i = 0; i < 12; i++) s += (+first12[i]) * (i % 2 ? 3 : 1);
   return (10 - s % 10) % 10;
 }
-function toEan13(v, fromNumber = false) {
+/* Any number shorter than 13 digits is completed with leading zeros (123457 -> 0000000123457).
+   A 14-digit code starting with 0 has that zero removed. */
+function toEan13(v) {
   let c = String(v ?? "").replace(/\D/g, "");
-  if (fromNumber && c.length > 0 && c.length < 13) c = c.padStart(13, "0");
   if (c.length === 14 && c[0] === "0") c = c.slice(1);
-  if (c.length === 12) c = "0" + c;
+  if (c.length > 0 && c.length < 13) c = c.padStart(13, "0");
   if (c.length !== 13 || /^0+$/.test(c)) return null;
   return checkDigit(c) === +c[12] ? c : null;
 }
@@ -764,14 +839,33 @@ function openTab(name) { $(`nav.tabs button[data-tab="${name}"]`).click(); }
 /* ============================================================ SEARCH */
 let results = [], page = 0, selected = new Set(), pending = [];
 const bcInput = $("#qBarcode");
+/* live hint under an EAN-13 field, e.g. "Completed to 0000000123457" */
+function eanHint(input, hint, badText) {
+  const raw = input.value.trim(), digits = raw.replace(/\D/g, "");
+  hint.classList.remove("bad");
+  if (!digits) { hint.textContent = ""; return; }
+  if (/\D/.test(raw.replace(/\s/g, ""))) { hint.textContent = "Only numbers are allowed in an EAN-13 barcode."; hint.classList.add("bad"); return; }
+  if (digits.length > 13 && !(digits.length === 14 && digits[0] === "0")) { hint.textContent = "Too long: an EAN-13 has 13 digits."; hint.classList.add("bad"); return; }
+  const e = toEan13(digits);
+  if (e && e !== digits) hint.textContent = `Completed to ${e}`;
+  else if (e) hint.textContent = "Valid EAN-13";
+  else { hint.textContent = `${digits.padStart(13, "0").slice(-13)}: check digit doesn't match. ${badText}`; hint.classList.add("bad"); }
+}
+/* replace the typed number with its completed 13-digit form */
+function completeEan(input) {
+  const raw = input.value.trim();
+  if (!raw || /\D/.test(raw.replace(/\s/g, ""))) return;
+  const e = toEan13(raw);
+  if (e && e !== raw) { input.value = e; input.dispatchEvent(new Event("input", { bubbles: true })); }
+}
 bcInput.addEventListener("input", () => {
-  const v = bcInput.value.replace(/\D/g, ""), h = $("#qBarcodeHint");
-  h.classList.remove("bad");
-  if ($("#qBarcodeMode").value === "exact" && v.length >= 12) {
-    if (toEan13(v)) h.textContent = "Valid EAN-13";
-    else { h.textContent = "Check digit doesn't match. Use Starts with or Contains to search anyway."; h.classList.add("bad"); }
-  } else h.textContent = "";
+  if ($("#qBarcodeMode").value === "exact") eanHint(bcInput, $("#qBarcodeHint"), "Use Starts with or Contains to search anyway.");
+  else $("#qBarcodeHint").textContent = "";
 });
+bcInput.addEventListener("blur", () => { if ($("#qBarcodeMode").value === "exact") completeEan(bcInput); });
+$("#qBarcodeMode").addEventListener("change", () => bcInput.dispatchEvent(new Event("input")));
+$("#eEan").addEventListener("input", () => eanHint($("#eEan"), $("#eEanHint"), "Check the number."));
+$("#eEan").addEventListener("blur", () => completeEan($("#eEan")));
 
 function readFilters() {
   return {
@@ -782,7 +876,7 @@ function readFilters() {
 }
 function rowMatcher(f) {
   const words = f.text ? f.text.split(/\s+/).filter(Boolean) : [];
-  const exact = f.bcMode === "exact" ? (toEan13(f.bc) || f.bc) : null;
+  const exact = f.bcMode === "exact" ? (toEan13(f.bc) || f.bc.padStart(13, "0")) : null;
   return (ean, desc, created, modified) => {
     if (f.bc) {
       if (exact !== null) { if (ean !== exact) return false; }
@@ -811,6 +905,7 @@ function keysFor(f, snap) {
 
 $("#searchForm").addEventListener("submit", async e => {
   e.preventDefault();
+  if ($("#qBarcodeMode").value === "exact") completeEan(bcInput);
   const f = readFilters();
   if (!f.bc && !f.text && !f.cFrom && !f.cTo && !f.mFrom && !f.mTo) { toast("Enter a barcode, a description or a date to search."); return; }
   if (pending.length && !confirm("You have changes that are not saved yet. Searching again will discard them. Continue?")) return;
@@ -925,6 +1020,7 @@ function openEditor(row) {
   $("#eModified").value = row ? showTs(row.modified) : "";
   $("#eDelete").hidden = !row;
   $("#eEanHint").textContent = ""; $("#eCreatedHint").textContent = "";
+  if ($("#eEan").value) eanHint($("#eEan"), $("#eEanHint"), "Check the number.");
   $("#editDlg").showModal();
 }
 $("#addBtn").addEventListener("click", () => openEditor(null));
@@ -934,7 +1030,8 @@ $("#eSave").addEventListener("click", async () => {
   const createdRaw = $("#eCreated").value.trim(), created = createdRaw ? normTs(createdRaw) : "";
   let ok = true;
   $("#eEanHint").className = "hint"; $("#eCreatedHint").className = "hint";
-  if (!ean) { $("#eEanHint").textContent = "Enter a valid 13-digit EAN (12-digit UPC is accepted too)."; $("#eEanHint").classList.add("bad"); ok = false; }
+  if (ean) $("#eEan").value = ean;
+  if (!ean) { $("#eEanHint").textContent = "Not a valid EAN-13. Shorter numbers are completed with leading zeros, but the last digit must be the correct check digit."; $("#eEanHint").classList.add("bad"); ok = false; }
   if (desc.length < 3) { toast("Description needs at least 3 characters."); ok = false; }
   if (created === null) { $("#eCreatedHint").textContent = "Use the format 2026-09-16 08:30"; $("#eCreatedHint").classList.add("bad"); ok = false; }
   if (!ok) return;
@@ -1122,10 +1219,11 @@ $("#imCheck").addEventListener("click", async () => {
     const rawB = row[bi], rawD = row[di];
     if ((rawB === "" || rawB == null) && (rawD === "" || rawD == null)) continue;
     let ean = null;
-    if (typeof rawB === "number") ean = toEan13(Math.round(rawB).toString(), true);
+    if (typeof rawB === "number") ean = toEan13(Math.round(rawB).toString());
     else if (/e\+/i.test(String(rawB))) { issues.push([line, rawB, rawD, "Barcode is in scientific notation. Format the column as Text in Excel and type the barcodes again."]); continue; }
+    else if (/[^\d\s-]/.test(String(rawB ?? "").trim())) { issues.push([line, rawB, rawD, "Barcode contains letters or symbols"]); continue; }
     else ean = toEan13(rawB);
-    if (!ean) { issues.push([line, rawB, rawD, "Not a valid EAN-13 (wrong length or check digit)"]); continue; }
+    if (!ean) { issues.push([line, rawB, rawD, String(rawB ?? "").replace(/\D/g, "").length > 13 ? "Too many digits for an EAN-13" : "Check digit doesn't match (after completing with leading zeros)"]); continue; }
     const desc = String(rawD ?? "").replace(/\s+/g, " ").trim().slice(0, 250);
     if (desc.length < 3) { issues.push([line, rawB, rawD, "Description is empty or too short"]); continue; }
     let created;
@@ -1266,6 +1364,329 @@ $("#clearCache").addEventListener("click", async () => {
 });
 $("#forget").addEventListener("click", () => {
   S.token = ""; localStorage.setItem(LS, JSON.stringify(S)); fillSettings(); toast("Token removed from this device.");
+});
+
+/* ============================================================ BARCODE SCANNING */
+const SCAN_LS = "ean13admin.scan";
+let SO = Object.assign({ beep: true, vibrate: true, autoSearch: true, wedge: true, deviceId: "" }, JSON.parse(localStorage.getItem(SCAN_LS) || "{}"));
+const saveSO = () => localStorage.setItem(SCAN_LS, JSON.stringify(SO));
+const CAMERA_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7V4h4M17 4h4v3M21 17v3h-4M7 20H3v-3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M7 8v8M10 8v8M12.5 8v8M15 8v8M17 8v8" stroke="currentColor" stroke-width="1.6"/></svg>';
+
+/* ZXing is the fallback decoder (used where the browser has no built-in barcode detector) */
+let zxReady;
+function loadZXing() {
+  if (window.ZXing) return Promise.resolve();
+  return zxReady ||= new Promise((res, rej) => {
+    const urls = ["https://cdn.jsdelivr.net/npm/@zxing/library@0.21.3/umd/index.min.js",
+                  "https://unpkg.com/@zxing/library@0.21.3/umd/index.min.js"];
+    const next = () => {
+      const u = urls.shift();
+      if (!u) { zxReady = null; return rej(new Error("Scanner library could not load. Check your internet connection.")); }
+      const sc = document.createElement("script"); sc.src = u; sc.onload = () => res(); sc.onerror = () => { sc.remove(); next(); };
+      document.head.appendChild(sc);
+    };
+    next();
+  });
+}
+
+const Scanner = (() => {
+  const dlg = $("#scanner"), video = $("#scVideo"), frame = $("#scFrame"), msg = $("#scMsg");
+  const canvas = document.createElement("canvas"), ctx = canvas.getContext("2d", { willReadFrequently: true });
+  let stream = null, track = null, running = false, timer = null, onResult = null;
+  let detector = null, zxReader = null, zxRound = 0, ticks = 0, lastRead = { text: "", at: 0 }, audio = null, busy = false;
+
+  const CHECKSUM_FORMATS = new Set(["ean_13", "ean_8", "upc_a", "upc_e", "EAN_13", "EAN_8", "UPC_A", "UPC_E", "qr_code", "QR_CODE", "data_matrix", "DATA_MATRIX", "code_128", "CODE_128"]);
+
+  function showMsg(t) { msg.hidden = !t; msg.textContent = t || ""; }
+
+  function beep() {
+    if (!SO.beep) return;
+    try {
+      audio ||= new (window.AudioContext || window.webkitAudioContext)();
+      const o = audio.createOscillator(), g = audio.createGain();
+      o.type = "square"; o.frequency.value = 2200; g.gain.value = 0.08;
+      o.connect(g); g.connect(audio.destination); o.start(); o.stop(audio.currentTime + 0.09);
+    } catch {}
+  }
+
+  async function prepareDecoders() {
+    detector = null; zxReader = null;
+    if ("BarcodeDetector" in window) {
+      try {
+        const formats = await BarcodeDetector.getSupportedFormats();
+        if (formats && formats.length) detector = new BarcodeDetector({ formats });
+      } catch { detector = null; }
+    }
+    try {
+      await loadZXing();
+      const Z = window.ZXing, hints = new Map();
+      hints.set(Z.DecodeHintType.POSSIBLE_FORMATS, [Z.BarcodeFormat.EAN_13, Z.BarcodeFormat.EAN_8, Z.BarcodeFormat.UPC_A, Z.BarcodeFormat.UPC_E,
+        Z.BarcodeFormat.CODE_128, Z.BarcodeFormat.CODE_39, Z.BarcodeFormat.CODE_93, Z.BarcodeFormat.ITF, Z.BarcodeFormat.CODABAR,
+        Z.BarcodeFormat.QR_CODE, Z.BarcodeFormat.DATA_MATRIX, Z.BarcodeFormat.PDF_417]);
+      hints.set(Z.DecodeHintType.TRY_HARDER, true);
+      zxReader = new Z.MultiFormatReader(); zxReader.setHints(hints);
+    } catch (e) { if (!detector) throw e; }
+    $("#scEngine").textContent = detector ? "Fast built-in scanner" : "Standard scanner";
+  }
+
+  function decodeZX() {
+    if (!zxReader) return null;
+    const Z = window.ZXing, vw = video.videoWidth, vh = video.videoHeight;
+    // alternate between the whole picture and bands around the aiming frame, and between two binarizers
+    const windows = [[0, 0, 1, 1], [0.08, 0.3, 0.84, 0.4], [0.02, 0.4, 0.96, 0.2], [0.2, 0.2, 0.6, 0.6]];
+    const w = windows[zxRound % windows.length], useHybrid = (zxRound++ % 2) === 0;
+    const sx = w[0] * vw, sy = w[1] * vh, sw = w[2] * vw, sh = w[3] * vh;
+    const scale = Math.min(1, 1280 / sw);
+    canvas.width = Math.max(1, Math.round(sw * scale)); canvas.height = Math.max(1, Math.round(sh * scale));
+    ctx.drawImage(video, sx, sy, sw, sh, 0, 0, canvas.width, canvas.height);
+    try {
+      const src = new Z.HTMLCanvasElementLuminanceSource(canvas);
+      const bin = useHybrid ? new Z.HybridBinarizer(src) : new Z.GlobalHistogramBinarizer(src);
+      const r = zxReader.decodeWithState(new Z.BinaryBitmap(bin));
+      return { text: r.getText(), format: Z.BarcodeFormat[r.getBarcodeFormat()] };
+    } catch { return null; } finally { try { zxReader.reset(); } catch {} }
+  }
+
+  async function tick() {
+    if (!running) return;
+    if (!busy && video.readyState >= 2 && video.videoWidth) {
+      busy = true;
+      let found = null;
+      try {
+        if (detector) {
+          try { const r = await detector.detect(video); if (r && r.length) found = { text: r[0].rawValue, format: r[0].format }; }
+          catch { detector = null; }
+        }
+        // ZXing runs every frame without a built-in detector, and as a backup every 3rd frame with one
+        if (!found && (!detector || (++ticks % 3 === 0))) found = decodeZX();
+      } finally { busy = false; }
+      if (found && found.text && accept(found)) return hit(found);
+    }
+    timer = setTimeout(tick, detector ? 60 : 90);
+  }
+
+  /* formats without a check digit must be read twice in a row before they are accepted */
+  function accept(f) {
+    if (CHECKSUM_FORMATS.has(f.format)) return true;
+    const now = Date.now();
+    if (lastRead.text === f.text && now - lastRead.at < 1200) return true;
+    lastRead = { text: f.text, at: now }; return false;
+  }
+
+  function hit(found) {
+    running = false;
+    frame.classList.add("hit");
+    beep();
+    if (SO.vibrate && navigator.vibrate) navigator.vibrate(90);
+    const cb = onResult;
+    setTimeout(() => { close(); cb && cb(found.text, found.format); }, 180);
+  }
+
+  function capabilities() {
+    try { return track && track.getCapabilities ? track.getCapabilities() : {}; } catch { return {}; }
+  }
+
+  function setupControls() {
+    const caps = capabilities(), settings = track.getSettings ? track.getSettings() : {};
+    const torchBtn = $("#scTorch");
+    torchBtn.hidden = !caps.torch; torchBtn.setAttribute("aria-pressed", "false");
+    const zw = $("#scZoomWrap"), z = $("#scZoom");
+    if (caps.zoom && caps.zoom.max > caps.zoom.min) {
+      zw.hidden = false; $("#scView").classList.add("haszoom");
+      z.min = caps.zoom.min; z.max = caps.zoom.max; z.step = caps.zoom.step || 0.1; z.value = settings.zoom || caps.zoom.min;
+    } else { zw.hidden = true; $("#scView").classList.remove("haszoom"); }
+    const facingUser = settings.facingMode === "user" || /front|user|facetime/i.test(track.label || "");
+    video.classList.toggle("mirror", !!facingUser);
+  }
+
+  async function listCameras() {
+    try { return (await navigator.mediaDevices.enumerateDevices()).filter(d => d.kind === "videoinput"); } catch { return []; }
+  }
+
+  async function startStream(deviceId) {
+    stopStream();
+    const base = { width: { ideal: 1920 }, height: { ideal: 1080 } };
+    const video_c = deviceId ? { ...base, deviceId: { exact: deviceId } } : { ...base, facingMode: { ideal: "environment" } };
+    try { stream = await navigator.mediaDevices.getUserMedia({ audio: false, video: video_c }); }
+    catch (e) {
+      if (deviceId && (e.name === "OverconstrainedError" || e.name === "NotFoundError")) { SO.deviceId = ""; saveSO(); return startStream(""); }
+      throw e;
+    }
+    track = stream.getVideoTracks()[0];
+    try { await track.applyConstraints({ advanced: [{ focusMode: "continuous" }] }); } catch {}
+    video.srcObject = stream;
+    try { await video.play(); } catch {}
+    setupControls();
+    const cams = await listCameras();
+    $("#scFlip").hidden = cams.length < 2;
+  }
+
+  function stopStream() {
+    clearTimeout(timer);
+    if (track) { try { track.applyConstraints({ advanced: [{ torch: false }] }).catch(() => {}); } catch {} }
+    if (stream) stream.getTracks().forEach(t => t.stop());
+    stream = null; track = null; video.srcObject = null;
+  }
+
+  async function open({ title, onResult: cb }) {
+    onResult = cb;
+    $("#scTitle").textContent = "Scan " + (title || "");
+    frame.classList.remove("hit"); showMsg(""); $("#scTorch").hidden = true; $("#scZoomWrap").hidden = true; $("#scFlip").hidden = true;
+    lastRead = { text: "", at: 0 }; zxRound = 0; ticks = 0;
+    try { audio ||= new (window.AudioContext || window.webkitAudioContext)(); audio.resume(); } catch {}
+    if (!dlg.open) dlg.showModal();
+    if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+      showMsg("This browser can't use the camera here. Open the app from its https:// GitHub Pages link, or use a hardware scanner."); return;
+    }
+    showMsg("Starting camera");
+    try {
+      await prepareDecoders();
+      await startStream(SO.deviceId);
+      if (!dlg.open) { stopStream(); return; }
+      showMsg(""); running = true; tick();
+    } catch (e) {
+      stopStream();
+      const m = e.name === "NotAllowedError" ? "Camera access is blocked. Allow the camera for this site in the browser settings, then try again."
+        : e.name === "NotFoundError" ? "No camera was found on this device."
+        : e.name === "NotReadableError" ? "The camera is in use by another app. Close it and try again."
+        : (e.message || "The camera could not start.");
+      showMsg(m);
+    }
+  }
+
+  function close() {
+    running = false; stopStream(); frame.classList.remove("hit");
+    if (dlg.open) dlg.close();
+  }
+
+  $("#scDone").addEventListener("click", close);
+  dlg.addEventListener("cancel", e => { e.preventDefault(); close(); });
+  document.addEventListener("visibilitychange", () => { if (document.hidden && dlg.open) close(); });
+
+  $("#scTorch").addEventListener("click", async () => {
+    if (!track) return;
+    const btn = $("#scTorch"), on = btn.getAttribute("aria-pressed") !== "true";
+    try { await track.applyConstraints({ advanced: [{ torch: on }] }); btn.setAttribute("aria-pressed", String(on)); }
+    catch { toast("Flash is not available on this camera."); }
+  });
+  const applyZoom = async v => {
+    if (!track) return;
+    const z = $("#scZoom"); v = Math.min(+z.max, Math.max(+z.min, v)); z.value = v;
+    try { await track.applyConstraints({ advanced: [{ zoom: v }] }); } catch {}
+  };
+  $("#scZoom").addEventListener("input", e => applyZoom(+e.target.value));
+  $("#scZoomIn").addEventListener("click", () => { const z = $("#scZoom"); applyZoom(+z.value + (z.max - z.min) / 10); });
+  $("#scZoomOut").addEventListener("click", () => { const z = $("#scZoom"); applyZoom(+z.value - (z.max - z.min) / 10); });
+
+  $("#scFlip").addEventListener("click", async () => {
+    const cams = await listCameras(); if (cams.length < 2) return;
+    const current = track && track.getSettings ? track.getSettings().deviceId : "";
+    const idx = cams.findIndex(c => c.deviceId === current);
+    const nextCam = cams[(idx + 1) % cams.length];
+    running = false; clearTimeout(timer);
+    try {
+      await startStream(nextCam.deviceId);
+      SO.deviceId = nextCam.deviceId; saveSO();
+      running = true; tick();
+    } catch (e) { showMsg("That camera could not start. Tap Switch camera again."); }
+  });
+
+  return { open, close, isOpen: () => dlg.open };
+})();
+
+/* turn a scanned value into what each field expects */
+function cleanScanForEan(text) {
+  let t = String(text).replace(/[\x1D\u001d]/g, "").trim();
+  const digits = t.replace(/\D/g, "");
+  // GS1 barcodes such as (01)06291003002052... contain the product GTIN after "01"
+  const gs1 = t.match(/\(01\)\s*(\d{14})/) || (digits.length > 16 && digits.startsWith("01") ? [null, digits.slice(2, 16)] : null);
+  if (gs1) { const e = toEan13(gs1[1]); if (e) return e; }
+  if (/^[\d\s-]+$/.test(t)) return toEan13(digits) || digits;
+  return digits;
+}
+function applyScan(input, text) {
+  const kind = input.dataset.scan;
+  let v = String(text).trim();
+  if (kind === "ean") v = cleanScanForEan(v);
+  else if (kind === "date" || kind === "datetime") {
+    const t = normTs(v);
+    if (!t) { toast(`"${v}" is not a date. Scanned dates must look like 2026-09-16.`, true); return; }
+    v = kind === "date" ? t.slice(0, 10) : showTs(t);
+  } else if (input.tagName !== "TEXTAREA") v = v.replace(/\s*[\r\n]+\s*/g, " ");
+  input.value = v;
+  input.dispatchEvent(new Event("input", { bubbles: true }));
+  afterScan(input);
+}
+/* what happens after a field is filled by camera or hardware scanner */
+function afterScan(input) {
+  const id = input.id;
+  if (id === "qBarcode") {
+    if (SO.autoSearch && input.value) $("#searchForm").requestSubmit();
+    else input.focus();
+    return;
+  }
+  const order = { eEan: "eDesc", eDesc: "eCreated", rFind: "rWith", sOwner: "sRepo", sRepo: "sBranch", sBranch: "sToken" };
+  if (order[id]) { const n = document.getElementById(order[id]); n.focus(); if (n.select) n.select(); return; }
+  input.focus();
+}
+
+/* add a camera button to every scannable field */
+function labelFor(input) { return input.dataset.scanLabel || (document.querySelector(`label[for="${input.id}"]`) || {}).textContent || ""; }
+$$("[data-scan]").forEach(input => {
+  if (input.id === "qBarcode") return;            // has its own large button
+  const wrap = document.createElement("div"); wrap.className = "withscan";
+  input.parentNode.insertBefore(wrap, input); wrap.appendChild(input);
+  const b = document.createElement("button");
+  b.type = "button"; b.className = "scanbtn"; b.dataset.scanFor = input.id; b.setAttribute("aria-label", "Scan into " + labelFor(input));
+  wrap.appendChild(b);
+});
+$$(".scanbtn").forEach(b => { b.innerHTML = CAMERA_ICON; b.title = b.getAttribute("aria-label"); });
+document.addEventListener("click", e => {
+  const b = e.target.closest(".scanbtn"); if (!b) return;
+  const input = document.getElementById(b.dataset.scanFor);
+  Scanner.open({ title: labelFor(input), onResult: text => applyScan(input, text) });
+});
+
+/* hardware scanners type fast and finish with Enter */
+const ENTER_NEXT = { eEan: "eDesc", eDesc: "eCreated", eCreated: "eSave", rFind: "rWith", rWith: "rApply" };
+document.addEventListener("keydown", e => {
+  const t = e.target;
+  if (e.key === "Enter" && t && ENTER_NEXT[t.id] && !(t.tagName === "TEXTAREA" && e.shiftKey)) {
+    e.preventDefault();
+    if (t.dataset.scan === "ean") t.value = cleanScanForEan(t.value);
+    const n = document.getElementById(ENTER_NEXT[t.id]);
+    if (n.tagName === "BUTTON") n.click(); else { n.focus(); if (n.select) n.select(); }
+  }
+}, true);
+$("#qBarcode").addEventListener("keydown", e => {
+  if (e.key === "Enter") { e.preventDefault(); const v = $("#qBarcode"); if (/\D/.test(v.value) && /\d{8,}/.test(v.value)) v.value = cleanScanForEan(v.value); $("#searchForm").requestSubmit(); }
+});
+
+/* scans that arrive while no field is selected go to the barcode field in view */
+let wedge = { buf: "", last: 0 };
+document.addEventListener("keydown", e => {
+  if (!SO.wedge || Scanner.isOpen()) return;
+  const t = e.target;
+  if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.tagName === "SELECT" || t.isContentEditable)) { wedge.buf = ""; return; }
+  if (e.ctrlKey || e.altKey || e.metaKey) return;
+  const now = performance.now();
+  if (now - wedge.last > 60) wedge.buf = "";
+  wedge.last = now;
+  if (e.key === "Enter" || e.key === "Tab") {
+    if (wedge.buf.length >= 6) {
+      e.preventDefault();
+      const target = $("#editDlg").open ? $("#eEan") : ($("#tab-search").hidden ? null : $("#qBarcode"));
+      if (target) { target.value = cleanScanForEan(wedge.buf); target.dispatchEvent(new Event("input", { bubbles: true })); afterScan(target); }
+    }
+    wedge.buf = ""; return;
+  }
+  if (e.key.length === 1) wedge.buf += e.key;
+});
+
+/* scanning settings */
+[["optBeep", "beep"], ["optVibrate", "vibrate"], ["optAutoSearch", "autoSearch"], ["optWedge", "wedge"]].forEach(([id, key]) => {
+  const el = document.getElementById(id); el.checked = !!SO[key];
+  el.addEventListener("change", () => { SO[key] = el.checked; saveSO(); });
 });
 
 fillSettings();
