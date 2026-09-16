@@ -1,0 +1,83 @@
+{
+ "last_run": "2026-09-16T17:42:53Z",
+ "records_by_source": {
+  "openfacts": 3570329
+ },
+ "sources": {
+  "discogs": {},
+  "item_master": {},
+  "lookup_apis": {},
+  "openfacts": {
+   "last_result": {
+    "added": 3570329,
+    "updated": 12063
+   },
+   "last_success": "2026-09-16T17:42:53Z",
+   "processed_deltas": [
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788394705_1788481108.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788481108_1788567533.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788567533_1788653912.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788653912_1788740312.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788740312_1788826706.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788826706_1788913108.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788913108_1788999587.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788999587_1789085905.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789085905_1789172307.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789172307_1789258748.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789258748_1789345144.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789345144_1789431506.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789431506_1789517907.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788415813_1788503475.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788503475_1788589401.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788589401_1788675653.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788675653_1788761472.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788761472_1788847691.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788847691_1788934590.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788934590_1789022454.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789022454_1789107652.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789107652_1789194136.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789194136_1789281238.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789281238_1789367534.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789367534_1789452670.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789452670_1789538777.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788394560_1788480962.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788480962_1788567361.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788567361_1788653765.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788653765_1788740161.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788740161_1788826561.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788826561_1788912960.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788912960_1788999401.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788999401_1789085759.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789085759_1789172163.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789172163_1789258603.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789258603_1789344996.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789344996_1789431359.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789431359_1789517760.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788404521_1788490921.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788490921_1788577321.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788577321_1788663725.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788663725_1788750119.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788750119_1788836520.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788836520_1788922920.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788922920_1789009366.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789009366_1789095722.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789095722_1789182129.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789182129_1789268555.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789268555_1789354951.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789354951_1789441320.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789441320_1789527724.json.gz"
+   ],
+   "seeded": {
+    "beauty": "2026-09-16T17:42:53Z",
+    "food": "2026-09-16T17:42:53Z",
+    "petfood": "2026-09-16T17:42:53Z",
+    "products": "2026-09-16T17:42:53Z"
+   }
+  },
+  "openlibrary": {},
+  "usda": {},
+  "webdatacommons": {},
+  "wikidata": {}
+ },
+ "total_records": 3570329
+}
