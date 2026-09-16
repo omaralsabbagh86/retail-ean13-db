@@ -152,11 +152,14 @@ def ean_check_digit(first12):
     return (10 - sum(int(c) * (3 if i % 2 else 1) for i, c in enumerate(first12)) % 10) % 10
 
 
-def to_ean13(code):
-    """Normalise to a valid EAN-13 or return None."""
+def to_ean13(code, pad_short=False):
+    """Normalise to a valid EAN-13 or return None.
+    pad_short=True completes any shorter number with leading zeros (used for your own item master)."""
     code = re.sub(r"\D", "", str(code or ""))
     if len(code) == 14 and code.startswith("0"):
         code = code[1:]
+    if pad_short and 0 < len(code) < 13:
+        code = code.zfill(13)
     if len(code) == 12:
         code = "0" + code
     if len(code) != 13 or int(code) == 0:
@@ -210,6 +213,7 @@ class Database:
         self.ts = now()
         self.skip = tuple(CFG["skip_prefixes"])
         self.maxlen = CFG["max_description_length"]
+        self.pad_short = False
         self.deleted = set()    # barcodes removed in the admin app - never re-added automatically
 
     @staticmethod
@@ -246,10 +250,11 @@ class Database:
         self.current = source
         self.stats[source] = {"added": 0, "updated": 0}
         self.seen = set() if CFG["sources"][source].get("first_wins") else None
+        self.pad_short = source in ("item_master", "manual")
 
     def upsert(self, code, desc):
         source = self.current
-        ean = to_ean13(code)
+        ean = to_ean13(code, self.pad_short)
         if not ean or ean.startswith(self.skip) or ean in self.deleted:
             return False
         desc = clean(desc)[: self.maxlen]
