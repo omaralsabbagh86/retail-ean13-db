@@ -232,7 +232,7 @@ dialog.scanner::backdrop{background:#000}
 <header class="top">
   <div class="brand">
     <span class="bars" aria-hidden="true"><i style="width:3px"></i><i style="width:1px"></i><i style="width:4px"></i><i style="width:1px"></i><i style="width:2px"></i><i style="width:3px"></i></span>
-    <h1>Barcode database <span class="ver">v6</span></h1>
+    <h1>Barcode database <span class="ver">v7</span></h1>
   </div>
   <div class="repo-chip" id="repoChip">Not connected</div>
 </header>
@@ -426,7 +426,7 @@ dialog.scanner::backdrop{background:#000}
       <label class="check"><input type="checkbox" id="optFlash"> Turn on the flash when the camera opens</label>
     </div>
   </div>
-  <p class="small muted">Admin app v6</p>
+  <p class="small muted">Admin app v7</p>
 </section>
 
 </main>
@@ -963,7 +963,9 @@ $("#searchForm").addEventListener("submit", async e => {
 });
 
 $("#clearBtn").addEventListener("click", () => {
-  $("#searchForm").reset(); $("#qBarcodeHint").textContent = "";
+  $("#searchForm").reset();
+  resetBarcodeField(bcInput);      // yellow accent again, no Exist/New item message or old description
+  bcInput.focus();
   if (!pending.length) { results = []; selected.clear(); renderResults(); }
 });
 
@@ -1708,6 +1710,15 @@ function clearExists(input) {
   const el = document.getElementById(STATUS_FOR[input.id]); if (el) { el.className = "exists"; el.innerHTML = ""; }
   setFound(input, null);
 }
+/* back to the default look: yellow accent, empty hint, no existence message */
+function resetBarcodeField(input) {
+  existsSeq++;                                   // ignore any database check still running
+  clearExists(input);
+  const hint = document.getElementById(input.id + "Hint");
+  if (hint) { hint.textContent = ""; hint.classList.remove("bad"); }
+}
+$("#searchForm").addEventListener("reset", () => setTimeout(() => resetBarcodeField(bcInput), 0));
+$("#editDlg").addEventListener("close", () => { $("#eEan").value = ""; resetBarcodeField($("#eEan")); });
 async function checkExists(input) {
   const el = document.getElementById(STATUS_FOR[input.id]); if (!el) return;
   const ean = toEan13(input.value);
