@@ -168,6 +168,13 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
 .toast.on{display:block}
 .toast.bad{background:var(--danger); color:#fff}
 .sr{position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap}
+/* barcode accent turns green when the barcode is already in the database */
+.scanlabel.found{border-color:#1E7552}
+.scanlabel.found::before{background:repeating-linear-gradient(180deg, #2E9E6E 0 6px, #0F3D2A 6px 8px)}
+.scanlabel.found .scanbtn.big{background:#1E7552; color:#fff}
+.scanlabel.found:focus-within{box-shadow:0 0 0 3px #3BB67F}
+#eEan.found{border-color:#1E7552; box-shadow:inset 6px 0 0 #1E7552; padding-left:18px}
+#eEan.found:focus-visible{outline-color:#3BB67F}
 .exists{font-weight:600; min-height:0; margin-top:4px; display:flex; gap:8px; align-items:baseline; flex-wrap:wrap}
 .exists:empty{display:none}
 .exists b{font-family:var(--head); font-size:1.15rem; letter-spacing:.02em; padding:1px 8px; border-radius:3px}
@@ -225,7 +232,7 @@ dialog.scanner::backdrop{background:#000}
 <header class="top">
   <div class="brand">
     <span class="bars" aria-hidden="true"><i style="width:3px"></i><i style="width:1px"></i><i style="width:4px"></i><i style="width:1px"></i><i style="width:2px"></i><i style="width:3px"></i></span>
-    <h1>Barcode database <span class="ver">v5</span></h1>
+    <h1>Barcode database <span class="ver">v6</span></h1>
   </div>
   <div class="repo-chip" id="repoChip">Not connected</div>
 </header>
@@ -419,7 +426,7 @@ dialog.scanner::backdrop{background:#000}
       <label class="check"><input type="checkbox" id="optFlash"> Turn on the flash when the camera opens</label>
     </div>
   </div>
-  <p class="small muted">Admin app v5</p>
+  <p class="small muted">Admin app v6</p>
 </section>
 
 </main>
@@ -1033,6 +1040,7 @@ function openEditor(row) {
   $("#eEanHint").textContent = ""; $("#eCreatedHint").textContent = "";
   if ($("#eEan").value) eanHint($("#eEan"), $("#eEanHint"), "Check the number.");
   const st = $("#eEanStatus"); if (st) { st.className = "exists"; st.innerHTML = ""; }
+  setFound($("#eEan"), null);
   $("#editDlg").showModal();
 }
 $("#addBtn").addEventListener("click", () => openEditor(null));
@@ -1501,7 +1509,7 @@ const Scanner = (() => {
   function setupControls() {
     const caps = capabilities(), settings = track.getSettings ? track.getSettings() : {};
     const torchBtn = $("#scTorch");
-    torchBtn.hidden = !caps.torch; torchBtn.setAttribute("aria-pressed", "false");
+    torchBtn.setAttribute("aria-pressed", "false");
     const zw = $("#scZoomWrap"), z = $("#scZoom");
     if (caps.zoom && caps.zoom.max > caps.zoom.min) {
       zw.hidden = false; $("#scView").classList.add("haszoom");
@@ -1509,6 +1517,7 @@ const Scanner = (() => {
     } else { zw.hidden = true; $("#scView").classList.remove("haszoom"); }
     const facingUser = settings.facingMode === "user" || /front|user|facetime/i.test(track.label || "");
     video.classList.toggle("mirror", !!facingUser);
+    torchBtn.hidden = !!facingUser;          // shown for every rear camera; checked properly when tapped
   }
 
   async function listCameras() {
@@ -1529,11 +1538,59 @@ const Scanner = (() => {
     video.srcObject = stream;
     try { await video.play(); } catch {}
     setupControls();
-    if (SO.flash && capabilities().torch) {
-      try { await track.applyConstraints({ advanced: [{ torch: true }] }); $("#scTorch").setAttribute("aria-pressed", "true"); } catch {}
-    }
     const cams = await listCameras();
     $("#scFlip").hidden = cams.length < 2;
+  }
+
+  /* Chrome on Android sometimes reports the flash only a moment after the camera starts */
+  async function hasTorch() {
+    for (const wait of [0, 300, 900]) {
+      if (wait) await sleep(wait);
+      if (!track) return false;
+      if (capabilities().torch) return true;
+    }
+    return false;
+  }
+  async function setTorch(on) {
+    if (!track) return false;
+    try { await track.applyConstraints({ advanced: [{ torch: on }] }); }
+    catch { try { await track.applyConstraints({ torch: on }); } catch { return false; } }
+    $("#scTorch").setAttribute("aria-pressed", String(on));
+    return true;
+  }
+  /* phones with several rear lenses: only one of them controls the flash, so look for it */
+  async function findTorchCamera() {
+    const cams = await listCameras();
+    const current = track && track.getSettings ? track.getSettings().deviceId : "";
+    const rear = cams.filter(c => c.deviceId !== current && !/front|user|facetime/i.test(c.label));
+    rear.sort((a, b) => (/back|rear|environment/i.test(b.label) - /back|rear|environment/i.test(a.label)) || a.label.localeCompare(b.label, undefined, { numeric: true }));
+    for (const cam of rear) {
+      try {
+        await startStream(cam.deviceId);
+        if (await hasTorch()) return cam.deviceId;
+      } catch {}
+    }
+    return "";
+  }
+  /* turn the flash on, switching to the lens that has it if needed */
+  async function enableFlash({ quiet = false } = {}) {
+    const wasRunning = running; running = false; clearTimeout(timer);
+    let ok = false;
+    try {
+      if (await hasTorch()) ok = await setTorch(true);
+      if (!ok) {
+        if (!quiet) showMsg("Looking for the camera with the flash");
+        const startId = track && track.getSettings ? track.getSettings().deviceId : "";
+        const id = await findTorchCamera();
+        if (id) { ok = await setTorch(true); if (ok) { SO.deviceId = id; saveSO(); } }
+        else if (startId) { try { await startStream(startId); } catch { await startStream(""); } }
+      }
+    } finally {
+      showMsg("");
+      if (wasRunning && dlg.open) { running = true; tick(); }
+    }
+    if (!ok && !quiet) toast("Flash can't be controlled from the browser on this camera. Try Switch camera, or add light another way.", true, 6000);
+    return ok;
   }
 
   function stopStream() {
@@ -1562,6 +1619,7 @@ const Scanner = (() => {
       await startStream(SO.deviceId);
       if (!dlg.open) { stopStream(); return; }
       showMsg(""); running = true; tick();
+      if (SO.flash) enableFlash({ quiet: true });
     } catch (e) {
       stopStream();
       const m = e.name === "NotAllowedError" ? "Camera access is blocked. In Chrome tap the icon left of the web address, then Permissions, and allow Camera. Then tap the camera button again."
@@ -1583,12 +1641,12 @@ const Scanner = (() => {
 
   $("#scTorch").addEventListener("click", async () => {
     if (!track) return;
-    const btn = $("#scTorch"), on = btn.getAttribute("aria-pressed") !== "true";
+    const btn = $("#scTorch"); btn.disabled = true;
+    const on = btn.getAttribute("aria-pressed") !== "true";
     try {
-      await track.applyConstraints({ advanced: [{ torch: on }] }); btn.setAttribute("aria-pressed", String(on));
-      SO.flash = on; saveSO(); const o = document.getElementById("optFlash"); if (o) o.checked = on;   // remembered for next scans
-    }
-    catch { toast("Flash is not available on this camera."); }
+      const ok = on ? await enableFlash() : await setTorch(false);
+      if (ok) { SO.flash = on; saveSO(); const o = document.getElementById("optFlash"); if (o) o.checked = on; }   // remembered for next scans
+    } finally { btn.disabled = false; }
   });
   const applyZoom = async v => {
     if (!track) return;
@@ -1641,8 +1699,14 @@ function applyScan(input, text) {
 /* ---- does a barcode already exist in the database? ---- */
 const STATUS_FOR = { qBarcode: "qBarcodeStatus", eEan: "eEanStatus" };
 let existsSeq = 0;
+function setFound(input, found) {
+  const box = input.closest(".scanlabel") || input;
+  box.classList.toggle("found", found === true);
+  box.classList.toggle("notfound", found === false);
+}
 function clearExists(input) {
   const el = document.getElementById(STATUS_FOR[input.id]); if (el) { el.className = "exists"; el.innerHTML = ""; }
+  setFound(input, null);
 }
 async function checkExists(input) {
   const el = document.getElementById(STATUS_FOR[input.id]); if (!el) return;
@@ -1662,6 +1726,7 @@ async function checkExists(input) {
       row = store.data.get(shardKey(ean)).get(ean) || null;
     }
     if (seq !== existsSeq || toEan13(input.value) !== ean) return;      // field changed meanwhile
+    setFound(input, !!row);
     if (row) { el.className = "exists yes"; el.innerHTML = `<b>Exist</b><span>${esc(row[0])}${unsaved ? " (not saved yet)" : ""}</span>`; }
     else { el.className = "exists no"; el.innerHTML = `<b>New item</b><span>${unsaved ? "Deleted, not saved yet" : "Not in the database yet"}</span>`; }
   } catch (err) {
