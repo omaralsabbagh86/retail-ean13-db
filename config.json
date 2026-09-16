@@ -1,0 +1,73 @@
+{
+  "user_agent": "RetailEAN13DB/2.0 (github.com/YOUR_USERNAME/YOUR_REPO)",
+  "max_runtime_minutes": 300,
+  "max_description_length": 250,
+  "skip_prefixes": [
+    "2",
+    "02",
+    "04",
+    "05",
+    "98",
+    "99"
+  ],
+  "sources": {
+    "manual": {
+      "enabled": false,
+      "priority": 1000
+    },
+    "item_master": {
+      "enabled": true,
+      "priority": 100,
+      "every_days": 0
+    },
+    "lookup_apis": {
+      "enabled": true,
+      "priority": 60,
+      "every_days": 0,
+      "max_attempts": 7,
+      "budgets": {
+        "upcitemdb": 95,
+        "ean_search": 0,
+        "go_upc": 0,
+        "barcodelookup": 0
+      }
+    },
+    "openfacts": {
+      "enabled": true,
+      "priority": 70,
+      "every_days": 0
+    },
+    "wikidata": {
+      "enabled": true,
+      "priority": 50,
+      "every_days": 7
+    },
+    "usda": {
+      "enabled": true,
+      "priority": 80,
+      "every_days": 30,
+      "zip_url": ""
+    },
+    "discogs": {
+      "enabled": false,
+      "priority": 40,
+      "every_days": 30,
+      "first_wins": true
+    },
+    "openlibrary": {
+      "enabled": false,
+      "priority": 40,
+      "every_days": 30,
+      "first_wins": true
+    },
+    "webdatacommons": {
+      "enabled": false,
+      "priority": 20,
+      "every_days": 0,
+      "first_wins": true,
+      "update_existing": false,
+      "file_list_url": "",
+      "parts_per_run": 3
+    }
+  }
+}
