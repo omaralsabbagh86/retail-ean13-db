@@ -70,8 +70,8 @@ ean13,description,created_at,modified_at
 4791005104263,Royal Tea Green Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791005104300,Royal tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791005411491,Cinamon powder,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791006011485,"Great british tea, premium gold tea",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791006011492,"Great british tea, classic ceylon tea",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4791006011485,"Great British Tea, Premium Gold Tea",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4791006011492,"Great British Tea, Classic Ceylon Tea",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4791006014455,Unicom Foods Muthu Samba Rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791006015971,Unicom Foods White Keeri Samba Rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791007001409,Heladiv Чай элитный пеко черн 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -90,9 +90,9 @@ ean13,description,created_at,modified_at
 4791021008248,Ceylon green tea 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791021302407,Defne Zwarte thee,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791021912316,Impra tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791021913948,"Impra tea, natural iced tea, lemon & passion",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791021913962,"Impra Natural iced tea, soothing natural, soothing natural",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791021913979,"Impra, iced green tea bags with apple & peach, apple & peach",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4791021913948,"Impra Tea, Natural Iced Tea, Lemon & Passion, Lemon & Passion 1.763 oz/50 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4791021913962,"Impra, Natural Iced Tea, Soothing Natural, Soothing Natural",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4791021913979,"Impra, Iced Green Tea Bags With Apple & Peach, Apple & Peach",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4791021916109,империя голд 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791021918233,Royal Elixir Tea 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791021918547,Impra English Breakfast Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -231,7 +231,7 @@ ean13,description,created_at,modified_at
 4791045002949,Royal tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045003175,hyleys Premium quality Black Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045009009,"Hyleys Чай ""Спринг филингс"" цейлонский черный байховый среднелистовой с лепестками календулы, ароматом персика и ванили 100 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791045010678,"Hyleys Slim Tea Herbal Supplement 37,5 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4791045010678,Hyleys Slim Tea,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4791045010685,Slim Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045011361,Earl Gray tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045011507,Slim Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -249,7 +249,7 @@ ean13,description,created_at,modified_at
 4791045015550,Colon cleanse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045015598,Pure matcha and sencha,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045015673,HYLEYS garcinia cambogia with green tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791045015963,Hyleys slim tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4791045015963,"Hyleys Detox Kit Tea Bags, Lemon; Acai Berry; Pomegranate; Mint; Chamomile 0.05 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4791045016199,Garcina cambogia with green tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045016229,Thé Bien-être Detox,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045016403,شاي رشاقه,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -258,7 +258,8 @@ ean13,description,created_at,modified_at
 4791045016946,Hyleys colon cleanse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045017752,Hyleys Garcinia Cambogia Tea Cranberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045017868,Garcinia cambogia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4791045017936,Hyleys Slim Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4791045017936,"Hyleys Assorted Tea Collection Slim Tea Bags, Acai Berry; Goji Berry; Raspberry; Blueberry; Pomegranate 0.05 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4791045017950,"Hyleys Assorted Tea Collection Japanese Pure Matcha Tea Bags, Lemongrass; Mint; Ginger; Turmeric; Matcha With Sencha 0.05 oz",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 4791045018025,Hyleys Moringa with green tea - Mango Flavor 37.5 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045018179,Hyleys Milk oolong 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4791045018216,Hayley’s Royal Ceylon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -754,29 +755,30 @@ ean13,description,created_at,modified_at
 4792099010294,corsodyl mw,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4792099010607,Tommy pop RAJARATA LANKA (PVT) LTD. 5g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4792099010805,Panadol,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000112,"Organic Creamed Coconut, Creamed",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000457,Organic Coconut Syrup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000464,Organic Coconut Vinegar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000563,"Spiced Coconut Organic Vinegar, Spiced Coconut",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4792103000112,"Wichy Palantation Co. (Pvt) Ltd. Organic Creamed Coconut, Creamed",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000457,Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Syrup,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000464,Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Vinegar,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000563,"Wichy Plantation Co. (Pvt) Ltd. Spiced Coconut Organic Vinegar, Spiced Coconut",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4792103000600,Chips de coco ecologico 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000747,Organic Desiccated Coconut,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000754,Organic Desiccated Coconut,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000761,Organic Desiccated Coconut Chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000778,Organic Desiccated Coconut Toasted Chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000808,Organic Coconut Milk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103000969,"Organic Coconut Chilli Vinegar, Coconut Chilli",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103001324,"Organic Coconut Butter, Coconut",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103001331,"Organic Sweetened Condensed Coconut Milk, Sweetened",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103001911,"Organic Coconut Water With Real Passion Fruit, Real Passion Fruit",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103001928,"Organic Coconut Water With Real Cinnamon, Cinnamon",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002086,"Coconut Flour Tortilla Mix, Coconut",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002093,"Organic Young Jackfruit Curry, Young Jackfruit",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002109,Organic King Coconut Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002123,Organic Coconut Pina Colada,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002277,Organic Jackfruit In Syrup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002284,Organic Tender Jack In Brine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002307,Organic Jackseeds In Brine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4792103002444,Extracto de coco con curry rojo ecológico,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4792103000747,Wichy Plantation Co. (Pvt) Ltd. Organic Desiccated Coconut,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000754,Wichy Plantation Co. (Pvt) Ltd. Organic Desiccated Coconut,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000761,Wichy Plantation Co. (Pvt) Ltd. Organic Desiccated Coconut Chips,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000778,Wichy Plantation Co. (Pvt) Ltd. Organic Desiccated Coconut Toasted Chips,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000808,Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Milk,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103000969,"Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Chilli Vinegar, Coconut Chilli",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103001324,"Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Butter, Coconut",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103001331,"Wichy Plantation Co. (Pvt) Ltd. Organic Sweetened Condensed Coconut Milk, Sweetened",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103001911,"Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Water With Real Passion Fruit, Real Passion Fruit",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103001928,"Wichy Plantation Co. (Pvt) Ltd. Organic Coconut Water With Real Cinnamon, Cinnamon",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002086,"Wichy Plantation Co. (Pvt) Ltd. Coconut Flour Tortilla Mix, Coconut",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002093,"Wichy Plantation Co. (Pvt) Ltd. Organic Young Jackfruit Curry, Young Jackfruit",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002109,Wichy Plantation Co. (Pvt) Ltd. Organic King Coconut Water,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002123,Wichy Plantation Co.(Pvt) Ltd. Organic Coconut Pina Colada,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002277,Wichy Plantation Co. (Pvt) Ltd. Organic Jackfruit In Syrup,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002284,Wichy Plantation Co. (Pvt) Ltd. Organic Tender Jack In Brine,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002307,Wichy Plantation Co. (Pvt) Ltd. Organic Jackseeds In Brine,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002444,"Wichy Plantation Co. (Pvt) Ltd. Red Curry Organic Coconut Milk, Red Curry",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4792103002451,"Wichy Plantation Co. (Pvt) Ltd. Golden Organic Coconut Milk, Golden",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 4792109000000,Sameposh s,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4792109000017,Samaposha,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4792109000024,CBL Samaposha Processed Cereal for Children & Adults 200g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1470,18 +1472,18 @@ ean13,description,created_at,modified_at
 4796004730062,Coconut rock,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796004880668,Roasted Salted Cashew,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796005230158,LEGEND Pure Green Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230370,Miracle Tree Moringa Organic Tea Green Tea 25 Tea Bags,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230387,Moringa ginger tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230394,"Lemon organic moringa superfood tea, lemon",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230400,Miracle Tree Mint organic moringa superfood tea bags,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230417,Mornings Organic superfood tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230424,Miracle tree moringa tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230431,Moringa organic tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005230448,Morenga,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005231339,"Honey & vanilla moringa organic superfood tea, honey & vanilla 37.5 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005231346,"Moringa superfood chocolate tea, chocolate",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005232152,Moringa Organic Superfood Tea Rooibos,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796005232169,Morninga tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4796005230370,"Miracle Tree Green Moringa Organic Superfood Tea Bags, Green",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230387,"Miracle Tree Ginger Moringa Organic Superfood Tea Bags, Ginger",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230394,"Miracle Tree Lemon Caffeine Free Moringa Organic Superfood Tea Bags, Lemon",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230400,"Miracle Tree Mint Moringa Organic Superfood Tea Bags, Mint",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230417,Miracle Tree Mango Organic Moringa Superfood Tea Bags,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230424,"Miracle Tree Original Organic Moringa Superfood Tea Bags, Original",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230431,"Miracle Tree Strawberry Caffeine Free Moringa Organic Superfood Tea Bags, Strawberry",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005230448,"Miracle Tree Apple & Cinnamon Moringa Organic Superfood Tea Bags, Apple & Cinnamon",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005231339,"Miracle Tree Honey & Vanilla Moringa Organic Superfood Tea Bags, Honey & Vanilla",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005231346,"Miracle Tree Chocolate Moringa Organic Superfood Tea Bags, Chocolate",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005232152,"Miracle Tree Rooibos Caffeine Free Moringa Organic Superfood Tea Bags, Rooibos",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796005232169,"Miracle Tree Turmeric Moringa Organic Superfood Tea Bags, Turmeric",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4796005360046,Nelco Noodles 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796005360145,Nelco මිරිස් කුඩු 100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796005360152,Nelco මිරිස් කුඩු 50 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1552,14 +1554,15 @@ ean13,description,created_at,modified_at
 4796007560000,Appollo Glucose 1kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008330619,Unitea Rooibos with Vanilla,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008435178,Mango Drink,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796008800686,"Hearty naturals, taste the tropical sunshine, pure virgin coconut oil",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4796008800686,"Hearty Naturals, Taste The Tropical Sunshine, Pure Virgin Coconut Oil",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4796008800693,Hearty Naturals Pure Virgin Coconut Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008920018,Real Apple juice 1,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008920025,Real Fruit Power Pineapple,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008920049,Real Mixed fruit juice 1l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008920056,Dabur Real Real Fruit Power Orange 1L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008920070,Cranberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796008920865,Dabur Real Mixed Fruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4796008920865,Real Mixed Fruit Nectar 33.8 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+4796008920872,"Real Pineapple Fruit Nectar, Pineapple 33.8 fl oz",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 4796008920902,Dabur Real Mixed Fruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008920919,Dabur pineapple fruit nectar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796008921084,Real mixed fruit 180ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1641,7 +1644,8 @@ ean13,description,created_at,modified_at
 4796012482564,Coconut milk drink,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796012690631,von Sri Lanka Lakshadee Lepa 100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796012692079,Nelli Rasakinda Herbal Drink,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4796012760105,"Mango Pieces In Juice, Mango",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4796012760075,Mal Organic Coconut Water,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
+4796012760105,"Mal Mango Pieces In Juice, Mango",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 4796013050014,Capla Cinnamon Drink,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796013470157,century chilli and garlic sauce 395g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4796013470386,Colman's Coconut water vinegar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

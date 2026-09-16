@@ -554,7 +554,7 @@ ean13,description,created_at,modified_at
 3173282157803,Chocolat de menage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173282214650,Chocolat Lait 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173282217057,Prado Chocolat au Lait Des Alpes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3173282219297,Cemoi Chocolat Lait Milk Chocolate 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3173282219297,Cemoi Chocolat Lait Milk Chocolate,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3173282225540,DIPA Chocolat au lait à la pâte d'amande 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173282227100,Orado Chocolat lait 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173282370240,CEMOI Bonheurs d’enfance 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -623,7 +623,7 @@ ean13,description,created_at,modified_at
 3173283826227,Cémoi chocolat noir au praliné 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173283832105,Chocolat noir écorces d'orange confites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173284131955,Truffle dark chocolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3173284132297,Dipa Dark Chocolate Fancy Truffle,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3173284132297,Cemoi Dark Chocolate Fancy Truffle,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3173284198507,Jacquot Smooth dark chocolate with coconut center 4.40 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173284207292,"Papillotes Sacrément Pétard En rupture, sera proposé sous un nouveau format dès Noël 2019",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3173284238630,"Cémoi Les Papillotes, Follement Praliné 380 g e",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5446,7 +5446,7 @@ ean13,description,created_at,modified_at
 3177063100316,"Lanquetot Camembert, Moulé à la Louche au lait cru (22 % MG) 250 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177063109326,Lanquetot Camembert - date courte -30%,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177063116010,Lactalis Pont l'évêque Lanquetot 360g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3177063116119,Lanquetot Petit Pont-l’Évêque 220 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3177063116119,Lanquetot Cow'S Milk Cheese,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3177063117215,Le Fameux Normand Livarot AOP (21 % MG) 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177063117314,Lanquetot Petit livarot 250g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177068100113,Sans marque Camembert Le Bien-Fait Moulé à la louche(22% MG) 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5641,7 +5641,7 @@ ean13,description,created_at,modified_at
 3177890003149,Roquefort AOP Papillon 600g (3 x 200 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177890003354,"Roquefort Papillon Rouge 330 Gr, 1 Pièce 330g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177890004016,Papillon Roquefort Premium 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3177890030015,Tartine & cuisine creme papillon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3177890030015,Frogmageries Papillon Tartine & Cuisine Creme Papillon,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3177890100039,Fromageries du Levezou Perail - Fromage de brebis au lait pasteurisé 100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177890100060,Papillon Pérail 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3177890100084,Papillon fromagerie Pérail papillon 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6095,7 +6095,7 @@ ean13,description,created_at,modified_at
 3178530401561,Bonne Maman Financiers amandes 135 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530401844,"St Michel Ma Boîte à Galettes,",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530402278,St Michel La Grande Galette Caramel 150g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530402353,St Michel Petites Madeleines 175 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530402353,"St Michel Mini Madeleines Traditional French Sponge Cakes, Mini Madeleines",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3178530402568,Petites madeleines pépites de chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530402674,Bonne Maman Croquants noix de coco 250 g (x 22),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530402681,Bonne Maman Sablés tout chocolat 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6212,7 +6212,8 @@ ean13,description,created_at,modified_at
 3178530407716,St Michel Galettes au bon beurre 51 g e,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530407761,Bonne Maman Cookies noisettes aux gros éclats de chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530407914,St Michel 9 Grandes Galettes Au Chocolat 150g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530407921,St Michel La Madeleines 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530407921,"St Michel Madeleines 10 Traditional French Sponge Cakes, Madeleines",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+3178530407938,"St Michel French Sponge Cakes With Chocolate Chips Mini Madeleines, French Sponge Cakes With Chocolate Chips",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 3178530407945,St Michel Grandes galettes au beurre et sel de Guérande 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530407976,St Michel La grande galette 1905 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530407983,Bonne Maman Madeleine 175 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6274,7 +6275,7 @@ ean13,description,created_at,modified_at
 3178530409642,Bonne Maman Le cake aux fruits 325 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530409659,St Michel Cocottes Petit Déj Muesli 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530409666,St Michel Tronches de Cake - Cookies Céréales Soufflées Nappés Choco 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530409673,st michel palmier 100 grammes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530409673,"St Michel Caramel Butter 12 Palmiers Biscuits, Caramel Butter",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3178530409680,Bonne maman Le Quatre-heures Chocolat Caramel 160 g (x 12),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530409697,Bonne Maman Cookies des prés Sésame Tournesol Pavot aux gros éclats de chocolat 225 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530409703,Crepes bretonnes 12 st michel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6362,7 +6363,7 @@ ean13,description,created_at,modified_at
 3178530411423,St Michel Grande Madeleine Chocolat 40 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530411430,St Michel La Grande Madeleine Nature 40 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530411447,St Michel Cake moelleux,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530411478,ST MICHEL BISCUITS SAS 9 Grandes Galettes au beurre frais et sel de Guérande 150 جرام,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530411478,"St Michel Butter Cookies With Sea Salt Grandes Galettes, Butter Cookies With Sea Salt",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3178530411485,St Michel Cake Moeles 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530411492,Bonne Maman gaufres au sucre perlé 300g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530411508,Bonne Maman Pains d'épices au miel 300 g (10 x 30 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6667,7 +6668,7 @@ ean13,description,created_at,modified_at
 3178530417159,St Michel Madeleines 800g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417180,St Michel Madeleine géante aux éclats de caramel au beurre d'Isigny AOP 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417197,La madeleine géante de Noël 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530417241,St Michel سانت ميشيل بسكوت بالشكولاته الدارك 121 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530417241,"St Michel Biscuits Chocolate Cookies Galettes, Chocolate",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3178530417340,St Michel 7 Brownies au chocolat 210 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417357,St Michel Brownies au chocolat blanc Imp 210 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417395,St Michel French Donuts 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6687,8 +6688,8 @@ ean13,description,created_at,modified_at
 3178530417883,Bonne Maman La madelaine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417906,St Michel Petits cakes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417913,St Michel Donuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530417920,St Michel - donut pepites de chocolat 30 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530417937,St Michel French donuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530417920,"Stmichel Chocolate Chip Cakes French Doonuts, Chocolate Chip Cakes",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+3178530417937,"St Michel Chocolate Marble Cakes French Doonuts, Chocolate Marble Cakes",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3178530417944,St Michel Poules sablées de Pâques nappées au chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417951,Madeleines,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530417975,Le petit St Michel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6719,7 +6720,7 @@ ean13,description,created_at,modified_at
 3178530418552,SMB Madeleines nappées chocolat 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530418569,St Michel Biscuits Madeleines coquilles Bio 250g (10x25g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530418576,St Michel Madeleine moelleuse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3178530418712,St Michel Soft ladyfingers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3178530418712,"St Michel Biscuits Soft Ladyfingers French Sponge Finger Cookies, Soft Ladyfingers",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 3178530418767,calendrier de l'avant gourmand,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530418903,Galettes Saint Michel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3178530418965,St Michel Madeleine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

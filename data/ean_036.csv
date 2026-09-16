@@ -72,7 +72,7 @@ ean13,description,created_at,modified_at
 0361460000925,La Madeleine d'Armor,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0361531073056,Daunat champêtre poulet roti - Daunat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0361555032114,Daunat Duo de saumon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0361740953071,"Mazola, tomato bouillon, chicken",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0361740953071,"Mazola, Tomato Bouillon, Chicken",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0361779092215,Pur Ketchup 360 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0361939331161,Costco Butter Croissant,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0361969066132,Kirkland Farm Raised Atlantic Salmon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -238,11 +238,12 @@ ean13,description,created_at,modified_at
 0366195250560,Sauve pad thai,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0366207215426,Proteine bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0366209300014,la ferme d\'equinvillers oignon jaune,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0366320378589,The Dannon Company Inc. Greek Nonfat Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0366320710020,"Caramel apple crumble oatmilk non-dairy frozen dessert, caramel apple crumble",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0366320710198,Dairy free peanut butter and raspberry oat milk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0366320710266,"Oatmeal cookie oat milk non-dairy frozen dessert, oatmeal cookie",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0366320710334,"Coconut milk coconut macaroon non-dairy frozen dessert, coconut milk",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0366320378589,Dannon Greek Nonfat Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0366320710020,"So Delicious Dairy Free Caramel Apple Crumble Oatmilk Non-Dairy Frozen Dessert, Caramel Apple Crumble",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0366320710198,"So Delicious Dairy Free Peanut Butter And Raspberry Oat Milk Non-Dairy Frozen Dessert, Peanut Butter And Raspberry",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0366320710266,"So Delicious Dairy Free Oatmeal Cookie Oat Milk Non-Dairy Frozen Dessert, Oatmeal Cookie",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0366320710334,"So Delicious Dairy Free Coconut Macaroon Coconutmilk Non-Dairy Frozen Dessert, Coconut Macaroon",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0366320744858,"International Delight Pumpkin Pie Spice Coffee Creamer, Pumpkin 64 fl oz",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0366390604779,melange pour poisson,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0366390647240,Bonbons mielline supérieure,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0366426074514,V-Love Vegi Cevapcici,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -322,7 +323,7 @@ ean13,description,created_at,modified_at
 0367618319604,Senokot Laxative Gummies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0367618332207,Natural Senna Leaf Lacative* Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0367676432390,La réserve de Champlat Sauce tomate Provencale 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0367677040204,Dehoff's Portobella Shallot Chop Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0367677040204,Dehoff'S Portobella Shallot Chop Sauce,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0367703112028,Terry Naturally Curamin Extra Strength Pain Relief,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0367703115265,Terry Naturally Curamin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0367703160043,Fresh Breath Gels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -345,7 +346,7 @@ ean13,description,created_at,modified_at
 0368000120464,Food Club Petite Diced Tomatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0368000320710,Food Club Whole Kernel Corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0368000407855,Food Club Thin Sliced Swiss Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0368000413740,@Ease Stuffed Sandwich,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0368000413740,@Ease Stuffed Sandwich,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0368000426122,Food Club Medium Marshmallow,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0368000437975,Full Circle Market Organic Great Northern Beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0368000441040,Food Club Super Sweet Whole Kernel Corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

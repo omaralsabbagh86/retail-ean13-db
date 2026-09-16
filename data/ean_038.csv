@@ -1,6 +1,6 @@
 ean13,description,created_at,modified_at
 0380000120725,Pop Tart Pop-Tart,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0380000138416,"Potato chips, original",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0380000138416,"Pringles Potato Chips, Original",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0380000216992,rotisserie chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380000217012,Pringles parmesan & roasted garlic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380000222757,Pop tarts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -10,11 +10,15 @@ ean13,description,created_at,modified_at
 0380000490620,Kellogs Blueberry Pastry Crisps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380000765414,Kellogs Rice Krispie Treat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380001161932,Salgadinho De Batata Hot Dog Free Fire Pringles Tubo 158g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0380001293503,"Special K Cranberry Almond Chewy Nut Bars, Cranberry Almond 1.16 OZ/33 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0380001749956,Salgadinho De Batata Ranch Free Fire Pringles Tubo 158g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380001921116,Salgadinho De Batata Pizza Pringles Mega Tubo 158g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380001946966,Salgadinho De Batata American Barbecue Pringles Mega Tubo 158g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0380002187306,"Eggo Salted Caramel Flavored Thick & Fluffy Begian Style Waffels, Salted Caramel 11.6 oz/330 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0380002455344,Pringles Scorchin' Cheddar 158 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0380002507050,"Pop-Tarts Frosted Strawberry Flavored Bites, Frosted Strawberry 3.5 OZ/99 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0380002656178,Salgadinho De Batata Sal E Vinagre Pringles Tubo 158g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0380003584807,"Nutri Grain Raspberry Flavored Soft Baked Breakfast Bars, Raspberry 20.8 OZ/592 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0380005359960,damak inci 60g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380008600595,Pobeda Закуска какао бисквити 290 г,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0380021251354,Айляк Сандвич Сандвич С Пилешко Филе,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -193,7 +197,7 @@ ean13,description,created_at,modified_at
 0381519493379,Aussie Total Miracle Shampoo with Apricot Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0381535206014,NuGo VeganChocolate Mint Slim,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0381546068045,Casa Mamita Medium Chunky Salsa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0381617000103,"Cary's, toffee, milk chocolate coconut",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0381617000103,"Cary'S, Toffee, Milk Chocolate Coconut",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0381638008379,amin niazi,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0381692360024,Lenny And Larry's Cookie-fied Big Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0381708421527,Wasa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -265,12 +269,12 @@ ean13,description,created_at,modified_at
 0383828658012,Positive food co. Keto friendly almond chicken breast,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0383875749145,Asia Green Garden Sriracha Mayonnaise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0383890082029,Bio zone Rice cakes no added salt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0383960501917,"Glucose tablets, orange",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0383960502914,"Perigo Glucose tablets, raspberry",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0383960541913,"Glucose tablets, orange",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0383960542910,"Glucose tablets, raspberry",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0383960556917,"Glucose tablets, tropical fruit flavors",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0383960614631,"Perrigo Company Fast acting glucose gel, tropical blast",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0383960501917,"Up&Up Glucose Tablets, Orange, Orange",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0383960502914,"Up&Up Glucose Tablets, Raspberry, Raspberry",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0383960541913,"Up&Up Glucose Tablets, Orange, Orange",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0383960542910,"Up&Up Glucose Tablets, Raspberry, Raspberry",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0383960556917,"Up&Up Glucose Tablets, Tropical Fruit, Tropical Fruit",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0383960614631,"Dex4 Fast Acting Glucose Gel, Tropical Blast 1.34 oz/38 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0383992397229,110% Nutrition Whey Protein Isolate Peanut Butter Candy,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0383992397236,110% Nutrition Strawberry Cheesecake Whey Protein Isolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0383992397243,110% Nutrition Brownie Batter Whey Protein Isolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -389,9 +393,9 @@ ean13,description,created_at,modified_at
 0389440000314,St. Dalfour Blueberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0389444075011,Fage Sour Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0389444641698,Saint-jean Gnocchi français à poêler,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0389460420567,Billot Frozen Prepared Extra Large Helix Lucorum Snails 4 pieces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0389460420567,Billot Frozen Prepared Extra Large Helix Lucorum Snails,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0389463530119,Sushi shop California surimi citrus,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0389602300825,"Tazah, honey with nuts",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0389602300825,"Tazah, Honey With Nuts",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0389686010948,Indomie goreng 5bungkus,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0389974089700,Soprole Mantequilla untable,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0389994105190,Ica Pulled Pork Bbq,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
