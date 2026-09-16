@@ -1,5 +1,5 @@
 {
-  "user_agent": "RetailEAN13DB/2.0 (github.com/omaralsabbagh86/retail-ean13-db)",
+  "user_agent": "RetailEAN13DB/2.0 (github.com/YOUR_USERNAME/YOUR_REPO)",
   "max_runtime_minutes": 300,
   "max_description_length": 250,
   "skip_prefixes": [
