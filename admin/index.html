@@ -27,6 +27,7 @@
   --label:#E9B91F; --label-ink:#15130A; --danger:#E57A63; --ok:#5CC39A; --pending:#E7B45A;
 }
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html,body{margin:0}
 body{background:var(--paper); color:var(--ink); font:16px/1.45 var(--body); font-variant-numeric:tabular-nums;
   padding-bottom:calc(76px + env(safe-area-inset-bottom))}
@@ -167,6 +168,14 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
 .toast.on{display:block}
 .toast.bad{background:var(--danger); color:#fff}
 .sr{position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap}
+.exists{font-weight:600; min-height:0; margin-top:4px; display:flex; gap:8px; align-items:baseline; flex-wrap:wrap}
+.exists:empty{display:none}
+.exists b{font-family:var(--head); font-size:1.15rem; letter-spacing:.02em; padding:1px 8px; border-radius:3px}
+.exists.yes b{color:#fff; background:#1E7552}
+.exists.no b{color:#1D1A0E; background:var(--label)}
+.exists.wait, .exists span{color:var(--muted); font-weight:500; font-size:.9rem}
+.exists.yes span{color:var(--ok); font-weight:600}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .exists.yes b{background:#1E7552} }
 .ver{font-family:var(--body); font-weight:500; font-size:.8rem; opacity:.7; vertical-align:middle}
 .withscan{display:grid; grid-template-columns:1fr auto; gap:6px; align-items:start}
 .scanbtn{width:44px; height:44px; border:1px solid var(--line); border-radius:var(--radius-s); background:var(--surface); cursor:pointer;
@@ -216,7 +225,7 @@ dialog.scanner::backdrop{background:#000}
 <header class="top">
   <div class="brand">
     <span class="bars" aria-hidden="true"><i style="width:3px"></i><i style="width:1px"></i><i style="width:4px"></i><i style="width:1px"></i><i style="width:2px"></i><i style="width:3px"></i></span>
-    <h1>Barcode database <span class="ver">v3</span></h1>
+    <h1>Barcode database <span class="ver">v5</span></h1>
   </div>
   <div class="repo-chip" id="repoChip">Not connected</div>
 </header>
@@ -245,6 +254,7 @@ dialog.scanner::backdrop{background:#000}
         </select>
       </div>
       <div class="hint" id="qBarcodeHint"></div>
+      <div class="exists" id="qBarcodeStatus" aria-live="polite"></div>
 
       <details class="more" id="moreFilters">
         <summary>Description and date filters</summary>
@@ -406,9 +416,10 @@ dialog.scanner::backdrop{background:#000}
       <label class="check"><input type="checkbox" id="optVibrate" checked> Vibrate when a barcode is read</label>
       <label class="check"><input type="checkbox" id="optAutoSearch" checked> Search right after scanning into Barcode</label>
       <label class="check"><input type="checkbox" id="optWedge" checked> Catch hardware scans when no field is selected</label>
+      <label class="check"><input type="checkbox" id="optFlash"> Turn on the flash when the camera opens</label>
     </div>
   </div>
-  <p class="small muted">Admin app v3</p>
+  <p class="small muted">Admin app v5</p>
 </section>
 
 </main>
@@ -422,7 +433,7 @@ dialog.scanner::backdrop{background:#000}
   <form method="dialog" id="editForm">
     <div class="dlg-h"><h2 id="editTitle">Edit record</h2><button class="linkbtn" value="cancel" formnovalidate aria-label="Close">Close</button></div>
     <div class="dlg-b">
-      <div><label class="f" for="eEan">Barcode (EAN-13)</label><input class="input" id="eEan" inputmode="numeric" required data-scan="ean" data-scan-label="Barcode"><div class="hint" id="eEanHint"></div></div>
+      <div><label class="f" for="eEan">Barcode (EAN-13)</label><input class="input" id="eEan" inputmode="numeric" required data-scan="ean" data-scan-label="Barcode"><div class="hint" id="eEanHint"></div><div class="exists" id="eEanStatus" aria-live="polite"></div></div>
       <div><label class="f" for="eDesc">Description</label><textarea id="eDesc" maxlength="250" required data-scan="text" data-scan-label="Description"></textarea></div>
       <div class="row c2">
         <div><label class="f" for="eCreated">Created (UTC)</label><input class="input" id="eCreated" placeholder="2026-09-16 08:30" data-scan="datetime" data-scan-label="Created"><div class="hint" id="eCreatedHint"></div></div>
@@ -1021,6 +1032,7 @@ function openEditor(row) {
   $("#eDelete").hidden = !row;
   $("#eEanHint").textContent = ""; $("#eCreatedHint").textContent = "";
   if ($("#eEan").value) eanHint($("#eEan"), $("#eEanHint"), "Check the number.");
+  const st = $("#eEanStatus"); if (st) { st.className = "exists"; st.innerHTML = ""; }
   $("#editDlg").showModal();
 }
 $("#addBtn").addEventListener("click", () => openEditor(null));
@@ -1368,7 +1380,7 @@ $("#forget").addEventListener("click", () => {
 
 /* ============================================================ BARCODE SCANNING */
 const SCAN_LS = "ean13admin.scan";
-let SO = Object.assign({ beep: true, vibrate: true, autoSearch: true, wedge: true, deviceId: "" }, JSON.parse(localStorage.getItem(SCAN_LS) || "{}"));
+let SO = Object.assign({ beep: true, vibrate: true, autoSearch: true, wedge: true, flash: false, deviceId: "" }, JSON.parse(localStorage.getItem(SCAN_LS) || "{}"));
 const saveSO = () => localStorage.setItem(SCAN_LS, JSON.stringify(SO));
 const CAMERA_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7V4h4M17 4h4v3M21 17v3h-4M7 20H3v-3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M7 8v8M10 8v8M12.5 8v8M15 8v8M17 8v8" stroke="currentColor" stroke-width="1.6"/></svg>';
 
@@ -1517,6 +1529,9 @@ const Scanner = (() => {
     video.srcObject = stream;
     try { await video.play(); } catch {}
     setupControls();
+    if (SO.flash && capabilities().torch) {
+      try { await track.applyConstraints({ advanced: [{ torch: true }] }); $("#scTorch").setAttribute("aria-pressed", "true"); } catch {}
+    }
     const cams = await listCameras();
     $("#scFlip").hidden = cams.length < 2;
   }
@@ -1535,6 +1550,9 @@ const Scanner = (() => {
     lastRead = { text: "", at: 0 }; zxRound = 0; ticks = 0;
     try { audio ||= new (window.AudioContext || window.webkitAudioContext)(); audio.resume(); } catch {}
     if (!dlg.open) dlg.showModal();
+    if (!window.isSecureContext || !/^(https:|http:\/\/localhost|http:\/\/127\.0\.0\.1|file:)/.test(location.href)) {
+      showMsg("The camera can't be used when the app is opened from a file shared in WhatsApp, email or Downloads. Open the app from its web link instead: https://omaralsabbagh86.github.io/ean13-admin/"); return;
+    }
     if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
       showMsg("This browser can't use the camera here. Open the app from its https:// GitHub Pages link, or use a hardware scanner."); return;
     }
@@ -1546,7 +1564,7 @@ const Scanner = (() => {
       showMsg(""); running = true; tick();
     } catch (e) {
       stopStream();
-      const m = e.name === "NotAllowedError" ? "Camera access is blocked. Allow the camera for this site in the browser settings, then try again."
+      const m = e.name === "NotAllowedError" ? "Camera access is blocked. In Chrome tap the icon left of the web address, then Permissions, and allow Camera. Then tap the camera button again."
         : e.name === "NotFoundError" ? "No camera was found on this device."
         : e.name === "NotReadableError" ? "The camera is in use by another app. Close it and try again."
         : (e.message || "The camera could not start.");
@@ -1566,7 +1584,10 @@ const Scanner = (() => {
   $("#scTorch").addEventListener("click", async () => {
     if (!track) return;
     const btn = $("#scTorch"), on = btn.getAttribute("aria-pressed") !== "true";
-    try { await track.applyConstraints({ advanced: [{ torch: on }] }); btn.setAttribute("aria-pressed", String(on)); }
+    try {
+      await track.applyConstraints({ advanced: [{ torch: on }] }); btn.setAttribute("aria-pressed", String(on));
+      SO.flash = on; saveSO(); const o = document.getElementById("optFlash"); if (o) o.checked = on;   // remembered for next scans
+    }
     catch { toast("Flash is not available on this camera."); }
   });
   const applyZoom = async v => {
@@ -1617,9 +1638,51 @@ function applyScan(input, text) {
   input.dispatchEvent(new Event("input", { bubbles: true }));
   afterScan(input);
 }
+/* ---- does a barcode already exist in the database? ---- */
+const STATUS_FOR = { qBarcode: "qBarcodeStatus", eEan: "eEanStatus" };
+let existsSeq = 0;
+function clearExists(input) {
+  const el = document.getElementById(STATUS_FOR[input.id]); if (el) { el.className = "exists"; el.innerHTML = ""; }
+}
+async function checkExists(input) {
+  const el = document.getElementById(STATUS_FOR[input.id]); if (!el) return;
+  const ean = toEan13(input.value);
+  if (!ean || input.value.replace(/\D/g, "") !== ean) { clearExists(input); return; }
+  if (!connected()) { el.className = "exists wait"; el.textContent = "Connect in Settings to check the database"; return; }
+  const seq = ++existsSeq;
+  el.className = "exists wait"; el.textContent = "Checking database";
+  try {
+    // unsaved changes in this session count too
+    const pend = [...pending].reverse().find(o => (o.t === "set" && o.ean === ean) || (o.t === "move" && (o.to === ean || o.from === ean)) || (o.t === "del" && o.ean === ean));
+    let row = null, unsaved = false;
+    if (pend) { unsaved = true; row = (pend.t === "del" || (pend.t === "move" && pend.from === ean)) ? null : [pend.desc]; }
+    else {
+      const snap = await loadSnapshot();
+      const store = await loadStore(snap, [shardKey(ean)]);
+      row = store.data.get(shardKey(ean)).get(ean) || null;
+    }
+    if (seq !== existsSeq || toEan13(input.value) !== ean) return;      // field changed meanwhile
+    if (row) { el.className = "exists yes"; el.innerHTML = `<b>Exist</b><span>${esc(row[0])}${unsaved ? " (not saved yet)" : ""}</span>`; }
+    else { el.className = "exists no"; el.innerHTML = `<b>New item</b><span>${unsaved ? "Deleted, not saved yet" : "Not in the database yet"}</span>`; }
+  } catch (err) {
+    if (seq !== existsSeq) return;
+    el.className = "exists wait"; el.textContent = "Couldn't check the database: " + err.message;
+  }
+}
+Object.keys(STATUS_FOR).forEach(id => {
+  const input = document.getElementById(id);
+  input.addEventListener("input", () => {
+    const d = input.value.replace(/\D/g, "");
+    if (id === "qBarcode" && $("#qBarcodeMode").value !== "exact") { clearExists(input); return; }
+    if (d.length === 13 || (d.length === 14 && d[0] === "0")) checkExists(input); else clearExists(input);
+  });
+  input.addEventListener("blur", () => { if (id !== "qBarcode" || $("#qBarcodeMode").value === "exact") checkExists(input); });
+});
+
 /* what happens after a field is filled by camera or hardware scanner */
 function afterScan(input) {
   const id = input.id;
+  if (STATUS_FOR[id]) checkExists(input);
   if (id === "qBarcode") {
     if (SO.autoSearch && input.value) $("#searchForm").requestSubmit();
     else input.focus();
@@ -1684,7 +1747,7 @@ document.addEventListener("keydown", e => {
 });
 
 /* scanning settings */
-[["optBeep", "beep"], ["optVibrate", "vibrate"], ["optAutoSearch", "autoSearch"], ["optWedge", "wedge"]].forEach(([id, key]) => {
+[["optBeep", "beep"], ["optVibrate", "vibrate"], ["optAutoSearch", "autoSearch"], ["optWedge", "wedge"], ["optFlash", "flash"]].forEach(([id, key]) => {
   const el = document.getElementById(id); el.checked = !!SO[key];
   el.addEventListener("change", () => { SO[key] = el.checked; saveSO(); });
 });
