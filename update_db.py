@@ -316,7 +316,7 @@ class Database:
 
 BARCODE_COL = re.compile(r"ean|barcode|bar code|gtin|upc", re.I)
 DESC_COL = re.compile(r"desc|name|title|product|item text|article|material text", re.I)
-SKIP_INBOX = re.compile(r"^(missing|not_found|import_report)|template", re.I)
+SKIP_INBOX = re.compile(r"^(missing|not_found|import_report|wanted)", re.I)   # lookup lists, not product lists
 
 
 def read_table(path):
@@ -356,7 +356,8 @@ def read_table(path):
 def src_item_master(db, st, cfg):
     """Every CSV/XLSX file uploaded to inbox/ (except the lookup lists) is added to the database."""
     files = sorted(f for f in INBOX.iterdir()
-                   if f.is_file() and f.suffix.lower() in (".csv", ".txt", ".xlsx") and not SKIP_INBOX.search(f.name)) if INBOX.exists() else []
+                   if f.is_file() and f.suffix.lower() in (".csv", ".txt", ".xlsx") and not SKIP_INBOX.search(f.name)
+                   and not (re.search("template", f.name, re.I) and f.stat().st_size < 2000)) if INBOX.exists() else []   # empty template only
     if not files:
         log("No files in inbox/ - skipping")
         return True
@@ -375,6 +376,9 @@ def src_item_master(db, st, cfg):
         bi = next((i for i, h in enumerate(header) if BARCODE_COL.search(h)), None)
         di = next((i for i, h in enumerate(header) if i != bi and DESC_COL.search(h)), None)
         if bi is None:
+            if f.suffix.lower() == ".txt":
+                log(f"{f.name}: not a product list (no barcode column) - ignored")
+                continue
             report.append(f"{f.name}: no barcode column found. Columns: {header}. Name the column EAN or Barcode.")
             continue
         before = dict(db.stats["item_master"])
