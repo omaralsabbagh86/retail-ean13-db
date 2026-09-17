@@ -1,20 +1,26 @@
 {
- "last_run": "2026-09-17T13:34:18Z",
+ "last_run": "2026-09-17T13:43:43Z",
  "records_by_source": {
+  "item_master": 585564,
   "manual": 2,
-  "openfacts": 3210325,
-  "usda": 423538,
-  "webdatacommons": 17614,
-  "wikidata": 2191
+  "openfacts": 3162141,
+  "usda": 418881,
+  "webdatacommons": 3054,
+  "wikidata": 2187
  },
  "sources": {
   "discogs": {},
   "item_master": {
-   "last_result": {
-    "added": 0,
-    "updated": 0
+   "hashes": {
+    "item_master_TEMPLATE.csv.txt": "840099cf4f1b56206f3bd77ad837d6815ded74bf9b18e507577c84dc2a58cb9a",
+    "item_master_TEMPLATE_P1.csv.txt": "840099cf4f1b56206f3bd77ad837d6815ded74bf9b18e507577c84dc2a58cb9a",
+    "item_master_TEMPLATE_P2.csv.txt": "7d489f3c4a1c5e257042af23d29a50709b8d84480e689b23167fe37a3542865d"
    },
-   "last_success": "2026-09-17T13:34:18Z"
+   "last_result": {
+    "added": 518159,
+    "updated": 172124
+   },
+   "last_success": "2026-09-17T13:43:43Z"
   },
   "lookup_apis": {
    "attempts": {},
@@ -272,5 +278,5 @@
    "last_success": "2026-09-16T17:53:12Z"
   }
  },
- "total_records": 3653670
+ "total_records": 4171829
 }
