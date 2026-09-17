@@ -1,5 +1,5 @@
 {
- "last_run": "2026-09-17T08:16:03Z",
+ "last_run": "2026-09-17T13:20:32Z",
  "records_by_source": {
   "manual": 2,
   "openfacts": 3208632,
@@ -14,7 +14,7 @@
     "added": 0,
     "updated": 0
    },
-   "last_success": "2026-09-17T01:02:51Z"
+   "last_success": "2026-09-17T13:20:32Z"
   },
   "lookup_apis": {
    "attempts": {},
@@ -22,7 +22,7 @@
     "added": 0,
     "updated": 0
    },
-   "last_success": "2026-09-17T01:02:51Z"
+   "last_success": "2026-09-17T13:20:32Z"
   },
   "openfacts": {
    "last_result": {
