@@ -175,6 +175,19 @@ dialog::backdrop{background:rgba(8,20,24,.55)}
 .scanlabel.found:focus-within{box-shadow:0 0 0 3px #3BB67F}
 #eEan.found{border-color:#1E7552; box-shadow:inset 6px 0 0 #1E7552; padding-left:18px}
 #eEan.found:focus-visible{outline-color:#3BB67F}
+.dbtotal{display:flex; flex-wrap:wrap; gap:6px 24px; align-items:baseline}
+.dbtotal .big{font-family:var(--head); font-weight:700; font-size:2.6rem; line-height:1}
+.dbtotal .live{font-family:var(--head); font-weight:700; font-size:1.5rem}
+.dbtable{min-width:0; margin-top:12px}
+.dbtable td.num, .dbtable th.num{text-align:right; white-space:nowrap}
+.dbtable td.src{font-weight:600}
+@media (max-width:699px){
+  #dbSummary table, #dbSummary thead, #dbSummary tbody, #dbSummary tr, #dbSummary td, #dbSummary th{display:revert}
+  #dbSummary thead{display:table-header-group}
+  #dbSummary tr{display:table-row; padding:0}
+  #dbSummary td, #dbSummary th{display:table-cell; padding:8px 6px; border-bottom:1px solid var(--line)}
+  #dbSummary .hide-s{display:none}
+}
 .exists{font-weight:600; min-height:0; margin-top:4px; display:flex; gap:8px; align-items:baseline; flex-wrap:wrap}
 .exists:empty{display:none}
 .exists b{font-family:var(--head); font-size:1.15rem; letter-spacing:.02em; padding:1px 8px; border-radius:3px}
@@ -232,7 +245,7 @@ dialog.scanner::backdrop{background:#000}
 <header class="top">
   <div class="brand">
     <span class="bars" aria-hidden="true"><i style="width:3px"></i><i style="width:1px"></i><i style="width:4px"></i><i style="width:1px"></i><i style="width:2px"></i><i style="width:3px"></i></span>
-    <h1>Barcode database <span class="ver">v8</span></h1>
+    <h1>Barcode database <span class="ver">v9</span></h1>
   </div>
   <div class="repo-chip" id="repoChip">Not connected</div>
 </header>
@@ -415,6 +428,17 @@ dialog.scanner::backdrop{background:#000}
       <div class="hint" id="connResult"></div>
     </form>
   </div>
+  <div class="panel" id="dbPanel">
+    <div class="btns" style="justify-content:space-between">
+      <h2>Database summary</h2>
+      <span class="btns"><button class="btn" type="button" id="dbRefresh">Refresh</button><button class="btn" type="button" id="dbCount">Count records now</button></span>
+    </div>
+    <div id="dbSummary" style="margin-top:10px"><p class="muted">Connect above to see how many records the database has.</p></div>
+    <div class="progress" id="dbProgress">
+      <div class="bar"><b></b></div>
+      <div class="btns small" style="justify-content:space-between; margin-top:6px"><span class="muted ptext"></span><button class="linkbtn" type="button" data-cancel>Cancel</button></div>
+    </div>
+  </div>
   <div class="panel">
     <h2>Barcode scanning</h2>
     <p class="muted small">Every field with a camera button can be filled by the camera. A hardware (USB or Bluetooth) scanner works in any selected field, and moves on when it sends Enter.</p>
@@ -426,7 +450,7 @@ dialog.scanner::backdrop{background:#000}
       <label class="check"><input type="checkbox" id="optFlash"> Turn on the flash when the camera opens</label>
     </div>
   </div>
-  <p class="small muted">Admin app v8</p>
+  <p class="small muted">Admin app v9</p>
 </section>
 
 </main>
@@ -696,15 +720,16 @@ async function loadSnapshot(force = false) {
   const ref = await gh(`${repoPath()}/git/ref/heads/${S.branch}`);
   const head = ref.object.sha;
   const tree = await gh(`${repoPath()}/git/trees/${head}?recursive=1`);
-  const data = new Map(), meta = new Map(); let deleted = null, bytes = 0;
+  const data = new Map(), meta = new Map(); let deleted = null, stateEntry = null, bytes = 0;
   for (const t of tree.tree) {
     if (t.type !== "blob") continue;
     let m;
     if ((m = t.path.match(/^data\/ean_(\d+)\.csv$/))) { data.set(m[1], t); bytes += t.size || 0; }
     else if ((m = t.path.match(/^meta\/src_(\d+)\.csv$/))) meta.set(m[1], t);
     else if (t.path === "meta/deleted.csv") deleted = t;
+    else if (t.path === "state.json") stateEntry = t;
   }
-  snapshot = { head, treeSha: tree.sha, data, meta, deleted, bytes, truncated: tree.truncated, at: Date.now() };
+  snapshot = { head, treeSha: tree.sha, data, meta, deleted, stateEntry, bytes, truncated: tree.truncated, at: Date.now() };
   const keep = new Set([...data.values(), ...meta.values()].map(t => t.sha)); if (deleted) keep.add(deleted.sha);
   cachePrune(keep);
   $("#repoChip").textContent = `${S.owner}/${S.repo}, ${fmtN(data.size)} files`;
@@ -851,6 +876,7 @@ $$("nav.tabs button").forEach(b => b.addEventListener("click", () => {
   $$("nav.tabs button").forEach(x => x.setAttribute("aria-selected", x === b ? "true" : "false"));
   $$("main > section").forEach(s => s.hidden = s.id !== "tab-" + b.dataset.tab);
   if (b.dataset.tab === "export") refreshExportInfo();
+  if (b.dataset.tab === "settings" && connected()) loadDbSummary();
 }));
 function openTab(name) { $(`nav.tabs button[data-tab="${name}"]`).click(); }
 
@@ -1387,6 +1413,7 @@ $("#settingsForm").addEventListener("submit", async e => {
     out.textContent = `Connected to ${repo.full_name} (${repo.private ? "private" : "public"}). ${fmtN(snap.data.size)} data files found. ` +
       (canWrite ? "Changes can be saved." : "Read only: add a token with Contents: Read and write to save changes.");
     if (snap.truncated) out.textContent += " Warning: the repository is very large and the file list was cut short.";
+    liveCount = null; loadDbSummary(true);
   } catch (err) { out.textContent = err.message; out.classList.add("bad"); }
 });
 $("#clearCache").addEventListener("click", async () => {
@@ -1834,6 +1861,95 @@ document.addEventListener("keydown", e => {
 [["optBeep", "beep"], ["optVibrate", "vibrate"], ["optAutoSearch", "autoSearch"], ["optWedge", "wedge"], ["optFlash", "flash"]].forEach(([id, key]) => {
   const el = document.getElementById(id); el.checked = !!SO[key];
   el.addEventListener("change", () => { SO[key] = el.checked; saveSO(); });
+});
+
+/* ============================================================ DATABASE SUMMARY (Settings) */
+const SOURCE_NAMES = {
+  openfacts: "Open Food / Beauty / Products / Pet Food Facts", usda: "USDA branded foods", wikidata: "Wikidata",
+  manual: "Your edits and imports (this app)", item_master: "Item master file (inbox)", lookup_apis: "Barcode lookup APIs",
+  discogs: "Discogs (music)", openlibrary: "Open Library (books)", webdatacommons: "Web shops (Web Data Commons)", legacy: "Earlier version",
+};
+let liveCount = null;   // {total, head, at}
+function ago(iso) {
+  const ms = Date.now() - new Date(iso).getTime(); if (isNaN(ms)) return "";
+  const m = Math.round(ms / 60000);
+  if (m < 1) return "just now"; if (m < 60) return `${m} min ago`;
+  const h = Math.round(m / 60); if (h < 48) return `${h} hour${h === 1 ? "" : "s"} ago`;
+  const d = Math.round(h / 24); return `${d} days ago`;
+}
+function fmtWhen(iso) {
+  if (!iso) return "";
+  const d = new Date(iso); if (isNaN(d)) return iso;
+  return d.toLocaleString("en-GB", { day: "2-digit", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+}
+async function loadDbSummary(force = false) {
+  const box = $("#dbSummary");
+  if (!connected()) { box.innerHTML = '<p class="muted">Connect above to see how many records the database has.</p>'; return; }
+  box.innerHTML = '<p class="muted">Loading summary</p>';
+  try {
+    const snap = await loadSnapshot(force);
+    let st = null;
+    if (snap.stateEntry) { try { st = JSON.parse(await blobText(snap.stateEntry, snap.head)); } catch { st = null; } }
+    const sizeMb = (snap.bytes / 1048576).toFixed(1);
+    if (!st) {
+      box.innerHTML = `<p>No summary yet: the daily update hasn't finished a run. ${fmtN(snap.data.size)} data files, ${sizeMb} MB.</p>`;
+      renderLive(box); return;
+    }
+    const bySrc = st.records_by_source || {};
+    const srcState = st.sources || {};
+    const names = [...new Set([...Object.keys(bySrc), ...Object.keys(srcState).filter(k => srcState[k] && srcState[k].last_success)])]
+      .sort((a, b) => (bySrc[b] || 0) - (bySrc[a] || 0));
+    const rows = names.map(k => {
+      const s = srcState[k] || {}, r = s.last_result || {};
+      const res = s.last_result ? `${fmtN(r.added || 0)} added, ${fmtN(r.updated || 0)} updated` : "";
+      return `<tr><td class="src">${esc(SOURCE_NAMES[k] || k)}</td><td class="num">${fmtN(bySrc[k] || 0)}</td>
+        <td class="hide-s">${s.last_success ? esc(fmtWhen(s.last_success)) : '<span class="muted">not run yet</span>'}</td>
+        <td class="hide-s small muted">${esc(res)}</td></tr>`;
+    }).join("");
+    const enabledOff = Object.keys(srcState).filter(k => !names.includes(k)).map(k => SOURCE_NAMES[k] || k);
+    box.innerHTML = `
+      <div class="dbtotal">
+        <div><div class="small muted">Total records</div><div class="big">${fmtN(st.total_records || 0)}</div></div>
+        <div class="small"><div>Last update: <strong>${esc(fmtWhen(st.last_run))}</strong> <span class="muted">(${esc(ago(st.last_run))})</span></div>
+          <div class="muted">${fmtN(snap.data.size)} data files, ${sizeMb} MB</div></div>
+        <div id="dbLive"></div>
+      </div>
+      <div class="tablewrap dbtable"><table>
+        <thead><tr><th>Source</th><th class="num">Records</th><th class="hide-s">Last run</th><th class="hide-s">Last result</th></tr></thead>
+        <tbody>${rows || '<tr><td colspan="4" class="muted">No sources have run yet.</td></tr>'}</tbody>
+      </table></div>
+      ${enabledOff.length ? `<p class="small muted" style="margin-top:8px">Not run yet or switched off: ${esc(enabledOff.join(", "))}.</p>` : ""}
+      <p class="small muted" style="margin-top:8px">These totals are updated by the daily run. Changes made in this app since then are included next time, or use Count records now.</p>`;
+    renderLive(box);
+  } catch (err) { box.innerHTML = `<p class="hint bad">${esc(err.message)}</p>`; }
+}
+function renderLive(box) {
+  const el = box.querySelector("#dbLive") || box.appendChild(Object.assign(document.createElement("div"), { id: "dbLive" }));
+  if (!liveCount || !snapshot || liveCount.head !== snapshot.head) { el.innerHTML = ""; return; }
+  el.innerHTML = `<div class="small muted">Counted now</div><div class="live">${fmtN(liveCount.total)}</div>`;
+}
+$("#dbRefresh").addEventListener("click", () => loadDbSummary(true));
+$("#dbCount").addEventListener("click", async () => {
+  if (!connected()) return toast("Connect to your repository first.");
+  const btn = $("#dbCount"); btn.disabled = true;
+  const prog = progress($("#dbProgress"));
+  try {
+    const snap = await loadSnapshot(true);
+    const keys = [...snap.data.keys()]; let done = 0, total = 0;
+    await pool(keys, 6, async k => {
+      if (prog.cancelled) return;
+      const t = await blobText(snap.data.get(k), snap.head);
+      let n = 0, i = -1; while ((i = t.indexOf("\n", i + 1)) !== -1) n++;
+      if (t.length && !t.endsWith("\n")) n++;
+      total += Math.max(0, n - 1);                 // minus the header line
+      prog.set(++done, keys.length, `Counting ${done} of ${keys.length} files, ${fmtN(total)} records so far`);
+    });
+    if (prog.cancelled) { toast("Counting stopped."); return; }
+    liveCount = { total, head: snap.head, at: Date.now() };
+    await loadDbSummary();
+    toast(`${fmtN(total)} records in the database right now.`);
+  } catch (err) { toast(err.message, true, 7000); }
+  finally { prog.end(); btn.disabled = false; }
 });
 
 fillSettings();
