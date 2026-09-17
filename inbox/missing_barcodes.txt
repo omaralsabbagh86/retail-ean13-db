@@ -1,2 +1,0 @@
-# One barcode per line. Add barcodes your scanner apps could not find.
-# Found ones are removed automatically; unknown ones move to not_found.txt after 7 days.

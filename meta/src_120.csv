@@ -133,7 +133,12 @@ ean13,source
 1200116000003,openfacts
 1200120000006,openfacts
 1200120890126,openfacts
+1200130004582,webdatacommons
+1200130004599,webdatacommons
+1200130004735,webdatacommons
+1200130005060,webdatacommons
 1200130008764,openfacts
+1200130009433,webdatacommons
 1200130009440,webdatacommons
 1200130009457,webdatacommons
 1200130009471,webdatacommons
@@ -141,6 +146,9 @@ ean13,source
 1200130010156,webdatacommons
 1200130010224,webdatacommons
 1200130011146,webdatacommons
+1200130011153,webdatacommons
+1200130011160,webdatacommons
+1200130011443,webdatacommons
 1200130013898,webdatacommons
 1200130013997,openfacts
 1200130028243,openfacts

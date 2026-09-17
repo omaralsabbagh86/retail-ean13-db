@@ -1,22 +1,35 @@
 {
- "last_run": "2026-09-16T23:20:52Z",
+ "last_run": "2026-09-17T01:02:51Z",
  "records_by_source": {
   "manual": 2,
-  "openfacts": 3208607,
+  "openfacts": 3208632,
   "usda": 423538,
-  "webdatacommons": 6443,
+  "webdatacommons": 13347,
   "wikidata": 2191
  },
  "sources": {
   "discogs": {},
-  "item_master": {},
-  "lookup_apis": {},
+  "item_master": {
+   "last_result": {
+    "added": 0,
+    "updated": 0
+   },
+   "last_success": "2026-09-17T01:02:51Z"
+  },
+  "lookup_apis": {
+   "attempts": {},
+   "last_result": {
+    "added": 0,
+    "updated": 0
+   },
+   "last_success": "2026-09-17T01:02:51Z"
+  },
   "openfacts": {
    "last_result": {
-    "added": 3570329,
-    "updated": 12063
+    "added": 25,
+    "updated": 6
    },
-   "last_success": "2026-09-16T17:42:53Z",
+   "last_success": "2026-09-17T01:02:51Z",
    "processed_deltas": [
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788394705_1788481108.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788481108_1788567533.json.gz",
@@ -31,6 +44,7 @@
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789258748_1789345144.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789345144_1789431506.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789431506_1789517907.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789517907_1789604337.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788415813_1788503475.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788503475_1788589401.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788589401_1788675653.json.gz",
@@ -57,6 +71,7 @@
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789258603_1789344996.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789344996_1789431359.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789431359_1789517760.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789517760_1789604192.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788404521_1788490921.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788490921_1788577321.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788577321_1788663725.json.gz",
@@ -138,14 +153,64 @@
     "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1039.gz",
     "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_104.gz",
     "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1040.gz",
-    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1041.gz"
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1041.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1042.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1043.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1044.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1045.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1046.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1047.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1048.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1049.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_105.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1050.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1051.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1052.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1053.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1054.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1055.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1056.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1057.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1058.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1059.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_106.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1060.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1061.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1062.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1063.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1064.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1065.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1066.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1067.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1068.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1069.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_107.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1070.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1071.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1072.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1073.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1074.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1075.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1076.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1077.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1078.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1079.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_108.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1080.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1081.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1082.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1083.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1084.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1085.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1086.gz",
+    "https://data.dws.informatik.uni-mannheim.de/structureddata/2024-12/quads/classspecific/Product/part_1087.gz"
    ],
-   "found_total": 6443,
+   "found_total": 13347,
    "last_result": {
-    "added": 6443,
+    "added": 6904,
     "updated": 0
    },
-   "last_success": "2026-09-16T23:20:52Z"
+   "last_success": "2026-09-17T01:02:51Z"
   },
   "wikidata": {
    "last_result": {
@@ -155,5 +220,5 @@
    "last_success": "2026-09-16T17:53:12Z"
   }
  },
- "total_records": 3640781
+ "total_records": 3647710
 }
