@@ -3,6 +3,9 @@ name: Daily barcode database update
 on:
   schedule:
     - cron: "0 1 * * *"   # 01:00 UTC = 05:00 Dubai
+  push:
+    paths:
+      - "inbox/**"          # uploading a list to inbox/ starts an update within a minute or two
   workflow_dispatch:
     inputs:
       sources:
@@ -22,14 +25,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests openpyxl
 
       - name: Update database
         env:
@@ -37,7 +40,9 @@ jobs:
           GO_UPC_KEY: ${{ secrets.GO_UPC_KEY }}
           BARCODELOOKUP_KEY: ${{ secrets.BARCODELOOKUP_KEY }}
         run: |
-          if [ -n "${{ inputs.sources }}" ]; then
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python update_db.py --sources item_master,lookup_apis
+          elif [ -n "${{ inputs.sources }}" ]; then
             python update_db.py --sources "${{ inputs.sources }}"
           else
             python update_db.py
