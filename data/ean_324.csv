@@ -595,7 +595,7 @@ ean13,description,created_at,modified_at
 3240931546360,Lustucru selection Tagliatelles aux oeufs frais 600g 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931546377,Lustucru selection Tagliatelles larges 350g 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931546384,Lustucru selection Fettuccini 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3240931546391,Lustucru Tagliatelles basilic 300g selection 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3240931546391,Lustucru Tagliatelles basilic 300 g,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 3240931546407,Lustucru fettuccini 600g 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931546445,Lustucru grande raviole bleu d'auvergne 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931546452,Lustucru Lustucru selection Girasoli mozzarella chorizo 250g 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -748,7 +748,7 @@ ean13,description,created_at,modified_at
 3240931548692,Lustucru selection Lustucru lot 2+1 ravioli jambon creme champignon 300g x4 900 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931548708,Lustucru selection Ravioli Jambon 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931548715,Lustucru selection Lustucru lot 2 gnocchini a poeler 300g 1 achete 2eme 68% x9 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3240931548722,Lustucru selection Lustucru lot 2 gnocchi a poeler star 300g 1 achete 2eme 68% x4 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3240931548722,Lustucru lot 2 gnocchi a poeler star 300g 1 achete 2eme 68% x4 600 g,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 3240931548739,Lustucru selection Lot de 2 lustucru gnocchi a poeler roll fromage 280g x4 560 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931548746,Lustucru Roll à poêler fromage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931548753,Lustucru gnocchi a poeler roll cheddar bacon 280g x9 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1806,6 +1806,7 @@ ean13,description,created_at,modified_at
 3242611111998,Eyguebelle Sirop Thé vert citron & fleur de sureau,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242611112001,Eyguebelle Sirop thé vert Framboise cardamome 50 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242611112049,Sirop gingembre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3242611112063,Sirop Mojito,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 3242611116368,Mure,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242611134010,Eyguebelle Sirop de grenadine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242611134027,Eyguebelle Sirop de menthe bio,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8288,7 +8289,7 @@ ean13,description,created_at,modified_at
 3248830002871,Gnocchetti et poulet crème au parmesan,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830002918,Marie Risotto au poulet 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830002925,Marie Parmentier de poulet rôti purée au beurre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3248830002956,Marie Gnocchetti a la crème et Saumon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3248830002956,Marie Gnocchetti à la crème et saumon 280 g,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 3248830002963,WeightWatchers Serpentini à l’arrabbiata,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830002970,"Marie Orzotto crémeux, Pesto rosso, Fromage de brebis 300 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830002987,Marie Bouchées aux pois chiches caponata boulgour aux légumes 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8301,6 +8302,7 @@ ean13,description,created_at,modified_at
 3248830003069,Nems poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830003076,Nems porc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830003083,Nems crevette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3248830003168,Traditions d'Asie Nems Crevette X8 - 520 GR,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 3248830003175,Nems Porc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830003182,Nems poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3248830010852,Marie Croustimoelleuse Extreme New-Yorkaise 530 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

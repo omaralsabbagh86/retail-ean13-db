@@ -6567,7 +6567,7 @@ ean13,description,created_at,modified_at
 0070200864467,"Olive Garden Parmesan Ranch Dressing, Parmesan Ranch 24 fl oz/1.5 PT/709 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070200864559,Olive Garden Signature Italian Dressing 56 fl oz/3.5 PT/1.6 L,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070200870383,"Chick-Fil-A Sweet & Spicy Sriracha Sauce, Sweet & Spicy Sriracha 16 floz/1 PT/473 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
-0070200870468,Chick-fil-A Honey Mustard Sauce 473 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070200870468,Chick Fill A Honey Mustard Sauce 16 fl oz,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0070200870475,Chick-fil-A Zesty Buffalo Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070200871717,"Marzetti Blue Cheese Dressing, Blue Cheese 1.5 OZ/43 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0070200872875,"Mariette Fat, free Italian dressing",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -7785,7 +7785,7 @@ ean13,description,created_at,modified_at
 0070253012266,f.r. cloves,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253012334,Our Family Crispy Rice 12 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253012372,Our Family Chocolate Mini Cupcakes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0070253012402,Our Family Kosher Dill Pickle Spears,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070253012402,Our Family OF Kosher Dill Pickle Spears,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0070253012471,Finest Reserve Vidalia onion sweet and tangy steak sauce 13.5oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253012570,Finest Reserve Extra Virgin Italian Salad Dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253012686,Finest Reserve Blush Wine Vinaigrette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -10191,7 +10191,7 @@ ean13,description,created_at,modified_at
 0070310013786,Tropical Pineapple,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070310013878,seagrams refreshers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070310014134,Seagrams Hard Seltzer,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0070310014790,Blueberry Acai Lemomade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070310014790,Seagram's Escapes Blueberry Acai Lemomade,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0070310014837,Jamaican Me Happy,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070310014844,Spiked strawberry blast,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070310015476,Seagrams Escapes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11138,7 +11138,7 @@ ean13,description,created_at,modified_at
 0070411613601,"Oberto Spicy Sweet Beef Jerky, Spicy Sweet 2.7 OZ./77 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0070411613816,Pacific Gold Beef Jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070411613861,Oberto Beef Jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0070411613878,Pacific Gold Original Beef Jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070411613878,Beef jerky Pacific gold 16 oz,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0070411614011,Oberto American Wagyu Beef smoked sausage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070411614202,Oberto Teriyaki Beef Jerky 15 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070411614219,Oberto Beef Jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11870,6 +11870,7 @@ ean13,description,created_at,modified_at
 0070462015546,Sour Patch Kids Fruits Tropical Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070462015591,Sour Patch Kids Besties,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070462015607,Sour Patch Kids Fruits Tropical Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070462016468,Sour Patch Kids Chewy Watermelon,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0070462016543,Sour Patch Kids Pokémon Watermelon Gummies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070462016659,Sour Patch Peach Soft Candy Peach Fat Free24X2.000 Oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070462016727,"Sour Patch Kids, Soft & Chewy Candy, Peach, Peach",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -12734,6 +12735,7 @@ ean13,description,created_at,modified_at
 0070475656071,Giorgio Baby bella crimini mushrooms 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070475656095,"Giorgio, Fresh Sliced Baby Bella",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070475656163,Giorgio Fresh Sliced Shiitake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070475656545,"Giorgio Fresh Stir Fry Blend Crimini, Shiitake & Oyster Mushrooms",2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0070475656651,Giorgio Sliced Mushrooms Fresh 'N Clean Baby Bella (Crimini),2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070475656736,Giorgio Fresh Mushrooms,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070475656767,Giorgio Fresh Mushrooms,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -15546,6 +15548,7 @@ ean13,description,created_at,modified_at
 0070617358856,"Barbara'S Organic Cinnamon Raisin Bran Crunch Cereal, Cinnamon 10 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070617359723,"Barbara'S Original Cheese Puffs, Original 20 OZ/567 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0070617490211,Post consumer brands Weetabix 14 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070617497524,Barbara’s Cinnamon Puffins,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0070620001015,Jack Rabbit Navy Beans 16 oz/1 lbs/453 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070620001046,Jack Rabbit Light Red Kidney Beans 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070620001077,Jack Rabbit Cranberry/Roman Beans 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -21722,6 +21725,7 @@ ean13,description,created_at,modified_at
 0070847900313,Monster Punch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070847900856,Monster Energy Strawberry Lemonade 16 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070847901013,Monster Energy Ultra Wild Passion,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070847901464,Monster Energy Bad Apple,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0070848460205,Monster Ultra sunrise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070852000077,Clover Sonoma 1% Low Fat Milk 1 GAL/3.78 L,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070852000084,Clover Stornetta Milk Reduced Fat 2% - 1 Gallon,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -28363,6 +28367,7 @@ ean13,description,created_at,modified_at
 0071179522761,Shelled edamame Vegan Grade A Sona,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071179751666,Simply Potatoes Rosemary,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071179777765,Corn and blackbean mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0071179790665,Simplot Flame Roasted Sweet Corn &peppers,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0071181539405,Liquicroc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071184041400,Paradontax Menthe fraîche,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071185000000,Martin’s Potato Sandwich rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -32333,6 +32338,7 @@ ean13,description,created_at,modified_at
 0071536908795,Laredo Taco Company Wing Buffalo 9 oz,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0071536908818,Sun Company Wing Spicy 9 OZ,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0071536908856,"Laredo Taco Company Chocolate Chunk Cookies, Chocolate Chunk 3.5 oz.",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0071536908924,7-Eleven Red Velvet 2 pk,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0071536910521,"N/A Bacon, Egg, Cheese Croissant, Bacon, Egg, Cheese 5.5 oz.",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0071536912556,SNAP Berry Parfait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071536912570,Speedway Hard Boiled Egg Cup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -36493,6 +36499,7 @@ ean13,description,created_at,modified_at
 0071921183448,"Digiorno Spicy Sausage Pomodoro Rosemary Focaccia Bread Topped With Italian Sausage, Fire Roasted Peppers, Premium Blend Of Cheeses And Fiery Arrabbiata Sauce, Spicy Sausage Pomodoro 8.5 oz/243 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0071921189372,"California Pizza Kitchen Bbq Recipe Chicken With Bacon Applewood-Smoked Bacon, Bbq-Seasoned White Meat Chicken, Red Onions, Cilantro, Smoked Gouda & Mozzarella Cheeses, And Sweet And Tangy Bbq Sauce On Our Hand-Tossed Style Crust Pizza, Bbq Recipe Ch",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0071921190415,"Digiorno Buffalo-Style Chicken White Meat Chicken With Spicy Buffalo Sauce And Ranch Sauce On A Cheese Stuffed Crust Pizza, Buffalo-Style Chicken 24.7 oz/700 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0071921193317,DiGiorno Supreme Rising Crust Original Pizza 29.3 oz,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0071921195168,"Tombstone Double Down Deluxe Premium Pepperoni Italian Sausage, Red + Green Peppers, Caramelized Onions, Mozzarella Cheese, Thin Crust Loaded Pizza, Double Down Deluxe 23.7 oz/672 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0071921199241,"Digiorno Spicy Sausage Italiano & Provolone Spicy Italian Sausage, Reduced Fat Provolone, Diced Tomatoes With Mozzarella Thin Pizza, Spicy Sausage Italiano & Provolone 17.6 oz/500 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0071921199548,Tombstone Original Supreme 12in Frozen Pizza 20.8oz Package 20.8 ONZ,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -38815,6 +38822,7 @@ ean13,description,created_at,modified_at
 0072036715463,"Harris Teeter, Lite Nonfat Yogurt, Lemon",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072036715470,Harris Teeter Lite Nonfat Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072036715555,Harris Teeter Chili powder,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0072036715630,Harris Teeter ginger ground,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0072036715654,Harris Teeter Taco seasoning,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036715692,Harris Teeter BROWN GRAVY MIX,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036715722,"Harris Teeter Chocolate Chip Chewy Granola Bars, Chocolate Chip",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -39100,6 +39108,7 @@ ean13,description,created_at,modified_at
 0072036727176,"Harris Teeter Chocolate Milk Chocolate Covered Nuts, Raisins And Creams Bridge Mix, Chocolate 10 oz/283 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072036727237,Harris Teeter Extra Creamy Whipped Topping,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036727244,Harris Teeter Frosted Toaster Pastries 22 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0072036727305,Harris Teeter Red Pepper Crushed,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0072036727329,Harris Teeter paprika,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036727398,Harris Teeter Pure Almond Extract 1 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036727404,Ht Traders Mini peanut butter filled pretzels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -45772,6 +45781,7 @@ ean13,description,created_at,modified_at
 0072392349821,"Wyler'S Lemonade Low Calorie Drink Mix Pitcher Packs, Lemonade 3.1 oz/87.8 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0072392349838,"Wyler'S Pink Lemonade Low Calorie Drink Mix Pitcher Packs, Pink Lemonade 3.1 oz/87.8 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0072392349869,"Wyler'S Peach Iced Tea Low Calorie Drink Mix Pitcher Packs, Peach Iced Tea 1.35 oz/38.2 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
+0072392350605,Wyler's Light Piña Colada Drink Mix,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0072392350612,Wyler’s Light Singles To Go,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072392350643,Wyler's Light Cotton Candy Water Flavoring,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072392350674,Wyler's Light Shirley Temple,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -47576,6 +47586,7 @@ ean13,description,created_at,modified_at
 0072486010040,"Jiffy Vegetarian Corn Muffin Mix, Vegetarian 8.5 oz/240 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072486010514,Jiffy Buttermilk Pancake & Waffle Mix 32 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072486010729,"Jiffy Honey Corn Muffin Mix, Honey 8.5 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0072486068867,JIFFY corn muffin mix,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0072488000094,"Torn & Glasser Inc Beet Chips, Beet 4.5 oz/128 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0072488000155,Torn & Glasser Inc Red Nordic Fish 16 oz/454 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072488000216,"Torn & Glasser Inc Chocolate Flavored & Caramel Patriotic Assortment, Chocolate 7.5 oz/213 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -65953,7 +65964,7 @@ ean13,description,created_at,modified_at
 0074203828020,Aladdin Bakers Whole Wheat Jumbo Bagels 402 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074203941019,Baked In Brooklyn Sliced White Sandwich Bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074203990017,baked in Brooklyn Pita Chips 1,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0074203990086,Pita chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0074203990086,Aladdin Bakers Pita chips,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0074203990758,Baked in Brooklyn Pita Chips Sea Salt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074203991014,"Baked In Brooklyn Pita Chips, Sea Salt 8 oz/226.8 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074203991083,Multi grain pita chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -68418,6 +68429,7 @@ ean13,description,created_at,modified_at
 0074453006537,"Taffy Town Bear Lake Raspberry Taffy, Bear Lake Raspberry 14 OZ/397 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074453006544,Taffy Town Brigham City Peach,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074453006551,Taffy Town Cheddar Chews,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0074453006575,Taffy Town Caramel Apple Taffy,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0074453006629,"Harmons Cottiontail Taffy, Fun Fruit 16 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074453006636,"Harmons Melon Mix Taffy, Honeydew, Cantaloupe, Watermelon 16 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074453006667,"Taffy Town, Harmons, Gingerbread Taffy 16 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -68915,6 +68927,7 @@ ean13,description,created_at,modified_at
 0074562150039,Original Creme Mexican-Style Sour Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074562150053,"Cacique Picante Mexican-Style Sour Cream, Picante 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074562150084,Cacique Pork Al Pastor 48 oz/3 lbs/1.36 kg,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
+0074562150138,Cacique Queso Quesadilla,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0074562150183,Cacique Premium Pork Chorizo,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074562150336,Cacique Mexican Style Shredded Four Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074562150343,Cacique Cotija Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -81461,6 +81474,7 @@ ean13,description,created_at,modified_at
 0075450846812,Hy-Vee Tavern Inn Pizza - Pepperoni,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0075450846829,Hyvee Supreme Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0075450846843,Hy-Vee Breakfast Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0075450847284,Hy-Vee Bagel Bites,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0075450847574,Lomer Chocolate Iced Peanut Butter Crispy Bites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0075450847802,Midwest Country Fare 100% Pure Vegetable Oil 48 fl oz/1.5 Quart/1.42 L,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0075450847925,Midwest Country Fare 100% Pure Vegetable Oil 32 fl oz/1 Quart/946 mL,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -85808,7 +85822,7 @@ ean13,description,created_at,modified_at
 0076183003169,Snapple Half 'n half lemonade iced tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0076183003176,"Snapple All Natural Peach Mangosteen Flavored Juice Drink From Concentrate, Peach Mangosteen 16 fl oz/473 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0076183003183,Snapple Diet half and half,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0076183003190,Snapple Raspberry tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0076183003190,Snapple Raspberry tea 16 oz,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0076183003206,Zero sugar snapple tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0076183003213,Diet snapple raspberry tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0076183003220,Snapple Cranberry raspberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -91396,7 +91410,7 @@ ean13,description,created_at,modified_at
 0077013615774,Just Bare Pre-Cut Boneless Skinless Chicken Breast Bites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077013615811,Just Bare Lightly Breaded Chicken Breast Italian Style Strips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077013615989,Just Bare Roasted Chicken Breast Bites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0077013616061,Just Bare Chicken Tenders 36 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077013616061,Just Bare Lightly breaded chicken breast strips 93 g,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0077013616108,Just Bare Oven Roasted Chicken Breast Bites 1.2 lb,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077013616115,Just Bare Chicken Breast Bites 19.2 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077013616122,Just Bare Lightly Breaded Chicken Breast Fillets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -102413,6 +102427,7 @@ ean13,description,created_at,modified_at
 0077890607350,Wegman’s Squeezable Mediterranean Blend Olive Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890607367,Wegmans Classic Avocado Oil Squeezable,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890607404,Wegmans Bourbon Bbq Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077890607473,Wegmans Roasted Vegetable Ravioli,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0077890607800,"Wegmans Sparkling Water, Orange Vanilla 355 mL",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890608197,Wegmans Mini Chocolate Chip Cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890608326,Wegmans Protein Pasta - Spaghetti,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -102596,6 +102611,7 @@ ean13,description,created_at,modified_at
 0077890628812,Wegmans Lemon Mousse Cake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890628829,wegmans lemon mousse cake slice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890630020,Wegmans Kettle Cooked Potato Chips Granny's Dangerously Delicious Flavored,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077890630709,Wegmans Cavatappi Pasta,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0077890631409,Wegmans Banana Cream Pie Cake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890632260,Wegmans Large Pineapple Salad,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890632345,Wegmans Angus Beef Patty 80% Lean,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -102608,6 +102624,7 @@ ean13,description,created_at,modified_at
 0077890633557,"Wegmans Lemon Lime Flavored Soda, Lemon Lime 67.6 fl oz/2 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077890634073,"Wegmans W-Up Lemon Lime Soda, Lemon 67.6 fl oz/2 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077890635599,Wegmans Creamy Ranch Dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077890636220,Wegmans Indulgent Premium French Ice Cream Bar Ultimate Dark Chocolate,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0077890636244,Wegmans Indulgent Premium French Ice Cream Bars Madagascar Vanilla,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890637173,"Wegmans Citrus Flavored Mountain W Soda, Citrus 67.6 fl oz/2 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077890637913,Wegmans Cannellini Beans 15.5 oz/439 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -103555,6 +103572,7 @@ ean13,description,created_at,modified_at
 0077958289641,Spoonful Chicken Tortilla Soup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077958289696,Spoonful Of Comfort Chicken And Wild Rice Soup 32 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077958289948,Spoonful of Comfort Tomato Basil Soup 32 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077958410274,Blount's Family Kitchen Macaroni and Cheese,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0077958410502,Blount's family kitchen White Cheddar Mac & Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077958416412,love&ladle White Meat Chicken Noodle Soup With Bone Broth,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077958416429,Love & Ladle Beef Chili With Beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -106584,6 +106602,7 @@ ean13,description,created_at,modified_at
 0078516903009,Turkey Creek Snacks Dill Pickle Pork Rinds 3 oz/85.05 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0078516904006,Turkey Creek Snacks Dill pickle flavored chicharones fried pork skins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078516905003,Turkey Creek Mango Habanero Chicharrones,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0078516906000,Turkey Creek Snacks Mango Hamanero Fried Pork Skins,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0078518999642,Mexicana Cheddar slice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078522000785,Jason Tea Tree Shampoo,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078522015000,Jäsön Powersmile 170gr,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -116313,6 +116332,7 @@ ean13,description,created_at,modified_at
 0078821200862,Nickles New England Hot Dog Rolls 9 oz/255 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0078821200879,Nickles Enriched Hot Dog Buns 20 oz/567 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0078821201135,"Nickles Maple Twist, Sweet Roll'S 1 lbs/16 oz/454 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0078821201432,Nichols Burger Buns,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0078821201500,Nickles Italian Sandwiches Rolls 18 oz/510 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0078821201524,Nickles Sliders,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078821201869,Nickles Hawaiian Sweet Rolls 12 oz/340 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -116543,7 +116563,7 @@ ean13,description,created_at,modified_at
 0078895124651,Lee Kum Kee Sauce For Teriyaki Chicken 72 g/2.5 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0078895124675,Lee Kam Kee Sauce for Oriental Pork Chip 80 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078895124910,"Lee Kum Kee Soy Sauce, Soy 64 fl oz/2 qt/1.9 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
-0078895125054,LEE KUM KEE Ready Sauce for COCONUT CURRY VEGETABLES 110g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0078895125054,Lee Kum Kee Ready Sauce for Coconut Curry Vegetables 110g,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0078895125092,Lee Kum Kee Sauce for Kung Pao Chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078895125306,Lee Kum Kee Oestersaus 9 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078895126334,"Sauce D'huître Panda Lee Kum Kee 2.4 KG, 1 Bouteille",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -116814,7 +116834,7 @@ ean13,description,created_at,modified_at
 0078895154825,Lee kum kee 500 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078895155174,"Lee Kum Kee Laksa Soup Base, Laksa 7 oz/198 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0078895155518,Lee Kum Kee 纯石磨芝麻油,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0078895155570,Mushroom bouillon powder,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0078895155570,Lee Kum Kee Mushroom bouillon powder,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0078895155587,Hoisin Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078895155655,Lee Kum Kee Sesame Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0078895155778,Lee Kum Kee Sesame wok oil 207ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
