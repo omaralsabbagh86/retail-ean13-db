@@ -1376,6 +1376,7 @@ ean13,source
 0050233602380,usda
 0050233602564,openfacts
 0050234110495,webdatacommons
+0050234110693,webdatacommons
 0050234210355,webdatacommons
 0050234210393,webdatacommons
 0050234210416,webdatacommons
@@ -1383,11 +1384,13 @@ ean13,source
 0050234210614,webdatacommons
 0050234220965,webdatacommons
 0050234310420,webdatacommons
+0050234311458,webdatacommons
 0050234710084,webdatacommons
 0050234712323,webdatacommons
 0050234712347,webdatacommons
 0050234712521,webdatacommons
 0050234933186,webdatacommons
+0050234934022,webdatacommons
 0050234943031,webdatacommons
 0050244030424,openfacts
 0050245032465,openfacts
@@ -4581,6 +4584,7 @@ ean13,source
 0050743046681,webdatacommons
 0050743116728,webdatacommons
 0050743172298,webdatacommons
+0050743172403,webdatacommons
 0050743173493,webdatacommons
 0050743227301,webdatacommons
 0050743605987,webdatacommons
@@ -6632,9 +6636,12 @@ ean13,source
 0051131705364,webdatacommons
 0051131705371,webdatacommons
 0051131769083,webdatacommons
+0051131809741,webdatacommons
 0051131830271,webdatacommons
 0051131851580,webdatacommons
 0051131851597,webdatacommons
+0051131862937,webdatacommons
+0051131921061,webdatacommons
 0051131936836,openfacts
 0051131936843,openfacts
 0051131939639,webdatacommons
@@ -6643,6 +6650,7 @@ ean13,source
 0051131982321,webdatacommons
 0051131995253,openfacts
 0051131995963,webdatacommons
+0051131998445,webdatacommons
 0051135208335,webdatacommons
 0051138290085,openfacts
 0051140383096,openfacts
@@ -6653,6 +6661,8 @@ ean13,source
 0051141346465,openfacts
 0051141346939,webdatacommons
 0051141346991,webdatacommons
+0051141347011,webdatacommons
+0051141347042,webdatacommons
 0051141348346,webdatacommons
 0051141357577,openfacts
 0051141365268,webdatacommons
@@ -15258,10 +15268,12 @@ ean13,source
 0052417976331,usda
 0052427302250,openfacts
 0052427450012,openfacts
+0052427500021,webdatacommons
 0052427500045,webdatacommons
 0052427500052,webdatacommons
 0052427500083,openfacts
 0052427601094,webdatacommons
+0052427603401,webdatacommons
 0052427620002,webdatacommons
 0052427620200,openfacts
 0052427620521,openfacts
@@ -28064,6 +28076,11 @@ ean13,source
 0056025647805,openfacts
 0056028640674,openfacts
 0056032001201,openfacts
+0056035351976,webdatacommons
+0056035361173,webdatacommons
+0056035365126,webdatacommons
+0056035366253,webdatacommons
+0056035366581,webdatacommons
 0056036003454,openfacts
 0056036005106,openfacts
 0056039535013,openfacts
@@ -28807,7 +28824,10 @@ ean13,source
 0056389084001,webdatacommons
 0056389087750,webdatacommons
 0056389090651,webdatacommons
+0056389093126,webdatacommons
 0056389093409,webdatacommons
+0056389098121,webdatacommons
+0056389099654,webdatacommons
 0056394400346,openfacts
 0056394900389,openfacts
 0056400470448,openfacts

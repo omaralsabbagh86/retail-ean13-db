@@ -65,6 +65,7 @@ ean13,source
 6970100373042,webdatacommons
 6970100373431,webdatacommons
 6970100373943,webdatacommons
+6970100374001,webdatacommons
 6970102340592,openfacts
 6970102340608,openfacts
 6970102341537,openfacts
@@ -120,6 +121,7 @@ ean13,source
 6970184150393,openfacts
 6970189790013,openfacts
 6970192804493,openfacts
+6970194085814,webdatacommons
 6970194086101,webdatacommons
 6970194086125,webdatacommons
 6970194086521,webdatacommons
@@ -166,9 +168,11 @@ ean13,source
 6970244522184,webdatacommons
 6970244522191,webdatacommons
 6970244522658,webdatacommons
+6970244524928,webdatacommons
 6970244525529,webdatacommons
 6970244525536,webdatacommons
 6970244526700,webdatacommons
+6970244526922,webdatacommons
 6970245516359,openfacts
 6970248889856,openfacts
 6970261312508,openfacts
@@ -242,6 +246,7 @@ ean13,source
 6970379611494,webdatacommons
 6970379613849,webdatacommons
 6970379614686,webdatacommons
+6970379615744,webdatacommons
 6970379617809,webdatacommons
 6970379618073,webdatacommons
 6970380542589,openfacts
@@ -492,6 +497,7 @@ ean13,source
 6970645319987,openfacts
 6970647060542,openfacts
 6970648212308,openfacts
+6970648213053,webdatacommons
 6970651389752,webdatacommons
 6970655115340,openfacts
 6970657130174,openfacts
@@ -1009,6 +1015,7 @@ ean13,source
 6971408152254,openfacts
 6971408153459,webdatacommons
 6971408153473,webdatacommons
+6971408157044,webdatacommons
 6971415833504,openfacts
 6971415835782,openfacts
 6971415837014,openfacts
@@ -2374,7 +2381,9 @@ ean13,source
 6973674520706,openfacts
 6973677103036,openfacts
 6973687240356,webdatacommons
+6973687247638,webdatacommons
 6973687247652,webdatacommons
+6973687248291,webdatacommons
 6973687248345,webdatacommons
 6973687248710,webdatacommons
 6973690022079,openfacts

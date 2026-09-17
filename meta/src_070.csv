@@ -6842,6 +6842,7 @@ ean13,source
 0708002300790,openfacts
 0708002301667,openfacts
 0708002327582,openfacts
+0708002400117,webdatacommons
 0708002400216,webdatacommons
 0708002400223,webdatacommons
 0708002400315,webdatacommons
@@ -6857,9 +6858,11 @@ ean13,source
 0708002400599,openfacts
 0708002400612,openfacts
 0708002400629,webdatacommons
+0708002401114,webdatacommons
 0708002401619,webdatacommons
 0708002401626,webdatacommons
 0708002401671,openfacts
+0708002401916,webdatacommons
 0708002401923,webdatacommons
 0708002405778,openfacts
 0708002405792,openfacts
@@ -6984,9 +6987,11 @@ ean13,source
 0708056067632,webdatacommons
 0708056067823,webdatacommons
 0708056068042,webdatacommons
+0708056068288,webdatacommons
 0708056068325,webdatacommons
 0708056068387,webdatacommons
 0708056068721,webdatacommons
+0708056069018,webdatacommons
 0708056069421,webdatacommons
 0708056069728,webdatacommons
 0708056069735,webdatacommons

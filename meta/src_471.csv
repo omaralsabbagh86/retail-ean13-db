@@ -1428,8 +1428,10 @@ ean13,source
 4710265815566,openfacts
 4710268003984,openfacts
 4710268227564,webdatacommons
+4710268246435,webdatacommons
 4710268250074,webdatacommons
 4710268250265,webdatacommons
+4710268250845,webdatacommons
 4710268250951,webdatacommons
 4710268250968,webdatacommons
 4710268250975,webdatacommons
@@ -1442,10 +1444,17 @@ ean13,source
 4710268252214,webdatacommons
 4710268252221,webdatacommons
 4710268255581,webdatacommons
+4710268256625,webdatacommons
 4710268256700,webdatacommons
+4710268256960,webdatacommons
+4710268257073,webdatacommons
+4710268257080,webdatacommons
 4710268257103,webdatacommons
 4710268258667,webdatacommons
+4710268258674,webdatacommons
+4710268258681,webdatacommons
 4710268259183,webdatacommons
+4710268259329,webdatacommons
 4710268804079,webdatacommons
 4710271000093,openfacts
 4710273490014,openfacts
@@ -6807,6 +6816,7 @@ ean13,source
 4718590800967,openfacts
 4718724150456,webdatacommons
 4718724411069,openfacts
+4718755070068,webdatacommons
 4718755070105,webdatacommons
 4718755072666,webdatacommons
 4718755079559,webdatacommons
@@ -6815,6 +6825,8 @@ ean13,source
 4718755082740,webdatacommons
 4718755084195,webdatacommons
 4718755084232,webdatacommons
+4718755084300,webdatacommons
+4718755086250,webdatacommons
 4718785090081,openfacts
 4718785090098,openfacts
 4718785090104,openfacts
