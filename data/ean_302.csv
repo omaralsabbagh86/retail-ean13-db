@@ -862,7 +862,7 @@ ean13,description,created_at,modified_at
 3021690030310,Raynal & Roquelaure Mijoté de bœuf à la Provençale et ses pâtes 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021690030327,Raynal & roquelaure Poulet Basquaise au Piment du Pays Basque et son riz 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021690030334,Raynal & Roquelaure Saucisses de Montbéliard et lentilles cuisinées 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3021690030341,Raynal & Roquelaure Bourguignon de canard cuisiné au vin rouge,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3021690030341,Raynal & Roquelaure Bourguignon de Canard Cuisiné au Vin Rouge,2026-09-16T17:42:53Z,2026-09-19T01:01:43Z
 3021690030358,Reynal & Roquelaure Poulet à la crème cuisiné aux cèpes 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021690030372,Raynal & Roquelaure Lentilles cuisinées à la provençale 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021690030389,Zapetti Ravioli pur boeuf 300g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1322,7 +1322,7 @@ ean13,description,created_at,modified_at
 3021760407592,Pom'potes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021760407691,Pom' Potes Pomme Pêche Pamplemousse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021760407714,Pom’potes Compote menthe citron et menthe,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3021760407721,Pom’potes sport energie pomme fraise banane,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3021760407721,Pom' Potes SPORT Pom’potes énergie,2026-09-16T17:42:53Z,2026-09-19T01:01:43Z
 3021760407738,Pom'potes endurance pomme ananas passion,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021760407745,Pompotes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3021760407844,Pom' Potes Pom’potes pomme vanille 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2806,6 +2806,7 @@ ean13,description,created_at,modified_at
 3023260034094,Weichkäse aus schafsmilch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023260034100,Fromage de brebis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023260034247,Société Douceur Roquefort 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3023260034261,Cantal entre-deux AOP,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
 3023260034278,Fromage Saint-Nectaire laitier AOP,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023260034292,Mimolette extra-vieille,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023260034308,Ets Schoepfer Mimolette Vieille 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3979,7 +3980,7 @@ ean13,description,created_at,modified_at
 3023290633229,Nestle La Laitiere Mousse au chocolat La Laitière 244 g (4 * 61 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290633236,Nestlé La Laitière Mousse Au Chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290633434,Nestlé Secret de Mousse Caramel Beurre Salé 236 g (4 * 59 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3023290633458,La Laitiere Flan au caramel 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3023290633458,LA LAITIÈRE Flan au caramel 4x100g,2026-09-16T17:42:53Z,2026-09-19T01:01:43Z
 3023290633465,Nestlé Flan au caramel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290633687,Nestlé Crème dessert craquante chocolat 4 pots,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290633724,Nestlé Crème dessert Craquante Saveur Vanille 360 g (4 x 90 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
