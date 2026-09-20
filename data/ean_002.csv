@@ -3287,6 +3287,7 @@ ean13,description,created_at,modified_at
 0020652005123,Cedar Crest Chocolate Malt Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0020652005147,Cedar Crest Rainbow Sherbet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0020652005161,Mint ‘n Fudge Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0020652005222,Cedar Crest Vanilla Flavored Ice Cream,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0020652005437,Orange sherbet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0020652005918,Cedar Crest Caramel Swirl Ice Cream 3 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0020652006021,Mint n' fudge ice cram cups,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11568,6 +11569,7 @@ ean13,description,created_at,modified_at
 0021130388141,Signature Select Popcorn Movie Theater Butter,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0021130388240,Signature Select Strawberry Saltwater Taffy Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0021130389704,Signature select Sliced cinnamon raisin bagels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0021130397150,Signature SELECT SUNFLOWER KERNELS,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0021130400225,"Signature Select Wasabi Rice Crackers, Wasabi 3.5 oz/99 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0021130400263,"Signature Select Classic Assortment Seasons Entertainment Crackers, Original, Cracked Pepper, Multi-Grain 12.75 oz/362 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0021130400287,"Signature Select Honey Graham Crackers, Honey 28.8 oz/816 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -11632,6 +11634,7 @@ ean13,description,created_at,modified_at
 0021130411085,"Signature Select Maple Flavored Uncured Turkey Bacon, Maple 10 oz/283 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0021130411092,"Signature Select Peppered Uncured Turkey Bacon, Peppered 10 oz/283 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0021130413164,Chunky salsa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0021130417872,Signature Select Sticks Pretzels,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0021130418909,"Signature Select Honeycrisp Apple Cider Blend, Honeycrisp 128 fl oz/1 GAL/3.78 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0021130418923,"Signature Farms Sicilian Lemon Juice, Sicilian Lemon 7 fl oz/207 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0021130418930,"Signature Farms Lime Juice, Lime 4 fl oz/118 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -18027,6 +18030,7 @@ ean13,description,created_at,modified_at
 0022000332387,Skittles Pop’s Creepy Crunch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022000332707,Skittles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022000333063,Skittles Fun SizeWild Berry Gummies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0022000335005,Starburst Crème Peach,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0022001848443,Newgate cream of tomato soup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022002524452,extra,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022003370034,Burguer meat iberica,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -19854,6 +19858,7 @@ ean13,description,created_at,modified_at
 0022796924513,OGX Coconut Coffee Scrub & Wash,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022796932204,OGX Damage Remedy + Coconut Miracle Oil Shampoo 385 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022796936110,OGX Argan Oil Shampoo 385ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0022796936165,OGX Renewing Argan Oil of Morocco Extra Penetrating Oil,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0022796936479,OGX Nourishing Coconut Oil Hydrating Oil Mist,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022796936974,OGX Quenched Sea Mineral Moisture Shimmering Weightless Moisture Replenisher 118 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0022796940919,OGX Nourishing coconut milk shampoo 750 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -20699,6 +20704,7 @@ ean13,description,created_at,modified_at
 0023012936686,"Afc Franchise Corp Tuna Premium Hawaiian Poke Bowl - (Brown Rice), Tuna 14.30 oz./405 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0023012938215,"Zenshi Premium Chirashi Bowl - Salmon, Tuna",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023012939090,Wild Blue Ultimate Asian,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0023012939168,Wild Blue Ultimate Tofu Bowl,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0023012939632,Publix sushi Premium tuna salad roll,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023012939878,Zenshi Vegetable Roll,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023012940041,Advanced Fresh Concepts Ultimate Teriyaki Chicken Bowl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -23286,7 +23292,7 @@ ean13,description,created_at,modified_at
 0023700060211,Tyson Crispy Chicken Fries 26.5 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023700060228,Tyson Chicken Patties 54 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023700060235,Tyson CHICKEN PATTIES 23 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0023700060242,Tyson Spicy Chicken Patties 1 unit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0023700060242,Tyson Spicy Chicken Patties 652 g,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0023700060259,Tyson Chicken Nuggets 4 lb,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023700060266,Tyson CHICKEN NUGGETS 1.81 lb,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0023700060273,Tyson Cordon Bleu Raw Stuffed Chicken Breast 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -38096,6 +38102,7 @@ ean13,description,created_at,modified_at
 0027805110017,Sausage Egg Chz on Biscuit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0027805110093,Gas Station Chicken Sandwich,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0027805110208,BP Kwik Bites Spicy Chicken Sandwich,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0027805660048,Armour Cracker Crunchers ham & American,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0027805998578,Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0027805999155,Purified water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0027805999186,Purified watet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -44166,7 +44173,7 @@ ean13,description,created_at,modified_at
 0028400790802,Simply Cheetos,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0028400790819,Doritos White Cheddar Nacho,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0028400790901,Jack Link’s Doritos Nacho Cheese Beef Jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0028400791021,Doritos Dynamita Spicy Cool Ranch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0028400791021,Doritos Dinamata Spicy Cool Ranch 10.75 oz,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0028400791045,Dortios Doritos Dinamita Spicy Cool Ranch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0028400791809,Lay's Classic Lightly Salted Potato Chips 1 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0028400792103,Lays Bacon Grill Cheeses Potato Chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -47529,7 +47536,7 @@ ean13,description,created_at,modified_at
 0029700021269,"Idahoan Smokey Cheese & Bacon Mashed Potatoes, Smokey Cheese & Bacon 4 oz/113.4 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0029700021306,Idahoan Loaded Baked Reduced Sodium Mashed Potatoes 4 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0029700021313,"Idahoan Reduced Sodium Buttery Homestyle Mashed Potatoes, Reduced Sodium Buttery Homestyle 4 OZ/113.4 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
-0029700021320,dairy free idahoan mashed potatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0029700021320,Idahoan Dairy Free Mashed Potatoes 4 oz,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0029700021429,"Idahoan Sour Cream & Chives Mashed Potatoes, Sour Cream & Chives 4 OZ/113.4 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0029700021443,"Idahoan, Italian Romano Mashed Potatoes, White Cheese, White Cheese 4 oz/113.4 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0029700021504,Idahoan Applewood Smoked Bacon Mashed Potatoes 4 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z

@@ -1453,6 +1453,7 @@ ean13,description,created_at,modified_at
 0860001721508,Majka Lactation Powder Vanilla,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860001721515,Majka Lactation Powder Chocolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860001721591,Majka Lactation Bites 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860001725421,Moana Taro Chips,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0860001727500,Unwrapped energy bites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860001727517,"Unwrapp'D Peanut Butter Pure Plant-Based Energy Bites, Peanut Butter 3 oz/85 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0860001730012,"The Sour Dough Project Sea Salt Sourdough Crackers, Sea Salt 6 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -3498,7 +3499,7 @@ ean13,description,created_at,modified_at
 0860004204060,Yonder Hard cider,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860004204800,Elderberry tonic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860004204817,Tumeric Ginger Tonic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0860004204831,Detox tonic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860004204831,Juice Shop Detox tonic,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0860004204848,Juice shop Turmeric elixir wellness shot 2 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860004204879,Juice Shop Strawberry Kiwi Tonic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860004206606,Sandhill Organic Wild Rice 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6358,6 +6359,7 @@ ean13,description,created_at,modified_at
 0860008244321,Tusol Maqui Berry + Vanilla Organic Protein + Superfood Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860008244338,Banana lucuma superfood bar - Tusol - Tusol,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860008247018,Louise's Granola Cocoa Brownie Crisp Granola,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860008248725,Isagenix Ionix Supreme,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0860008249227,"New City Microcreamery One Mighty Chocolate Pb Mashup Malted Milk Ice Cream With Peanut Butter Swirl Dark Chocolate Chips, And Chocolate Covered One Mighty Mill Whole Wheat Pretzels, One Mighty Chocolate Pb Mashup 14 FL OZ/414 ml",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0860008249234,New City Cake Batter Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860008249258,New City Microcreamery Salted Cookies & Cream Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -9269,6 +9271,7 @@ ean13,description,created_at,modified_at
 0860012876044,Tapatio Habanero Salsa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860012876051,Tapatío Roja Salsa 439 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860012876075,Tapatio Salsa Chipotle,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860012877416,Tozi Organic Amaranth Blue Corn Chips,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0860012877676,Nutre The Truffler Mozzarella Sticks,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860012880010,Longevity Rx Cellular Hydration,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860012880041,Longevity RX StemCell Protein,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -9371,6 +9374,7 @@ ean13,description,created_at,modified_at
 0860013066123,RUSH BITES BANANA BREAD,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013068059,Ecowise Creatine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013068318,Nico’s Fresh Original Recipe Salsa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860013068349,Nico's Fresh Salsa Fresh Salsa,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0860013070106,Stratus Electric Melon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013070533,Toto Pumpkin Spice Cookie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013070557,Toto Cinnamon Cookie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -9664,6 +9668,7 @@ ean13,description,created_at,modified_at
 0860013781828,CODE Whey Protein Isolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013788216,Lorea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013788223,Lorea Deep Sleep BlackBerry & Pomegranate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860013794439,polar haircare,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0860013794804,Journee Sparkling Raspberry Dragonfruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013802318,Olivea Extra Virgin olive oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860013802325,Olivea Ultra-High Phenolic Organic Extra Virgin Olive Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -10034,6 +10039,7 @@ ean13,description,created_at,modified_at
 0860015592132,Backflip Cocoa Cereal,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0860015658302,"¡QUE BOLLO! Pan de Romero, orégano y aceite de trufas",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860015666420,The ‘pause nutrition Collagen peptides,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0860015687104,Golden Disco Excuse My French,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0860015759702,Brooklyn Du.plong Shop Korean Style BBQ Beef,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860015759719,Brooklyn Dumpling Company Kung Pao Chicken Dumplings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0860015825902,Bumi Bites Dates,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15143,6 +15149,7 @@ ean13,description,created_at,modified_at
 0866175000388,"Happy Moose Juice Strawberry - Goji Berry Turmeric - Beet Green Apple - Cayenne Berry Bonds Organic Cold - Pressed Juice, Strawberry - Goji Berry Turmeric - Beet Green Apple - Cayenne 12 FL OZ",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0866175000395,"Happy Moose Lemon-Aid Detox Activated Charcoal Tonic, Lemon-Aid Detox 12 FL OZ/355 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0866176000011,"Bello Lea Gluten Free Pizza Kit Includes - Sauce, Crust Mix, & Pizza Paper, (Add Cheese & Toppings) 11 oz/310 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0866188000160,Jeremiah Johnson Brewing Company Mountain Man Scotch Ale 12 FL oz,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0866192000101,Honey Bunchies Gourmet Honey Bar 1.9 oz/53.6 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0866192000132,Honey Bunchies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0866192000170,Gourmet Honey Bar Coconut Almond,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

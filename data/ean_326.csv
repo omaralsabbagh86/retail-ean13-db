@@ -594,6 +594,7 @@ ean13,description,created_at,modified_at
 3260261011055,Petits-beurre bretons caramel beurre salé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3260261011512,Galettes bretonnes pur beurre aux épices de Noël 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3260261012243,Palets aux petites de chocolat et cacao,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3260261012274,Palets pur beurre La Trinitaine,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3260261012595,Palets pur beurre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3260261012656,Palets pur beurre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3260261012885,Galettes bretonnes aux éclats de caramel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -855,7 +856,7 @@ ean13,description,created_at,modified_at
 3260986000075,FANNY apéritif anisé 1 litres,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3261050021286,William Saurin Colin d'Alaska sauce citron et son riz 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3261051670209,William Saurin Bœuf bourguignon pommes de terre et carottes 400 g (1 personne),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3261051670308,William saurin Cassoulet à la graisse de canard 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3261051670308,William Saurin Cassoulet à la graisse de canard 400g,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 3261051670407,William Saurin Les cocottes - Petit salé aux lentilles 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3261051670506,William Saurin Poulet Forestier Torsades et Champignons 400 g (1 personne),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3261052862771,Panzani RAVIOLI BOLOGNESE 1200 g (3x400 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4093,7 +4094,7 @@ ean13,description,created_at,modified_at
 3263628885566,Apidis Preparation de miel et de ginseng,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263628885610,Apidis Préparation de miel et de propolis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263628885665,Famille Perroneau Preparation de miel et de propolis 250g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3263628886068,Pollen de fleurs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3263628886068,APIDIS SAS Pollen de fleurs,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 3263628888765,Bonbons au miel myrtille framboises,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263628889564,Thé vert bio happy,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263628889663,Apidis Noisettes au miel d'acatia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -7025,6 +7026,7 @@ ean13,description,created_at,modified_at
 3263851864710,Franprix Gourde pomme banane 360 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263851864819,Franprix Gourde pomme sans sucre ajouté 360 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263851864918,Gourde Pomme,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3263851864925,Purée pomme 1080 g,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3263851865014,Franprix Huile d'olive extra vierge variété arbequina 50 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263851865113,franprix Huile d'olive vierge extra 50 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263851865212,Franprix purée pomme poire bio sans sucre ajouté 4 x 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16312,6 +16314,7 @@ ean13,description,created_at,modified_at
 3266140066444,RAVIOLES,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266140066468,Cappelletti ricotta épinards,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266140066475,Ravioles du Dauphiné,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3266140066482,Gnocchi,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3266140066499,Cappelletti a poeler jambon emmental 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266140066505,Cappelletti à poeler 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266140066512,Cappelletti à poêler 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -18839,6 +18842,7 @@ ean13,description,created_at,modified_at
 3266191461199,La Vie Claire Tagliatelles ail basilic 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191467474,La Vie Claire arachides en coques grillées 330 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191494401,La Vie Claire Pétales de quinoa au cacao,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3266191500348,Huile coco,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3266191665474,Flocons de pois chiches,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191900001,La Vie Claire Caramels durs noisette et cacahuète 200g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191900018,Marrons glacés,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -19399,7 +19403,7 @@ ean13,description,created_at,modified_at
 3266980025335,Réghalal Blanc de poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980025502,LE GAULOIS Ourson Cordon Bleu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980025526,Le Gaulois Pané de poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3266980025724,Le Gaulois Grignottes extra intense spicy curry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3266980025724,LDC Grignottes Extra - Intense Spicy Curry 250g,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 3266980025748,Le Gaulois Grignotes Extra Original BBQ,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980025755,Le Gaulois Grignottes extra,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980025779,Le Gaulois Grignottes extra samouraï,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -19512,6 +19516,7 @@ ean13,description,created_at,modified_at
 3266980046651,Le gaulois cuisses de canette x4,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980046668,Le gaulois filets de canette x4,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980046675,Grill & Plancha,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3266980046682,Le match des saveurs,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3266980046699,Le gaulois L'escalope Cordon Bleu Corn Flakes 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980046705,Le gaulois crousty chicken long filet's gratiné à l'emmental 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266980046781,Le Gaulois Médaillons de poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -20608,6 +20613,7 @@ ean13,description,created_at,modified_at
 3267110003537,Perl'Amande douceurs Amande-Sucre de coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3267110003544,Perl'Amande Douceur noisette sucre de coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3267110003636,Puree d’amande complete extra douce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3267110003667,Amande complete,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3267110004015,Perl'Amande Barre crue cacao & baie de goji 40 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3267110004022,Perl'Amande Barre crue baobab & graines 40 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3267110004039,"Perlamande Epicerie / Epicerie Sucrée / Barres De Céréales, Fruits 40 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

@@ -7860,6 +7860,7 @@ ean13,description,created_at,modified_at
 0070253013393,Our Family Apple Crisp A La Mode Trail Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253013423,Our Family OF Protein Buttermilk Pancake Mix 20 oz,2026-09-16T17:42:53Z,2026-09-19T01:01:43Z
 0070253013430,Our Family Dark Chocolate Protein Pancake Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070253013454,OF 6 oz Pepperoni slices,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0070253013492,Our family Bacon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253013508,Our Family Thick Cut Premium Bacon 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070253013515,Our Family Premium Bacon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11662,6 +11663,7 @@ ean13,description,created_at,modified_at
 0070452467072,Unbranded Fat Free Milk 64 fl oz,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0070452540706,Skim Plus Lactose Free Fat Free Milk 0.5 gal,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070452763112,Skim Plus Fat Free Half & Half Milk And Cream 1 qt,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0070453229327,OF Crunchy Peanut Granola bars,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0070454432504,Diamond of California Shelled walnuts 14 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070455110180,All Natural Salted Peanuts 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070455110197,Sachs Salted In Shell Peanuts 12 oz/340.2 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -19273,6 +19275,7 @@ ean13,description,created_at,modified_at
 0070784043845,"Tops California Blend Broccoli, Cauliflower & Carrots, California Blend 16 oz/1 lbs/454 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070784043920,"Tops Winter Blend Broccoli & Cauliflower, Winter Blend 16 oz/1 lbs/454 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070784044040,Tops Cut Broccoli 32 oz/2 lbs/907 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0070784044248,Tops Steamable Green Peas,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0070784044262,Tops Steamin' Easy Mixed Vegetables,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070784044309,Tops Steamable Broccoli Cuts 12 oz/340 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070784044323,Tops Steamable Broccoli & Cauliflower 12 oz/340 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -21335,6 +21338,7 @@ ean13,description,created_at,modified_at
 0070844500592,Kame Korean BBQ Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070844500608,KA•ME Zero Calorie Sesame Ginger Low Sodium Sugar Free Sauce & Marinade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070844500615,Kame Zero Calorie Sweet Chili,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0070844506174,Kame Chili Lemongrass Sauce,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0070844570502,Ka-Me Korean Barbecue Sauce,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0070844570519,Ka-Me Pad Thai Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0070844570526,Ka-Me Satay Sauce 3 oz/85 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -31146,7 +31150,7 @@ ean13,description,created_at,modified_at
 0071421001235,Circle K All American Sub,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071421001242,Circle K Oven roasted turkey cheddar wrap,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071421001266,Circle K Chicken Caesar Wrap,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0071421001297,Fastbites BBQ Pork Sandwich 1 servings per container 4.3 OZ(121g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0071421001297,Fast Bites BBQ Rib Sandwich 1 servings per container 4.3 OZ(121g),2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0071421001334,Pierre Southern Fried Chicken Breast,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071421001419,Fast Bites Chicken Sliders,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071421001426,Fast Bites Cheese Burger Sliders 2ct,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -32497,6 +32501,9 @@ ean13,description,created_at,modified_at
 0071464026516,Bolthouse farms Dill pickle ranch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071464026646,Marzetti Max Protein Vanilla 12 FL OZ,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071464026653,Bolthouse Farms MAX Protein Chocolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0071464026660,Bolthouse Farms Pineapple Mango Protein 15.2 FL OZ,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
+0071464026677,Bolthouse Farms Strawberry Dragon Fruit Protein 15.2 FL OZ,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
+0071464026684,Bolthouse Farms Blueberry Banana Protein 15.2 FL OZ,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0071464028060,Bolthouse Farms ITALIAN Vinaigrette Dressing & Marinade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071464034016,Boathouse farms everything seasoned ranch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0071464064778,Bolthouse Farms CREAMY CAESAR YOGURT DRESSING & DIP,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -41004,6 +41011,7 @@ ean13,description,created_at,modified_at
 0072036744906,HT Traders Macaroni & Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036744944,HT Traders Raw Honey 24 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036744951,Harris Teeter Plain Nonfat Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0072036745002,Harris Teeter Light Orange Juice,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0072036745019,Harris Teeter Decadent Chocolate Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036745064,Harris Teeter Farro,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036745101,Harris Teeter Restaurant Style Italian Dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -41024,6 +41032,7 @@ ean13,description,created_at,modified_at
 0072036745682,HT Traders Mediterranean Style Sweet Potatoes 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036745699,Harris Teeter Honey Glazed Root Vegetables,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036745705,HT Traders Sweet Citrus Vegetable Blend 14 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0072036745743,HT Traders Korma Curry,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0072036745842,Harris Teeter No Salt Added Tomato Paste,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036745859,Harris Teeter Crushed Tomatoes In Puree,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072036745873,Harris Teeter Tomato Sauce (No Salt Added),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -46299,7 +46308,7 @@ ean13,description,created_at,modified_at
 0072368388526,"Delallo Dipping Spices, Roasted Garlic & Parmesan 1.75 oz/50 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072368388533,"Delallo Dipping Spices, Sun-Dried Tomato & Basil 1.7 oz/48 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072368388540,Delallo Rosemary & Garlic Dipping Spices 1.75 oz/50 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
-0072368388588,Delallo Organic Foccacia Thins - Olive Oil & Sea Salt 6 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0072368388588,DELALLO Focaccia Thins 6 oz,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0072368393407,Delallo Pitted Seasoned Calamata Olives 11.2 oz/317 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072368393414,"Delallo Greek Feta Salad, 11.2 Oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0072368393438,"Delallo Provolini Antipasti, 11.2 Oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -49040,6 +49049,7 @@ ean13,description,created_at,modified_at
 0072488689039,"Sprouts Five Natural Flavor- Gummy Bears Five Natural Flavor, Gummy Bears 32 oz",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072488689060,Sprouts Santa Fe Hot Remix Snack Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072488689145,Organic Antioxidant Roasted And Salted Snack Mix Cashews Almonds Cherries Cranberries Blueberries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0072488689152,Torn and Glasser Organic Cranberry No Salt Added Snack Mix,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0072488689183,ORGANIC HEART HEALTHY SNACK MIX,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072488690134,Sprouts Milk Chocolate Gems,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0072488690363,Sprouts Wild Buffalo Wings Cashews 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -59143,6 +59153,7 @@ ean13,description,created_at,modified_at
 0073360619359,"La Croix, Sparkling Water, Orange, Orange 1 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0073360703416,"La Croix Sparkling Water, Pure 4.26 L/144 fl oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0073360707513,LaCroix Sparkling Water Pure 355mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0073360709203,Arizona Peach Iced Tea,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0073360743412,Pabst Brewing Company Sparkling Water,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0073360747519,La Croix Naturally Essenced Berry Sparkling Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0073360771019,La Croix Naturally Essenced Pomme Baya 'Apple Berry' Sparkling Water 12 FL oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -61664,7 +61675,7 @@ ean13,description,created_at,modified_at
 0073497143451,Mac’s Fried pork skins 1 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0073497163459,Mac'S Original Porkskin 3 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0073497243458,Pork rinds 1 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0073497263456,Mac's pork skins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0073497263456,MAC'S CHICHARRONES Mac's pork skins,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0073497391999,"Mac'S Bar-B-Q Flavored Fried Pork Skins, Bar-B-Q 11 OZ/311 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0073497430988,"El Ranchero Fried Pork Rinds, Original 6 oz/170 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0073497543459,Macs pork skins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -70313,6 +70324,7 @@ ean13,description,created_at,modified_at
 0074540821432,"Toms Fabrikker A/S Anthon Berg, Chocolate Coffee Liqueurs",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074540821838,"Toms Fabrikker A/S Anthon Berg, Chocolate Coffee Liquers",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074540821937,"Toms Fabrikker A/S Anthon Berg, Chocolate Coffee Liqueurs",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0074540824631,Anthon Berg Chocolates with filling with spirit,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0074540825133,Anthon Berg - 12PC Cocktail Clock Box - 6.6oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074540825539,Anton Berg Chocolate Cocktails with Premium Spirit Brands 187 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0074540876036,Kahlua Chocolate And Coffee Temptations,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -70630,6 +70642,7 @@ ean13,description,created_at,modified_at
 0074570183852,"Haagen-Dazs Coffee Chocolate Brownie Ice Cream, Coffee Chocolate Brownie 14 FLOZ/414 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074570186709,"Haagen-Dazs Irish Cream Chocolate Cookie Topped With Irish Cream Infused Ice Cream, Dipped In Rich Dark Chocolate Ice Cream Cookie Squares, Irish Cream 9 fl oz/266 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074570188550,"Haagen-Dazs Heaven Cold Brew Espresso Chip Light Ice Cream, Heaven Cold Brew Espresso Chip 14 FL OZ/414 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0074570192434,Häagen-Dazs Peppermint Bark Ice Cream Bars,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0074570193462,"Haagen-Dazs Italian Style Frozen Dessert Gelato, Dark Chocolate Chip 14 fl oz/414 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074570194766,"Haagen-Dazs Ice Cream, Mayan Chocolate 14 fl oz/414 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0074570198405,"Haagen-Dazs Italian Style Frozen Dessert Gelato, Tiramisu 14 fl oz/414 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -75566,6 +75579,7 @@ ean13,description,created_at,modified_at
 0075185926209,Martins Famous Potato Rolls And Bread Potato Rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0075185926308,Martins Potato Rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0075185945286,Martins Potato Rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0075186010433,Sweet Smiles Chocolate Covered Peanut Clusters,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0075186010457,"Sweet Smiles Chocolate Peanut Clusters, Chocolate 4 OZ/113 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0075186010501,Zachary Candy Corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0075186011430,Zachary Autumn Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -91243,6 +91257,7 @@ ean13,description,created_at,modified_at
 0076625120638,"Valley Farms Smoked Sausage, Smoked 20 oz/1.25 lbs/567 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0076625198958,semix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0076625208848,Le fit de chocolate 360g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0076625211015,DATILES EGIPCIOS,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0076625212005,Risky-Dit Galletas de arroz dulces Galletas de arroz dulce 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0076625212012,RISKY-DIT Galletas de arroz integral sin sal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0076625212029,Risky-Dit Galletas de Arroz Integral con Sal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -94655,6 +94670,7 @@ ean13,description,created_at,modified_at
 0077232153002,"Palmer Candy Milk Chocolate Covered Peanut Butter Pretzels, Milk Chocolate Covered Peanut Butter 6 OZ/170 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0077232153019,"Palmer Candy S'Mores, S'Mores 5.25 OZ/148 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0077232153026,Palmer Candy Palmer Strawberry Fudge cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077232153033,Palmer Candy LEMON FUDGE COOKIES,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0077232153071,Palmer Candy Bing Bites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077232153088,Palmer Candy Ice Cream Cone Bark,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077232153095,Palmer Candy S’mores Bark,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -97220,6 +97236,7 @@ ean13,description,created_at,modified_at
 0077567004178,Herseys S’more Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077567004239,Breyers S'mores Ice Cream Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077567004420,Popsicle Hello Kitty Strawberry & Cotton Candy Frozen Confection Bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077567004437,Popsicle All Cherry Sugar Free,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0077567004505,Breyers Carb Smart Reese's Frozen Dairy Dessert Bars 532 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077567004512,Popsicle Frozen Confection Bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077567004536,"Good Humor Neapolitan Giant Flavored Neapolitan Light Ice Cream Sandwich, Neapolitan Giant 6 fl oz/177.4 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -98700,7 +98717,7 @@ ean13,description,created_at,modified_at
 0077782000887,"Johnsonville Cheddar Cheese & Bacon Grillers, Cheddar Cheese & Bacon 24 oz/1.5 lbs/680 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077782000894,"Johnsonville Steakhouse Onion Seasoned Grillers, Steakhouse Onion 24 oz/1.5 lbs/680 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077782000900,Johnsonville Steakhouse Seasoned 16 oz/1 lbs/453 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
-0077782001006,Mild italian sausage meat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077782001006,Johnsonville Mild italian sausage meat,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0077782001013,Johnsonville Hot Italian sausage meat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077782001037,Johnsonville Origianal breakfast sausage rounds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077782001129,"Johnsonville Farmer'S Double Smoked Sausages, Farmer'S Double Smoked 375 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -102680,7 +102697,7 @@ ean13,description,created_at,modified_at
 0077890485705,Wegmans Mushroom & Truffle Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890485712,"Wegmans Pesto, Tomato & Spinach Pizza",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890485750,Wegmans Greek Pasta With Feta Salad 13 oz/368 g,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
-0077890485774,Wegmans Gluten free pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077890485774,Wegmans Gluten Free Cheese Pizza 0.33 unit,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0077890485798,Wegmans Gluten free Margherita Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890485828,Wegmans gluten free greek pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890485842,"Wegmans Green Sriracha With Jalapenos, Tomatillos & Cilantro, Green Sriracha 18 oz/509 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -104970,6 +104987,7 @@ ean13,description,created_at,modified_at
 0077890623824,Wegmans Asian Chopped Salad Kit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890623923,Wegmans Organic Dried Apricots,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890624029,Wegmans Milk Chocolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0077890624098,Wegmans Edamame,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0077890624319,Wegmans Orange Guava Passion Fruit Juice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890624395,Wegmans Chopped Onions,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890624463,Wegmans White pizza dough,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -105012,6 +105030,7 @@ ean13,description,created_at,modified_at
 0077890633526,Wegmans Diet Cola 67.6 fl oz/2 L,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077890633557,"Wegmans Lemon Lime Flavored Soda, Lemon Lime 67.6 fl oz/2 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0077890634073,"Wegmans W-Up Lemon Lime Soda, Lemon 67.6 fl oz/2 L",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0077890634950,Wegmans Protein Plus Mini Meal,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0077890635599,Wegmans Creamy Ranch Dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0077890636220,Wegmans Indulgent Premium French Ice Cream Bar Ultimate Dark Chocolate,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0077890636244,Wegmans Indulgent Premium French Ice Cream Bars Madagascar Vanilla,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -120946,6 +120965,7 @@ ean13,description,created_at,modified_at
 0079200088125,"Nerds Cherry lemonade, gummy clusters 8 oz",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0079200088668,Wonka Nerd Clusters,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0079200088705,Individual Packs Nerd Clusters,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0079200089092,Sweetarts Freeze Dried Candy 4 oz,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 0079200089368,Nerds Gummy Clusters (Individually Wrapped),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0079200089429,Nerds Gummy Clusters Cherry Raspberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0079200089504,Spree Freeze Dried Candy,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

@@ -1,9 +1,9 @@
 {
- "last_run": "2026-09-19T22:12:42Z",
+ "last_run": "2026-09-20T01:02:09Z",
  "records_by_source": {
   "item_master": 585564,
   "manual": 2,
-  "openfacts": 3163825,
+  "openfacts": 3165414,
   "usda": 418881,
   "webdatacommons": 3054,
   "wikidata": 2187
@@ -20,107 +20,107 @@
     "added": 0,
     "updated": 0
    },
-   "last_success": "2026-09-19T01:01:43Z"
+   "last_success": "2026-09-20T01:02:09Z"
   },
   "lookup_apis": {
    "attempts": {
     "1334565586761": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "1860425217518": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "1860425217532": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "3560071241957": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122306875": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122306882": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122306936": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122306943": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122306998": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307001": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307025": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307056": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307063": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307100": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307117": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307131": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307162": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307179": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307223": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6251122307230": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     },
     "6291200036690": {
-     "last": "2026-09-19",
-     "n": 2
+     "last": "2026-09-20",
+     "n": 3
     }
    },
    "last_result": {
     "added": 0,
     "updated": 0
    },
-   "last_success": "2026-09-19T01:01:43Z"
+   "last_success": "2026-09-20T01:02:09Z"
   },
   "openfacts": {
    "last_result": {
-    "added": 1633,
-    "updated": 667
+    "added": 1589,
+    "updated": 924
    },
-   "last_success": "2026-09-19T01:01:43Z",
+   "last_success": "2026-09-20T01:02:09Z",
    "processed_deltas": [
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788394705_1788481108.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788481108_1788567533.json.gz",
@@ -138,6 +138,7 @@
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789517907_1789604337.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789604337_1789690712.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789690712_1789777118.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1789777118_1789863520.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788415813_1788503475.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788503475_1788589401.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788589401_1788675653.json.gz",
@@ -153,6 +154,7 @@
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789452670_1789538777.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789538777_1789625565.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789625565_1789712149.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1789712149_1789799049.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788394560_1788480962.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788480962_1788567361.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788567361_1788653765.json.gz",
@@ -169,6 +171,7 @@
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789517760_1789604192.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789604192_1789690560.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789690560_1789776962.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1789776962_1789863368.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788404521_1788490921.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788490921_1788577321.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788577321_1788663725.json.gz",
@@ -183,7 +186,8 @@
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789354951_1789441320.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789441320_1789527724.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789527724_1789614154.json.gz",
-    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789614154_1789700525.json.gz"
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789614154_1789700525.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1789700525_1789786922.json.gz"
    ],
    "seeded": {
     "beauty": "2026-09-16T17:42:53Z",
@@ -369,5 +373,5 @@
    "last_success": "2026-09-16T17:53:12Z"
   }
  },
- "total_records": 4173513
+ "total_records": 4175102
 }
