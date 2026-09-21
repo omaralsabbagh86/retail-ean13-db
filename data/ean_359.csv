@@ -15736,9 +15736,9 @@ ean13,description,created_at,modified_at
 3596710563937,Auchan Yaourt à boire saveur fraise 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563944,Auchan Yaourt à boire saveur fraise-banane 0.85 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563951,Pouce yaourt brasse pulpe fruits 4x125g 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710563968,Auchan yaourt a la grecque cafe 4x150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710563975,Auchan yaourt a la grecque sur lit mangue / passion 4x150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710563982,Auchan yaourt a la grecque coco 4x150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710563968,Auchan Yaourts à la grecque café 0.15 kg,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+3596710563975,Auchan Yaourts à la grecque Mangue ou Fruit de la passion 0.15 kg,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+3596710563982,Auchan Yaourts à la grecque noix de coco 0.15 kg,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 3596710564019,Auchan emmental rape 500g 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710564026,Auchan emmental rape 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710564033,Auchan raclette nature 400g 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15832,6 +15832,7 @@ ean13,description,created_at,modified_at
 3596710565214,"Auchan Multi-variétés Allégées en sucres* 4 pomme, 4 pomme banane, 4 pomme abricot, 4 pomme pêche*30% de sucres en moins qu'une compote classique 1.6 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565238,Auchan bio emmental rape 350g 0.35 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565276,Auchan creme fraiche epaisse entiere 30% pot 50cl 0.49 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710565313,Auchan Multi variétés allégées en sucres (30% de sucres en moins qu'une compote classique)3 POMME 3 POMME FRAISE 3 POMME POIRE 3 POMME BANANE 1.08 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710565337,Auchan Skyr Nature 0.85 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565344,Auchan Skyr Nature 0.45 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565351,Auchan skyr nature 8x100g 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15912,7 +15913,7 @@ ean13,description,created_at,modified_at
 3596710566754,Cosmia rouleau à cheveux auto gripping x12 12 pièces (0.046 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566761,Cosmia eponge konjac diam. 6cm 1 pièce (0.005 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566785,Cosmia Brosse de massage 1 pièce (0.113 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710566792,Auchan emince de truite a la provencale 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710566792,Auchan Emincés de truite fumée aux herbes de Provence 0.1 kg,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 3596710566952,Auchan Sauce curry 0.35 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566976,Auchan bistro bœuf bourguignon torsade 280g 0.28 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566983,Vendome papillotes lait noir pralines sachet 300g 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15940,6 +15941,7 @@ ean13,description,created_at,modified_at
 3596710567676,AUCHAN CHOCOLAT NOIR 47% éclats de fèves de cacao 100G 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567706,Auchan choco dessert blanc 180g 0.18 kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
 3596710567713,Auchan chocolat lait caramel pointe de sel 100g 0.1 kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
+3596710567737,Auchan chocolat noir noisettes entieres 180g 0.18 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710567751,Pouce chips nature 6x30g 0.18 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567775,Pouce chips nature 30g unitaire 0.03 kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
 3596710567782,Auchan sirop orgeat bouteille verre 70cl 0.7 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15954,6 +15956,7 @@ ean13,description,created_at,modified_at
 3596710568000,Pouce savon liquide amande 500ml 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568024,Auchan skyr stracciatella 8x100g 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568031,Auchan Barre moelleuse Coco 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710568055,Auchan mimolette bloc 300g 0.3 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710568093,Auchan fromage fines herbes tranches 200g 0.2 kg,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 3596710568109,Auchan fromage au piment tranches 200g 0.2 kg,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 3596710568116,Auchan gouda cumin tranches 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15981,6 +15984,8 @@ ean13,description,created_at,modified_at
 3596710568345,Auchan bio confiture framboise 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568352,Auchan bio marmelade orange 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568420,Auchan billes panees mozzarella et truffe blanche d'ete 1% aromatisees x10 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710568437,Auchan pizza sandwich jambon fromage x3 360g 0.36 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
+3596710568444,Auchan pizza sandwich montagnard x3 360g 0.36 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710568451,Pouce 30 mini feuilletes aperitifs 275g 0.275 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568468,Auchan mini feuilletes x40 350g 0.35 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568475,Auchan coffret festif mini feuilletes x80 740g 0.74 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16023,12 +16028,15 @@ ean13,description,created_at,modified_at
 3596710571031,"Auchan preparation a base de beurre a la truffe blanche d'ete 2,5% aromatisee 100g 0.1 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571055,Auchan mini gratins chou-fleur 480g 0.48 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571062,Auchan mini gratins pomme de terre epinards 480g 0.48 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710571093,Auchan œufs chocolat fourrage lait eclats noisettes 200g 0.2 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710571147,Auchan bloc foie gras canard igp sud ouest 30% morceaux 440g 0.44 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571239,Auchan collection royal cacahuete 2x80g 0.16 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571246,Auchan collection royal vanille pecan 2x80g 0.16 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571253,Auchan collection fraisier 2x85g 0.17 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710571291,Auchan incontinence serviettes maxi nuit x12 12 pièces (0.432 kg),2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710571444,Auchan avocats en lamelles 450g 0.45 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571475,Auchan tartinable houmous aux pois chiches 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
+3596710571611,Auchan prefou tomate mozzarella 280g 0.28 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710571628,Auchan crevettes ail persil 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571635,Auchan crevettes piment doux 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710571642,Auchan crevettes citron et coriandre 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16040,6 +16048,9 @@ ean13,description,created_at,modified_at
 3596710572038,Auchan coulis mangue passion 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710572045,"Pouce Couscous - merguez, boulettes de poulet 0.8 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710572106,Auchan bio sable noisettes et lait d'amande 110g 0.11 kg,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
+3596710572144,Auchan melange jeune pousse 175g 0.175 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
+3596710572151,Auchan melange mache roquette 125g 0.125 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
+3596710572168,Auchan feuille de chene verte 125g 0.125 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710572373,Auchan terroir faisselle aop bresse 7% 1kg 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710572380,Auchan terroir faisselle bresse 7% 4x100g 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710572458,Auchan steaks haches pur bœuf facon bouchere 5% mg filiere cultivons le bon x4 400 gr 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16070,6 +16081,7 @@ ean13,description,created_at,modified_at
 3596710574520,Pouce lardon fume 500g 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710574537,Auchan allumettes bacon fumees 2x75g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710574544,Auchan jambon paris fume dd 4tr 120g 0.12 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710575343,Pouce pizza margherita 3x300 gr 0.9 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710575732,Auchan pain de mie extra moelleux 500 g 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710575749,Auchan pain de mie extra moelleux 280 g 0.28 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710576012,Auchan eau magnesienne source amanda 6x1l 6 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16957,6 +16969,7 @@ ean13,description,created_at,modified_at
 3598960067838,Valette Mijote de volaille et sa suce fine au foie gras et morilles 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960068026,Foie gras d’oie entier du Périgord 125 gr. 3/4 parts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960068040,Valette Le Pâte campagnard au Piment du Sud-Ouest 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3598960068057,Pâté campagnard au piment du sud-ouest,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3598960068538,Petit cake moélleux au bleu des causses,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960068569,Valette La merveilleuse terrine de campagne à la truffe de St Jean,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960068583,Petites meringues au miel 35 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

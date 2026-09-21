@@ -771,7 +771,7 @@ ean13,description,created_at,modified_at
 0060383003722,No Name craquelins sandwich fromage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383003739,Craquelins aux légumes minces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383003746,President's Choice Pleins de fromage cheddar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383003760,Grains mauves,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383003760,President's Choice Grains mauves,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383003777,Ranch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383003784,No Name Original Syrup 750 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383003838,President's Choice Croqu'légumes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -843,7 +843,7 @@ ean13,description,created_at,modified_at
 0060383006761,President's Choice Chesse cake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383006778,President's Choice Apple Crumble Pie 770 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383006792,Onion and chive dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383006822,Burgers de pouler aux légumes flexitariens,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383006822,President's Choice Burgers de pouler aux légumes flexitariens,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383006969,President's Choice Mini crisp & thin crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383006976,President's Choice Mini craquelin multigrains,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383006983,President's Choice White Chedder Cheese Crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -868,7 +868,7 @@ ean13,description,created_at,modified_at
 0060383007676,Marble Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383007683,Old Cheddar Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383007706,Strawberry & Beet lentil wheels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383007713,Sweet potato and apple lentil wheels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383007713,President's Choice Sweet potato and apple lentil wheels,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383007720,Mais sucré et carotte,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383007737,Cheddar Cheese Pea Stars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383007775,"President's Choice Corn, Carrot, Kale & Peas Veggie Burgers 452 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -954,8 +954,8 @@ ean13,description,created_at,modified_at
 0060383010942,Splendido sliced sun-dried tomatoes in seasoned oil 270 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383010959,SPLENDIDO SUN-DRIED TOMATOES IN SEASONED OIL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383010966,no name croûtons assaisonnés,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383010973,Bleuets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383011390,Little penguins cheddar snack crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383010973,President's Choice Bleuets,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383011390,President's Choice Little penguins cheddar snack crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383011413,Apricot & rosemary artisan crisps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383011437,President's Choice Black Label Cranberry And Fennel Artisan Crisps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383011468,Raisin & black currant artisan crisps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -972,7 +972,7 @@ ean13,description,created_at,modified_at
 0060383011680,President's Choice Pea Crumbs/Chapelure de pois,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383011703,President's Choice Golden cake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383011710,President's Choice Chocolate cake baking mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383011727,Brownie à base de plantes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383011727,President's Choice Brownie à base de plantes,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383011758,Le choix du président Bouchées aux noix érable,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383011765,Brisure de chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383011796,President's Choice Belgian Chocolate Chunk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1078,7 +1078,7 @@ ean13,description,created_at,modified_at
 0060383016708,President Choice sparkling water: root beer flavour 355 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383016746,Sparkling water root beer flavour 12 x 555 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383016814,Fruit juice 5 x 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383016845,100% jus de pomme 5 x 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383016845,President's Choice 100% jus de pomme 5 x 200 ml,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383016890,President's Choice Sweet Mixed Pickles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383016968,President's Choice Vanilla Cherry Sparkling Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383016999,Vanilla Cherry Soda,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1112,7 +1112,7 @@ ean13,description,created_at,modified_at
 0060383018160,Whole chicken shawarma,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383018184,turkey,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383018269,No Name Pure White Vinegar 4L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383018276,Crispy Chili,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383018276,President's Choice Crispy Chili,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383018306,Chicken wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383018344,Pommes de terre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383018351,Presidents Choice Red Rouges Potatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1277,11 +1277,11 @@ ean13,description,created_at,modified_at
 0060383022471,No Name Bouillon concentré poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383022501,Mango greek yogurt smoothie bars 6 x 80 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383022525,Honey greek yogurt smoothie bars 6 x 80 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383022570,Peppermint Hot Chocolate Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383022570,President's Choice Peppermint Hot Chocolate Ice Cream,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383022617,President's Choice Tortillas originale 6 Tortillas 360 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383022624,Pain hamburger,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383022631,Blue Menu Fudge Smoothie 6 x 80 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383022655,Raspberry swirl smoothie frozen dairy dessert bars 6 x 80 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383022655,President's Choice Raspberry swirl smoothie frozen dairy dessert bars 6 x 80 ml,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383022693,No name Pie Dough,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383022709,no name Gaufrettes avec garniture crémeuse chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383022716,No Name Gaufrettes sucrées avec garniture crémeuse noisette 175g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1313,13 +1313,13 @@ ean13,description,created_at,modified_at
 0060383023287,President's Choice Butter Chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023294,Presidents Choice General Tao chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023331,President's Choice Zookies 900g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383023386,Formaggio di bufala mozzarella fresh soft cheese 2 x 50 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383023386,President's Choice Formaggio di bufala mozzarella fresh soft cheese 2 x 50 g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383023423,Dark chocolate almond butter melts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023430,President's Choice Beurre d’arachide chocolat noir,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023447,President's Choice Dark chocolate Almonds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023454,Pistache,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023461,Cajous Chocolat lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383023478,Nut medley,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383023478,President's Choice Nut medley,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383023485,Beurre d’arachide chocolat au lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023553,Dark Chocolate cranberries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023584,president’s choice Hot chili flavored honey 250 grams,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1334,7 +1334,7 @@ ean13,description,created_at,modified_at
 0060383023690,No Name Whole wheat dinner rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023737,President's Choice Brioche,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023744,Brioche Mini Rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383023751,Fig & kalamata olive artisan mini crisps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383023751,President's Choice Fig & kalamata olive artisan mini crisps,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383023768,President Choice Quinoa Organique Doré et Noir 225 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023799,President's Choice Cranberry & Fennel Artisan Mini Crisp,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383023836,Crème glacée agrume yuzu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1355,11 +1355,11 @@ ean13,description,created_at,modified_at
 0060383024710,Cigare au choux,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383024765,Cannellonis à la viande,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383024772,Paté chinois,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383024857,Zookies animal crackers 6 x 35 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383024864,Original oatmeal cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383024857,President's Choice Zookies animal crackers 6 x 35 g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383024864,President's Choice Original oatmeal cookies,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383024871,Oatmeal raisin cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383025052,Butter chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383025144,Substitut de yoyourt a l’avoine de culture agrume yuzu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383025144,President's Choice Substitut de yoyourt a l’avoine de culture agrume yuzu,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383025342,President's Choice/Le Choix du Président Herb & Garlic Halloom Semi-Soft Unripened Cheese 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383025366,President's choice Italian Strawberries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383025397,President's Choice Gourmet Jelly Beans 700 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1397,7 +1397,7 @@ ean13,description,created_at,modified_at
 0060383026943,President's Choice Queso Style Cauliflower Dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383026950,President's Choice Trempette de chou-fleur epinards et artichauts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383026967,Beet and Cauliflower Flatbread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383026974,Pqun plat au chou-fleur,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383026974,President's Choice Pqun plat au chou-fleur,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383026981,Organic Pear Ginger Chamomile Water Kifer,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383026998,Kefir fraise coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383027124,President's Choice SEA SALT BAKED PITA CRACKERS,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1445,7 +1445,7 @@ ean13,description,created_at,modified_at
 0060383028602,President's Choice Delicato Cold Pressed Extra Virgin Olive Oil 1 L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383028619,President's Choice Champignons tranchés,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383028701,President's Choice Craquelins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383028718,Mini craquelins de pita au cheddar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383028718,President's Choice Mini craquelins de pita au cheddar,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383028725,Mini craquelins de pita,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383028732,President's Choice Squeeze fruit snacks apple peach 4 x 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383028749,Presidents Choice Collation aux fruits à presser 4 x 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1495,7 +1495,7 @@ ean13,description,created_at,modified_at
 0060383031497,President's Choice Cauliflower & Chickpea Pie 650 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383031602,No Name Disinfectant Wipes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383031640,No name disinfectant wipes 75 wipes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383031671,Asiago,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383031671,President's Choice Asiago,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383031718,President's Choice Sliced cheesecake selection,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383031725,Mini rich & chewy chocolate chip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383031749,sans nom cheese-tastic formidable 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1627,7 +1627,7 @@ ean13,description,created_at,modified_at
 0060383036034,President's Choice Roasted red pepper dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036065,PC TZATZIKI yogurt dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036072,PC Tzatziki,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383036089,null Spinach dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383036089,President's Choice Spinach dip,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383036133,Stirred Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036164,PC ‘Nduja,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036171,President's Choice Gochujang,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1640,9 +1640,9 @@ ean13,description,created_at,modified_at
 0060383036683,Gelée de groseilles rouges,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036690,Pure seville orange marmalade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036737,President's Choice Naan Traditionnel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383036812,Greek Vanilla Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383036812,President's Choice Greek Vanilla Yogurt,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383036836,caramel popcorn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383036843,Chicago mix poorn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383036843,President's Choice Chicago mix poorn,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383036874,Graind d’espresso,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036881,Peanut and sunflower seed popcorn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383036898,President's Choice West Coast Dark Roast Single Serve Coffee Pods 138 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1696,7 +1696,7 @@ ean13,description,created_at,modified_at
 0060383038236,President's Choice Tamari-flavoured Almonds 275 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383038243,President's Choice Assaisonnement tout garni,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383038250,Mélange montagnard à saveur d'érable,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383038267,Mélange montagnard Edamames,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383038267,President's Choice Mélange montagnard Edamames,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383038274,Mélange montagnard assortiment de petits fruits,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383038298,Sans nom Orange jelly powder,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383038304,No Name Jelly powder cherry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1758,7 +1758,7 @@ ean13,description,created_at,modified_at
 0060383040000,no name spaghetti 900 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383040017,No Name Spaghettini,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383040024,No name pasta - elbow Macaroni 900g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383040031,Cream-style corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383040031,President's Choice Cream-style corn,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383040055,No Name Instant banana pudding,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383040086,No Name Pudding instantané,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383040185,President's Choice Bourbon de Madagascar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1886,7 +1886,7 @@ ean13,description,created_at,modified_at
 0060383045456,Presidents CHOICE Chopped raw pecans - Pc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383045463,President's Choice Chopped Raw Walnuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383045500,Pc Organics Raw Pine Nuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383045555,Pop Corn salé 150g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383045555,President's Choice Pop Corn salé 150g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383045562,Cheddar cheese popcorn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383045685,No Name Luncheon Meat 340 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383045692,No Name Cooked ham,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1924,7 +1924,7 @@ ean13,description,created_at,modified_at
 0060383046798,President's Choice Raw California Almonds 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383046804,President's Choice Cashews,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383046811,Le choix du président Bouchees de noix de coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383046828,Dry Roasted Cashews,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383046828,President's Choice Dry Roasted Cashews,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383046859,President's Choice Dry roasted California almonds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383046866,Raw cashews,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383046873,President's Choice Amandes de la californie 375g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1963,8 +1963,8 @@ ean13,description,created_at,modified_at
 0060383048365,Limonade fraise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383048372,Lemonade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383048389,President's Choice Mango Raspberry Lemonade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383048402,Ruby red,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383048419,Orange juice extra pulp,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383048402,President's Choice Ruby red,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383048419,President's Choice Orange juice extra pulp,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383048426,Kirkland Orange Juice Pulp-Free,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383048440,President's Choice Jus d’orange 1.54L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383048518,Presidents choice Herbal Hibiscus tea berry flavour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1975,9 +1975,9 @@ ean13,description,created_at,modified_at
 0060383048570,President's Choice Peanut Butter Delights 6 x 32 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049034,Gluten-free mini brownies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049065,President's Choice Muffins bleuets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383049072,Gluten-free lemon poppyseed loaf cake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383049072,President's Choice Gluten-free lemon poppyseed loaf cake,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383049089,Gluten-free banana loaf cake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383049102,Gluten-free chocolate chip cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383049102,President's Choice Gluten-free chocolate chip cookies,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383049409,Barres au fruit banane fraise 4 x 64 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049447,Simple V cacao 227 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049478,President's Choice PC Jerk Chicken Chicken Wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2000,10 +2000,10 @@ ean13,description,created_at,modified_at
 0060383049812,No Name Instant noodle soup shrimp flavour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049829,No name Chicken flavour instant noodle soup 65g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049836,Beef flavor oriental noodle and soup mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383049867,Bavarian style soft pretzels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383049867,President's Choice Bavarian style soft pretzels,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383049874,President's Choice Blood Orange and Lemon Fruit Pops 8 x 37 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049881,Cannoli kit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383049911,Trim plan chocolatey mocha meal replacement bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383049911,President's Choice Trim plan chocolatey mocha meal replacement bars,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383049935,Trim Plan 6 x 60 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049959,President's Choice Vegetable Quinoa 225 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383049973,President's Choice Beignes-gâteaux,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2203,7 +2203,7 @@ ean13,description,created_at,modified_at
 0060383058074,Raisins secs Thomson,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058098,No name Sultana raisins 375 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058135,Garniture cornet sucré,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383058142,Ice cream shop flavours chocolate cookie topping,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383058142,President's Choice Ice cream shop flavours chocolate cookie topping,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383058203,President's Choice Chicken stirfry strips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058500,President’s Choice Sweet Potato Veggie Snaps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058517,PC presidents choice veggie snaps,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2220,7 +2220,7 @@ ean13,description,created_at,modified_at
 0060383058838,Mélange à gâteau,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058845,President's Choice Cranberry Gingerale Sparkling Water 12 x 355 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058852,President's Choice Spaghetti sans gluten 340 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383058869,Gluten-free macaroni pasta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383058869,President's Choice Gluten-free macaroni pasta,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383058876,Penne rigate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058883,President's Choice Fusilli Gluten free,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383058906,no name macaroni & cheese dinner,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2328,7 +2328,7 @@ ean13,description,created_at,modified_at
 0060383063009,no name canola oil cooking spray 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063115,President's Choice Meatless Meatballs 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063207,PC Yaourt Grec,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383063214,Grec,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383063214,President's Choice Grec,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383063221,Blue Menu Egg Whites 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063245,President's Choice Diet Ginger Ale 222 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063252,President's Choice Diet Tonic Water 222 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2337,7 +2337,7 @@ ean13,description,created_at,modified_at
 0060383063283,President's Choice Jamaican-Style Ginger Beer 222 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063313,Presidents Choice Mini Club Soda,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063320,President’s Choice Tonic Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383063344,Banane enrober de chocolat au lait - Le Choix Du President,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383063344,President's Choice Banane enrober de chocolat au lait - Le Choix Du President,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383063405,Presidents Choice Montreal Steak Spice Seasoned Pizza Mozzarella And Cheddar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063566,pc paper towels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383063573,PC Sausage Roll,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2587,7 +2587,7 @@ ean13,description,created_at,modified_at
 0060383076351,No Name Ice Crean Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076405,No Name,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076498,President's choice Rotisserie Chicken wings 907 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383076511,Medium buffalo-style chicken wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383076511,President's Choice Medium buffalo-style chicken wings,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383076535,President's Choice Crispy & crunchy mild southern-style chicken wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076542,President's Choice Crisp & Crunchy Spicy Southern-Style Chicken Wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076627,President's Choice Cranberry raspberry cocktail,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2595,7 +2595,7 @@ ean13,description,created_at,modified_at
 0060383076801,President’s Choice Donair Beef Burger (no Sauce),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076856,Parmesan grated cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076863,President's Choice mini Authentic Guacamole,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383076917,World of flavours thai chicken ready-to-serve soup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383076917,President's Choice World of flavours thai chicken ready-to-serve soup,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383076924,Le choix du Président Mulligatawny au poulet indien 540 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383076931,Presidents choice Spicy guacamole,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383077037,No Name Citrouille en purée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2778,7 +2778,7 @@ ean13,description,created_at,modified_at
 0060383092900,Presidents Choice Our Legendary Porchetta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383092924,no name cream cheese spread 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383092986,no name smooth peanut butter 2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383093129,no name Naturally Imperfect Strawberries 2kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383093129,No Name Naturally Imperfect Strawberries 2kg,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383093136,Naturally Imperfect cultivated blueberries 2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383093303,Loblaws Red Enchilada Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383093327,PC Rondelle de piment forts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2795,7 +2795,7 @@ ean13,description,created_at,modified_at
 0060383093945,President's Choice Whole Dates,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383093952,PC Feta shredded cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383093976,"no name Eggs, medium",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383094089,Mushroom Pasta Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383094089,President's Choice Mushroom Pasta Sauce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383094348,President's choice Dijon prepared mustard 250 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383094409,PC Spinach & Parm Dip Flips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383094423,menu bleu Jus de pomme 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2805,7 +2805,7 @@ ean13,description,created_at,modified_at
 0060383094669,Blue Menu Bleu Brown Eggs 12 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383094720,Angus beef meatballs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383094812,"PC Planet First • Loblaws 2-ply Bathroom Tissue, Soft & Thick 12 Double Rolls, 280@ (9.9 x 101.1 cm)",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383094935,Creamy havarti cheese with herb and spice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383094935,President's Choice Creamy havarti cheese with herb and spice,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383095284,President's Choice Natural Source Soy Protein Isolate Unflavored 900 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383095291,Presidents Choice Proteine en poudre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383095314,Hot red pepper jelly,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2909,7 +2909,7 @@ ean13,description,created_at,modified_at
 0060383105938,President's Choice Caribbean Chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383106003,Presidents Choice Flame Grilled Seasoned Chicken Breast Skewers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383106201,President's Choice Chicken Breast Strips Shawarma,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383106690,Cranberry cocktail,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383106690,President's Choice Cranberry cocktail,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383106911,Presidents Choice Smokehouse Cooked Chicken Sausages,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383106928,President's Choice Chicken Sausages,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383107000,Presidents Choice Street Cart Sausages,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2918,11 +2918,11 @@ ean13,description,created_at,modified_at
 0060383107420,Farmer's market Apple with cinnamon pie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383107680,Grape cranberry cocktail,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383108991,President's Choice Tomato Ketchup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383109042,Stringable pizza mozzerella,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383109042,No Name Stringable pizza mozzerella,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383109103,President's choice medium Cheddar cheese 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383109127,PC Gouda Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383109134,PC Monterey Jack cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383109325,Meat lasagna,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383109325,President's Choice Meat lasagna,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383109875,Parmesan,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383110826,Couscous 1pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383110857,President's Choice Plum Sauce 750mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2968,7 +2968,7 @@ ean13,description,created_at,modified_at
 0060383120085,President's Choice Key Lime Free & Clear 1 L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383120108,Presidents Choice Berries of the Woods Free & Clear 1 L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383121587,President's Choice Taco coquilles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383121761,Natural spring water 24 x 500 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383121761,President's Choice Natural spring water 24 x 500 ml,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383121778,Blue Menu Bleu BULGUR & QUINOA BLEND 225g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383121839,No Name Refried Pinto Beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383121846,no name refried pinto beans with green chilies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3006,7 +3006,7 @@ ean13,description,created_at,modified_at
 0060383126469,No Name Peach drink mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383126476,No name Chocolat chaud,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383126544,Chipotle cheddar flavoured tortilla strips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383126551,Chili lime flavoured tortilla strips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383126551,President's Choice Chili lime flavoured tortilla strips,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383126582,no name margarine squares,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383126711,No Name Éducolorant sans nom 275 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383126728,No Name Calorie free sweetner,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3019,7 +3019,7 @@ ean13,description,created_at,modified_at
 0060383126889,Céréales Avoine En O Au Miel Et Aux Noix PC,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383126896,Le choix du président Flocons de maïs 680 grammes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383127008,President's Choice Cinnamon Bread with Raisins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383127084,Lightly buttered flavour sourdough croutons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383127084,President's Choice Lightly buttered flavour sourdough croutons,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383127091,President's Choice PC Croûtons au Levain Ail et Beurre 140 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383127107,Sourdough croutons ranch flavour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383127145,Cream Forst Vanilla with Chocolate Fudge Crackle,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3067,7 +3067,7 @@ ean13,description,created_at,modified_at
 0060383132569,Presidents choice Beef & broccoli,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383132682,President's Choice Diet Grapefruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383132767,Le choix du président Riz croustillant 640g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383132781,Herbed Soft unripened goat’s milk cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383132781,President's Choice Herbed Soft unripened goat’s milk cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383132798,Goat’s milk mozzarella,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383132804,No Name Chocolate Ice Milk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383132828,no name Napolitan,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3092,13 +3092,13 @@ ean13,description,created_at,modified_at
 0060383134068,President's Choice Loads of jalapeño popper flavour rippled potato chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134075,President's Choice Buffalo wings and blue cheese chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134099,World of flavours maple bacon flavour rippled potato chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383134136,Thick cut potato chips original flavour 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383134136,President's Choice Thick cut potato chips original flavour 200 g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383134242,No Name Medium roast ground coffee,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134266,Café moulu decafeiné,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134440,Pure roasted walnut oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134471,Classic aioli whipped dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134563,President's Choice Candy Cane Chocolate Fudge Crackle Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383134587,Hot chocolate mix single serve pods,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383134587,President's Choice Hot chocolate mix single serve pods,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383134716,Angus Beef meatballs-Blue Menu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383134945,President's Choice Fromage Suisse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383135171,President's Choice Roasted Red Pepper Hummus 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3115,7 +3115,7 @@ ean13,description,created_at,modified_at
 0060383136031,Mini Hummus with roasted garlic 12 x 57 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383136253,President's Choice Tomates Raisins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383136314,No Name canola oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383136499,Mango coconut kefir probiotic fermented m f milk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383136499,President's Choice Mango coconut kefir probiotic fermented m f milk,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383136628,Le choix du président Pei mussels in provencale sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383136642,Moules sauce /Pei mussels in creamy white wine sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383136840,No Name Riz Basmati,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3129,7 +3129,7 @@ ean13,description,created_at,modified_at
 0060383137410,President's Choice Extra Old Cheddar Cheese 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383137434,monterey jack choix du president 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383137441,PC Gouda Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383137458,Havarti cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383137458,President's Choice Havarti cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383137502,PC Marble Cheddar Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383137519,OLD FORT Lactose-free old cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383137526,old fort cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3139,7 +3139,7 @@ ean13,description,created_at,modified_at
 0060383137724,presidents choice Pink grapefruit sparkling water 355ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383138004,President's Choice Kéfir Strawberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383138011,Choix du président kéfir nature 1L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383138028,null Gluten-free all-purpose flour blend,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383138028,President's Choice Gluten-free all-purpose flour blend,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383140274,PC Fêta lait de chevre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383140281,President's Choice Féta lait de chèvre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383140304,raseberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3227,7 +3227,7 @@ ean13,description,created_at,modified_at
 0060383150099,Walnut halves & pieces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383150105,President's Choice Graines de tournesol crues et non salées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383150112,Graines de tournesol rôties,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383150129,Salted roasted sunflower seeds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383150129,President's Choice Salted roasted sunflower seeds,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383150280,No Name - Naturally Imperfect Potatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383150297,Naturally imperfect potatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383150518,President's Choice roti de boeuf angus,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3256,7 +3256,7 @@ ean13,description,created_at,modified_at
 0060383152000,No Name Naturally Imperfect Potatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383152086,no name medium cheddar cheese 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383152093,no name Cheddar marbré / marble cheddar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383152123,Pad see ew meal kit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383152123,President's Choice Pad see ew meal kit,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383152130,Mild southern style chicken wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383152154,null Yogourt glacé vanille française,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383152161,PC Frozen yogurt 2L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3288,32 +3288,32 @@ ean13,description,created_at,modified_at
 0060383154172,President's Choice Protein peanut butter & dark chocolate coated granola bars 148g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154189,President's Choice Protein almond & coconut coated granola bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154240,Le choix du Président Fibre chocolate brownie with ancient grains soft-baked bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383154257,Fibre lemon blueberry soft-baked bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383154257,President's Choice Fibre lemon blueberry soft-baked bars,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383154301,Presidents choice Tropical twist smoothie with greek yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154332,Fromage de chevre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154349,Goat’s milk chèvre crumbled soft unripened cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154363,Vegetable potstickers dumplings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154387,Quenelles (Dumpling) porc et légumes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383154561,Macadamia nut clusters,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383154561,President's Choice Macadamia nut clusters,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383154578,Bouchées aux arachides,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154585,no name pasta - penne 2kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154912,Pains Bagels Tout Garnis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383154929,Pains bagel sésame,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383154943,Thin pizza crusts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383154943,President's Choice Thin pizza crusts,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383155001,President's Choice APPETIZER FLATBREADS,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155018,President's Choice Pain plat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155025,Multigrain Flatbread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155094,Lean beef burger,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383155223,Fruit punch liquid water enhancer,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383155223,President's Choice Fruit punch liquid water enhancer,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383155285,President’s Choice Organic Unsweetened Apple Sauce 650 ml - 22fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155483,Roquefort,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155728,Jus d'orange sans pulpe 100%,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155735,Président's Choice With pulp orange juice not from concentrate 2.63l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155759,"Le choix du Président Pulp-free Orangw Juice 1,75 L",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383155766,Le choix du Président With pulp orange juice not from concentrate 1.75l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383155773,Jus D'orange à 100 % Riche En Pulpe Non Fait De Concentré PC,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383155773,President's Choice Jus D'orange à 100 % Riche En Pulpe Non Fait De Concentré PC,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383155872,President's Choice Patés au boeuf jamaicains,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383156220,Ruby red grapefruit juice pulp free,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383156220,President's Choice Ruby red grapefruit juice pulp free,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383156305,President's Choice Salami vieille forêt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383156312,President’s Choice Spicy Hungarian Salami,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383156329,President’s Choice Salami With Cracked Black Peppercorns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3350,7 +3350,7 @@ ean13,description,created_at,modified_at
 0060383158453,Cheese tortellini fromage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383158460,Ziggy's Ravioli - Cheese & Spinach 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383158491,Cappellacci beet & goat cheese filled egg pasta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383158705,Baies et cerises,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383158705,President's Choice Baies et cerises,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383158828,Spanish-style rice blend,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383158859,President's Choice Thai Basil Shrimp Spring Rolls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383158903,Mini poivrons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3369,10 +3369,10 @@ ean13,description,created_at,modified_at
 0060383159917,No Name Gruau 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383159924,no name Large Flake 100% Whole Grain Oats 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383159931,Le Choix Du President Riches et tendres brisures de chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383159948,Rich & chewy granola bars marshmallow & chocolate chip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383159948,President's Choice Rich & chewy granola bars marshmallow & chocolate chip,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383159955,Rich and chewy chocolate chip granola bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383160074,President's Choice Wine Gums,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383160081,Bonbons a la reglisse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383160081,President's Choice Bonbons a la reglisse,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383160401,President's Choice Limonade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383160913,PC Organic Hummus 190 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383160920,PC Organic - Biologique • Loblaws Roasted Garlic Hummus 190 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3381,12 +3381,12 @@ ean13,description,created_at,modified_at
 0060383161330,poivrons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383161408,Natural Choice- turkey breast honey maple,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383161538,President's Choice Milk Chocolate Covered Sponge Toffee,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383161545,chocolate seashells,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383161545,President's Choice chocolate seashells,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383161583,Blue Menu Supergains oatmeal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383161613,President's Choice Butter fudge,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383161743,Chocolate chip cookie chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383161743,President's Choice Chocolate chip cookie chips,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383161750,Peanut butter cookie chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383161767,Ginger cookie chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383161767,President's Choice Ginger cookie chips,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383161804,Blue Menu GRUAU SUPERGRAINS,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383162139,Choix du Président Coconut flour 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383162177,No Name Cheddar slices,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3396,7 +3396,7 @@ ean13,description,created_at,modified_at
 0060383162269,Menu bleu Fudge ai beurre d’arachide,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383162399,Pc Organic Sea salt multigrain flatbread crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383162504,Protéines céréales à grains entiers avec fraises,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383162719,Cooked peeled responsibly farmed jumbo pacific white shrimp,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383162719,President's Choice Cooked peeled responsibly farmed jumbo pacific white shrimp,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383162733,President's Choice Mini tortillas,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383162818,Eau déminéralisée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383162832,FREE FROM SMOKED HONEY HAM,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3406,7 +3406,7 @@ ean13,description,created_at,modified_at
 0060383163167,Raspberry no sugar added fruit and concentrated,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383163174,Strawberry no sugar added fruit and concentrated,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383163693,President's Choice Apple Fruit Snack,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383164089,Mint european dark chocolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383164089,President's Choice Mint european dark chocolate,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383164119,Choix du président Rosemary multigrain flatbread crackers 142g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383164201,cheese twist,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383164430,President's Choice Siracha Mayo 300 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3429,10 +3429,10 @@ ean13,description,created_at,modified_at
 0060383166663,President's Choice Lean Beef Burger,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383166694,President's Choice Riz basmati 750,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383166847,Pesto,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383166908,Jus d’orange,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383167318,Swedish beef meatballs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383166908,No Name Jus d’orange,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383167318,President's Choice Swedish beef meatballs,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383167721,President's Choice Tea Latte Chai,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383167738,London Fog,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383167738,President's Choice London Fog,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383167905,President's Choice Brown basmati rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383167912,President's Choice Riz Basmati,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 0060383168094,PC Organics Organic Yellow Prepared Mustard 325 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3448,9 +3448,9 @@ ean13,description,created_at,modified_at
 0060383169091,Nutri-total chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383169206,President's Choice Avocado Chunks 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383169633,Prunes strained baby food,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383170004,Alfredo pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383170011,Alfredo pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383170028,Rosée pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383170004,President's Choice Alfredo pasta sauce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383170011,President's Choice Alfredo pasta sauce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383170028,President's Choice Rosée pasta sauce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383170059,Marinara pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383170202,Nutri-total Vanille,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383170240,Cream Soda 12 x 355 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3472,7 +3472,7 @@ ean13,description,created_at,modified_at
 0060383172121,Pork frankfurters,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383172244,Texas caviar mild bean salsa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383172305,Le choix du président Black Chia Seeds 907g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383172336,Salted,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383172336,President's Choice Salted,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383172626,menu bleu Soupe haricots noirs épicés 500 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383172732,Strawberries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383172800,Puree carottes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3480,7 +3480,7 @@ ean13,description,created_at,modified_at
 0060383172831,Sweet potatoes strained baby food,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383173043,President's Choice Arbor Superior Rice 750 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383173050,President's Choice Jasmine Rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383173067,Sticky rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383173067,President's Choice Sticky rice,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383173074,President's Choice Sticky Brown Rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383173937,Oven-roasted chicken breast,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383174002,Arrabbiata pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3493,10 +3493,10 @@ ean13,description,created_at,modified_at
 0060383175184,President's Choice Corn & Jalapeño Pepper,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383175283,President's Choice Thin & crispy roasted mushroom and garlic pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383175290,Le choix du président Thin & crispy six-cheese pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383175306,Thin & crispy pepperoni pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383175306,President's Choice Thin & crispy pepperoni pizza,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383175313,Thin & crispy pepperoni,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383175320,President's Choice Thin & crispy spinach pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383175337,Thin & crispy mozzarella pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383175337,President's Choice Thin & crispy mozzarella pizza,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383175436,no name Marble farmer's,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383175443,no name Marble cheddar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383175450,no name old cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3522,8 +3522,8 @@ ean13,description,created_at,modified_at
 0060383178628,Presidents choice yukon gold potatoe bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383178697,Ke choix du presidenr Crevettes creme er bacon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383179182,Cod fish cakes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383179441,Feeling cleansed milk thistle and dandelion root herbal tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383179465,Feeling energized siberian ginseng and ginger root herbal tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383179441,President's Choice Feeling cleansed milk thistle and dandelion root herbal tea,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383179465,President's Choice Feeling energized siberian ginseng and ginger root herbal tea,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383179519,Variety tomatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383179816,Farina 00 flour for Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383179823,Consilia Piadina,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3549,15 +3549,15 @@ ean13,description,created_at,modified_at
 0060383180676,President's Choice Iced tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383180973,PC Le choix du président saumon confit saveur érable 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181048,President's Choice Fruit & Nut Dark Chocolate Cherry Chewy Bars 5 x 33 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383181055,"Barres tendres, fruits et noix, noux de coco grillée",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383181055,"President's Choice Barres tendres, fruits et noix, noux de coco grillée",2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383181062,Blue Menu Mixed Berry Fruit & Nut Chewy Bars 165 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181178,Le choix du président Pork goose pate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181215,President's Choice Blue Corn Kettle Style Tortilla Chips 368 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181291,Blue Menu Ancient Grains & Super Seeds Blend,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181307,"PC Blue Menu Sunflower, Pumpkin & Superseeds 227 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383181321,Pancake proteinés,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383181321,President's Choice Pancake proteinés,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383181499,Traditional naan dippers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383181505,Sriracha tomato clam cocktail,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383181505,President's Choice Sriracha tomato clam cocktail,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383181512,Naturally Imperfect whole strawberries 2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181598,President's Choice Potato & Bacon Flatbread 395 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383181628,President's Choice Cherry Tomato & Arugula Flatbread 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3580,7 +3580,7 @@ ean13,description,created_at,modified_at
 0060383182908,"President's Choice Brisures de chocolat mi-sucré, Le décadent",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383182915,Soft-baked ginger cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383182922,President's Choice Soft-baked Milk Chocolate Peanut Butter Cup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383182939,Soft-baked white chocolatey macadamia cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383182939,President's Choice Soft-baked white chocolatey macadamia cookies,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383183066,No Name Tortilla Chips Nacho Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383183202,Pc Memories of seoul gochujang spicy chili sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383183226,President's Choice Souvenir de Tunisie Sause harissa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3594,20 +3594,20 @@ ean13,description,created_at,modified_at
 0060383183882,Granola et noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383183905,PC Trail Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383183912,Choix du président Brioche 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383183974,Labbé wash-rind,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383183974,President's Choice Labbé wash-rind,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383183998,President's Choice Le Michabou washed-rind firm surface-ripened cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184018,Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184117,No Name coffee pods-dark roast 100,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184162,Red de-alcoholized wine with natural flavour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184179,White de-alcoholized wine with natural flavour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383184209,Radler Limonade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383184209,President's Choice Radler Limonade,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383184261,Purée pour bébé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184285,"President's Choice Banana, Apple, and Carrot",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184292,"Nourriture en purée pour bébé, patate douce, pomme et mangue",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184308,President's Choice Mangue purée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184315,PC Blue Menu Bleu Free-Run Large White Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184513,Coconut Chunks,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383184520,Pineapple Chunks,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383184520,President's Choice Pineapple Chunks,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383184575,White cheddar mac & cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184629,Pc Parmigiano reggiano,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383184636,Splendido parmagiano reggiano hard ripened cheese aged months 250.0 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3635,7 +3635,7 @@ ean13,description,created_at,modified_at
 0060383186036,President's Choice Milk chocolate crepes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383186067,President's Choice Milk Chocolate Covered Almonds 700 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383186098,President's Choice Farfalle 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383186104,Fusilli,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383186104,President's Choice Fusilli,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383186128,Linguine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383186135,President's Choice Penne rigate 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383186142,Présidents Choice Rigatoni,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3662,7 +3662,7 @@ ean13,description,created_at,modified_at
 0060383186920,Pc Free From Teriyaki beef jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383186944,No Name Jerky au boeuf,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383186975,Le choix du président Guimauves saveur d'érable 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383186982,Goddess dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383186982,President's Choice Goddess dressing,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383187002,null Sauce Barbecue Au Bacon Et à L'érable Avec Arôme Naturel PC,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383187033,Barbecue sauce poblano et lime,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383187194,Simple Tortillas Originales,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3686,7 +3686,7 @@ ean13,description,created_at,modified_at
 0060383187866,No Name Fromage a la creme fine herbes et ails,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383188283,President's Choice Eau petillante,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383188337,President's Choice Sparkling water 12 x 355ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383188375,Skyr Yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383188375,President's Choice Skyr Yogurt,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383188726,President's Choice Roasted Almonds with Sea Salt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383188733,President's Choice Noix de cajou rôties non salées 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383189167,Italian sausage pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3695,7 +3695,7 @@ ean13,description,created_at,modified_at
 0060383189679,Sans nom Sandwichs à la crème glacée Chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383189686,President's Choice Œuf en chocolat au lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383189693,PC Milk Chocolate Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383189709,Milk Chocolate Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383189709,President's Choice Milk Chocolate Eggs,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383189839,President's choice Smoky bonfire double smoked bacon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383189860,Original smokies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383190163,President's Choice Loads of Canadiana Beef Burgers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3733,12 +3733,12 @@ ean13,description,created_at,modified_at
 0060383192488,President’s Choice Greek Raspberry Pomegranate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383192495,President ‘s Choice Yogourt Grec Pêche et mangue 4 x 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383192556,Président Choice Tangerine Italian Soda,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383192587,Fig Bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383192587,No Name Fig Bars,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383192747,President's Choice Mozzarella Cheese Sticks in Herbed Breading 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383192921,President's Choice PC Maple Fudge,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383193065,President's Choice Creamy Garlic Wing Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383193072,President's Choice Honey Garlic Wing Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383193089,Cayenne & scotch bonnet wing sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383193089,President's Choice Cayenne & scotch bonnet wing sauce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383193171,Biologique beurre d'arachide Crémeux 1kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383193201,Spaghetti bolognese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383193218,President's Choice Organics Vegetable & lentil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3776,13 +3776,13 @@ ean13,description,created_at,modified_at
 0060383195250,No Name Ham cooked,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383195304,President's Choice Coconut water not from concentrate 1 L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383195427,Presidents Choice Riced cauliflower,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383195465,Costa rica medium roast arabica coffee single serve pods,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383195465,President's Choice Costa rica medium roast arabica coffee single serve pods,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383195472,Gourmet swiss water process decaffeinated medium,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383195489,President’s Choice Gourmet Medium Roast Coffee,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383195496,Presidents Choice The great canadian light to medium roast arabica,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383195502,West coast dark roast gourmet single serve coffee pods,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383195502,President's Choice West coast dark roast gourmet single serve coffee pods,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383195724,PC Pizza Mozzarella Shredded Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383195731,Tex mex shredded cheese blend,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383195731,President's Choice Tex mex shredded cheese blend,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383195748,Tre formaggi,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383195762,no name Shredded medium cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383195779,sans nom Fromage mozzarella,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3825,7 +3825,7 @@ ean13,description,created_at,modified_at
 0060383197292,President's Choice Baby Brussels Sprouts 1.75kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383197308,President's Choice Fleurons de brocoli 2kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383197315,President's Choice Chopped Spinach 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383197339,Mini bagels originaux,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383197339,President's Choice Mini bagels originaux,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383197360,President's Choice Virgin Coconut Oil 2.3 L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383197414,Pâtés poulet au beurre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383197520,PC Organics • Loblaw’s Cocoa Powder 224g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3838,7 +3838,7 @@ ean13,description,created_at,modified_at
 0060383197902,President's Choice Cacciatore sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383197988,President's Choice Farina 00 for Pasta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383198008,Pink lemonade sparkling beverage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383198084,Berry pomegranate liquid water enhancer,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383198084,President's Choice Berry pomegranate liquid water enhancer,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383198114,President's Choice Canola Oil Spray,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383198121,President's Choice Huile de noix de coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383198138,President's Choice Huile D'Olive Extra-Vierge Vaporisateur 155 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3850,7 +3850,7 @@ ean13,description,created_at,modified_at
 0060383198664,Substitut de yogourt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383198671,President's Choice cultured coconut milk blueberry 500g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383198688,President's Choice Cultured Coconut Milk 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383199005,Spinach dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383199005,President's Choice Spinach dip,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383199029,PC Organics Whole Strawberries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383199036,PC Organics Wild Bluebarries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383199074,President's Choice Honey Garlic Chicken Wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3880,7 +3880,7 @@ ean13,description,created_at,modified_at
 0060383200183,No Name Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200213,President's Choice Cheddar Jalapeño smokies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200237,Stacon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383200299,Honeycrisp sweet apple cider,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383200299,President's Choice Honeycrisp sweet apple cider,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383200473,Navy Beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200480,President's Choice Red kidney beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200497,Long grain brown rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3902,10 +3902,10 @@ ean13,description,created_at,modified_at
 0060383200886,Blue Menu Hard Boiled Omega-3-Free-Run Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200893,PC Blue Menu Peeled Hard-Boiled Omega-3 Free-Run Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200916,Apple Grape,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383200923,Apple juice 10 x 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383200923,President's Choice Apple juice 10 x 200 ml,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383200930,100% Jus Pomme,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200954,Fruit punch juice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383200961,Mango juice blend,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383200961,President's Choice Mango juice blend,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383200978,Jus de mangue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383200992,Jus framboise et orange,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383201005,Banana strawberry flavour juice blend 10 x 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3936,7 +3936,7 @@ ean13,description,created_at,modified_at
 0060383202200,Jus de raisin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383202217,Melange tropical,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383202224,Apple grape juice blend 10 x 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383202231,Orange mango juice blend from concentrate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383202231,President's Choice Orange mango juice blend from concentrate,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383202408,President's Choice Idlandic style yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383202415,Pc Skyr,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383202453,PC • Loblaws Hummus 908 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3959,14 +3959,14 @@ ean13,description,created_at,modified_at
 0060383203566,President's Choice Chicken Arrabbiata Flatbread 344 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383203573,"President's Choice Pain plat - courge, chou frisé et betterave",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383203641,Fondant Blanc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383203696,Licorne rose,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383203696,President's Choice Licorne rose,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383203702,Gold & sliver sprinkles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383203733,No Name Aluminum Foil 30.48 cm x 30.5 cm (100 ft x 12 in) or 100 sq ft,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383204013,Crunchy hazelnut spread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383204129,President's choice Tomato and fennel pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383204136,Sauce à spaghetti,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383204143,Bouchees de morue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383204181,Seafood bake,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383204143,President's Choice Bouchees de morue,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383204181,President's Choice Seafood bake,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383204228,President's Choice Maryland-style crab cakes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383204242,Tomates,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383204259,President's Choice Axiany Cherry Tomatos 681g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3990,7 +3990,7 @@ ean13,description,created_at,modified_at
 0060383205317,No Name Gateau au fromage tourbillon au chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383205324,Sans nom Tourbillon à la fraise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383205652,President's Choice Kettle Cooked Sea Salt and Vinegar Chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383205812,Sauce Soya,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383205812,President's Choice Sauce Soya,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383205836,Scalloped Potatoes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383205843,President's Choice Thon blanc entier,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383205850,President's Choice Solid White Tuna,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4031,12 +4031,12 @@ ean13,description,created_at,modified_at
 0060383207038,President's Choice Hummus epicé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383207045,Hummus roasted red pepper,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383208998,mayo-style 710mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383209056,Wild yellowfin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383209056,President's Choice Wild yellowfin,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383209070,Morue de l’Atlantique Sauvage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209100,Yogourt brassé nature,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209216,Sables en etoiles avec morceaux de canneberges,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209223,President’s choice Chocolat au lait avec noix de coco 304g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383209247,Pc grains mauves mais a eclater 10 x 82 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383209247,President's Choice Pc grains mauves mais a eclater 10 x 82 g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383209254,President's Choice Popcorn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209285,Butter flavour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209292,Purple kernel microwave popping corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4057,7 +4057,7 @@ ean13,description,created_at,modified_at
 0060383209629,President's Choice Vinaigrette Fromage Bleu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209636,President's Choice Apple cider vinaigrette 350ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209643,PC Balsamique 350ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383209667,Greek vinaigrette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383209667,President's Choice Greek vinaigrette,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383209681,PC Vinaigrette fines herbes printanières 350ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209742,President's Choice Sweet Celebration Red Seedless Grapes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383209797,Eau petillante melon d'eau,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4067,9 +4067,9 @@ ean13,description,created_at,modified_at
 0060383210175,FREEDOM SIMPLEMENTS Pepperellos turkey,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383210182,President's Choice Hummus Roasted Red Pepper 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383210205,President's Choice Coconut Cream Pie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383210212,Chocolat noir,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383210212,President's Choice Chocolat noir,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383210250,Salami trio,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383210427,Milk chocolate toffee hazelnuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383210427,President's Choice Milk chocolate toffee hazelnuts,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383210434,Presidents Choice Dark chocolate coconut almond,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383210458,No Name regular round tortilla chips 908 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383210526,President's Choice Moussaka PC Biologique,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4079,7 +4079,7 @@ ean13,description,created_at,modified_at
 0060383210601,Croûte à pizza au chou- fleur,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383211080,PC Gnocchi with Butternut Squash,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383211097,President's Choice Too good to be wings honey garlic boneless chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383211134,Tiramisu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383211134,President's Choice Tiramisu,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383211370,President's Choice Crème glacé lait de coco d'arachide et flocons chocolatés,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383211400,Blue Menu Cranberry & Seeds Oatmeal & Nut Butter Bars 190 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383211417,Avoine et beurre de noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4133,26 +4133,26 @@ ean13,description,created_at,modified_at
 0060383215422,Muffin anglais bio,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215439,President's Choice Granola Miel et Noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215446,Granola original,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383215477,Courge musquée nouilles de legumes comgelées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383215477,President's Choice Courge musquée nouilles de legumes comgelées,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383215484,President's Choice Zucchini,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215538,President's Choice Frozen Watermelon Chunks 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215569,President's Choice Italian style bean and chicken protein bowl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215576,President's Choice Mediterranean style grain & chicken protein bowl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215583,Bol de protéines,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215590,President's Choice Bol de protéines nouilles de sarrasin et tofu à la coréenne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383215606,Pork burgers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383215606,President's Choice Pork burgers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383215798,Tagliatelle,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215804,Tri color fettuccine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215811,Ricotta and Spinach Girasole,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215866,Four cheese rainbow tortellini,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215873,Chicken and Pancetta Tortellini,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383215880,Cappelletti saucisse italienne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383215880,President's Choice Cappelletti saucisse italienne,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383215897,President's Choice Splendido ricotta and spinach,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215903,Tortellini au legumes rotis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383215927,Simple Oats,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383216009,President's Choice Cauliflower florets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383216047,President's Choice Original Cheesecake-Style Dessert 540 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383216078,Espresso perfetto,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383216078,President's Choice Espresso perfetto,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383216085,no name chicken broth,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383216092,no name chicken broth 900 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383216108,no name Beef Broth,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4193,7 +4193,7 @@ ean13,description,created_at,modified_at
 0060383217167,President's Choice Ranch dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383217181,Beef Carnitas - President's Choice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383217198,Le choix du président Pad Thaï au poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383217204,Lemon garlic shrimp & scallop pasta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383217204,President's Choice Lemon garlic shrimp & scallop pasta,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383217280,Salsa greek,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383217303,Pois chiches 900g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383217310,Mélange de cinq haricots,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4209,7 +4209,7 @@ ean13,description,created_at,modified_at
 0060383218836,President's Choice coconut cream cheese-style spread 227g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383218843,PC Parmesan - Fromage râpé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383218867,President's Choice Cheddar avec Habanero,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383218874,Cheddar à arôme de fumée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383218874,President's Choice Cheddar à arôme de fumée,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383219000,Trempette cajous,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383219017,President's Choice Cucumber Dill Cashew Dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383219024,Roadster red Pepper cashew dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4233,7 +4233,7 @@ ean13,description,created_at,modified_at
 0060383220600,President's Choice Bâtonnets style mozzarella à base de plantes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383220679,No Name Café instantané,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221515,President's Choice Maple Crunch Ice Cream 946 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383221522,Mochi 6 x 35 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383221522,President's Choice Mochi 6 x 35 ml,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383221614,President's Choice Purée biologique,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221669,Choix du président Miche blanche 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221676,President's Choice Pain millet et quinoa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4242,15 +4242,15 @@ ean13,description,created_at,modified_at
 0060383221720,President's Choice Organic Extra Dark Chocolate 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221751,Cricket protein bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221768,Cricket protein bar peanut butter,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383221843,Chi powder blend,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383221843,President's Choice Chi powder blend,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383221935,President's Choice Organic smoked paprika 52g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221959,Turmeric,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383221966,Flocons givres,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383221966,President's Choice Flocons givres,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383221973,Avoine grillée en O,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383221997,President Choice Honey nut oats 725g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383222017,Muffins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383222178,President's Choice Oatmeal raisin cookie dough rounds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383222192,Chocolate chip cookie dough rounds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383222192,President's Choice Chocolate chip cookie dough rounds,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383222284,President's Choice Reduced Sodium Taco Seasoning Mix 24 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383222291,Blue Menu Fajita Seasoning Mix 24 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383222376,President's Choice Blonde Chocolate Bar 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4283,7 +4283,7 @@ ean13,description,created_at,modified_at
 0060383222994,President's Choice Spring Herb Vinaigrette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223007,PC Vinaigrette grecque,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223014,President's Choice Hamburger Buns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383223021,Pain hot-dog sans gluten,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383223021,President's Choice Pain hot-dog sans gluten,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383223076,President's Choice TACO Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223137,Bouchées aux noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223144,Bouchées aux noix baies et cerises,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4295,7 +4295,7 @@ ean13,description,created_at,modified_at
 0060383223380,President's Choice Barre de chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223434,No Name Dry roasted peanuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223649,No Name Sardines,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383223656,Chili aux legumes et aux haricots,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383223656,President's Choice Chili aux legumes et aux haricots,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383223717,No Name Cream chesse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223724,no name Shredded marble,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383223731,President's Choice Emmentaler 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4304,7 +4304,7 @@ ean13,description,created_at,modified_at
 0060383223816,Everything Bagel Seasoning,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383224066,President's choice Yougourt grec,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383224172,President's Choice Waffle Bowls,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383224189,Mini waffle bowl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383224189,President's Choice Mini waffle bowl,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383224196,President's Choice Cornet gaufrés,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383303761,No name Slivered almonds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383365523,Pistaches de la californie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4424,7 +4424,7 @@ ean13,description,created_at,modified_at
 0060383660093,No names Cheese Flavoured Crunchy Snacks 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383660598,President's Choice Natural Spring Water 12 x 500 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383660802,No Name Margarine Spread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383661120,Aged years canadian cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383661120,President's Choice Aged years canadian cheddar cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383661144,No Name Saumon rose du Pacifique sauvage 418g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383661700,President's Choice MEAT LASAGNA 320 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383662219,No Name Plum sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4501,10 +4501,10 @@ ean13,description,created_at,modified_at
 0060383674984,No Name Pickled Chunk beets 750 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383675066,Sans nom Three Fruits,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383675363,No Name Riz etuvé a grains longs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383675677,Raspberry & cranberry juice blend from concentrate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383675677,President's Choice Raspberry & cranberry juice blend from concentrate,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383675837,Simple pizza mozzarella 16,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383675929,Cheese cannelloni,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383675936,Macaroni & beef,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383675929,President's Choice Cheese cannelloni,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383675936,President's Choice Macaroni & beef,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383676216,Sans nom Olives mûres moyennes entières,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383676223,No Name Olives mûres 398ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383676230,Sans nom Olives mûres très grosses entières,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4554,7 +4554,7 @@ ean13,description,created_at,modified_at
 0060383682002,No Name Pâtés impériaux légumes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383682033,PC Organics Wheat Squares 620 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383682217,Cream of tomato with parmesan and basil condensed soup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383682361,Mincemeat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383682361,President's Choice Mincemeat,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383682378,President's Choice 5 minced fruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383683160,Natural spring water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383683474,Brie triple creme,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4613,7 +4613,7 @@ ean13,description,created_at,modified_at
 0060383692216,grape fruit juice from concentrate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383692360,President's choice Original Pasta Sauce 700 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383692377,President's Choice Pasta sauce with mushrooms,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383692537,Fromage de chèvre à pâte molle,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383692537,President's Choice Fromage de chèvre à pâte molle,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383692544,PC Organics • Loblaws Yellow Onions 907g 2 lb,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383692551,"PC Organics Biologique • 🇨🇦Loblaws Fresh Organic Red Potatoes, Whole. 1.36 kg ( 3 lb )",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383692568,"RUSSET Pommes de terre 1,36 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4653,7 +4653,7 @@ ean13,description,created_at,modified_at
 0060383699307,No Name Chicken wings ( split/ tips Removed),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383699314,Boneless - skinless chicken breadt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383699321,No Name Frozen Bone In Skin On Chicken Thighs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383699369,Nova Scotian Frozen Scallops,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383699369,President's Choice Nova Scotian Frozen Scallops,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383699956,Creamy potato salad,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383700010,Ziggy's Potato & Egg Salad 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383700041,Ziggy's Macaroni Salad 454 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4680,7 +4680,7 @@ ean13,description,created_at,modified_at
 0060383705695,No Name Chili sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383705985,Sans nom Maïs à grains entiers 199 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383706265,Hand-picked granny smith apples,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383706548,Salsa douce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383706548,President's Choice Salsa douce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383706968,Sans nom Margarine 907 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383706975,No Name Margarine 1.36kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383706982,No Name Margarine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4755,7 +4755,7 @@ ean13,description,created_at,modified_at
 0060383723750,No Name Honey,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383724610,President's Choice Roasted garlic olive oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383724627,Spicy herb & pepper olive oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383725013,Vegetable cocktail,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383725013,President's Choice Vegetable cocktail,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383725037,President's Choice Basmati rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383725082,presidents choice paper tissue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383725099,President’s Choice Medium soft flour tortillas,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4834,14 +4834,14 @@ ean13,description,created_at,modified_at
 0060383755911,President's Choice Cranberry almond crunchy cereal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383756185,President's Choice Diet Lemon Iced Tea Flavoured Beverage 355 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383756192,President's Choice Diet Lemon Iced Tea Flavoured Beverage 12 x 355 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383756208,Limonade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383756369,Light parmesan grated cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383756208,President's Choice Limonade,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383756369,President's Choice Light parmesan grated cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383756376,Blue Menu Memories of szechwan spicy peanut satay sauce with stevia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383756468,Blue Menu MEAT LASAGNA,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383756475,PC Blue Menu Roasted vegetable lasagna 1.13 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383756482,Roasted vegetable lasagna,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383756482,President's Choice Roasted vegetable lasagna,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383756512,PC Organics Ancient Grains 375 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383756529,Reasons multigrain cereal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383756529,President's Choice Reasons multigrain cereal,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383756543,President's Choice Fibre first multi-bran cereal 1/2,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383757601,PC Blue Menu Scottish haddock fillets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383757830,No Name Câpres,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4854,7 +4854,7 @@ ean13,description,created_at,modified_at
 0060383758837,President's Choice Dark Chocolate 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383758882,President's Choice Organic Tomato Ketchup 575 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383758929,No Name Colorant a café 450g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383759247,Cranberry orange sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383759247,President's Choice Cranberry orange sauce,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383759360,President's Choice Lait partiellement écrémé frais,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383759681,President's Choice Tortillas Original Medium 340 g (10 tortillas),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383760267,Poulet et nouilles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4868,7 +4868,7 @@ ean13,description,created_at,modified_at
 0060383764111,Boulette de poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383764647,splendido Condiment à arôme de figue avec vinaigre balsamique de modène 250 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383764654,Balsamic vinegar raspberry flavoured,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383764715,Flavoured decaffeinated ground coffee vanilla hazelnut,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383764715,President's Choice Flavoured decaffeinated ground coffee vanilla hazelnut,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383765798,Marble cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383767617,Blue Menu Butter chicken 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383767747,President's Choice Salsa Con Queso,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4877,7 +4877,7 @@ ean13,description,created_at,modified_at
 0060383768539,President's Choice Traditional black forest ham,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383768546,Mediterranean chicken breast,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383768607,Natural choice tomato and basil oven-roasted turkey breast,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383772826,Original rich & flaky crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383772826,President's Choice Original rich & flaky crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383772840,Less sodium rich & flaky crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383773021,Tourbillonnées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383773038,The reverse decadent white chocolate chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4890,7 +4890,7 @@ ean13,description,created_at,modified_at
 0060383774844,"No Name / Sans Nom • Loblaws Mixed Berries, Naturally Imperfect, frozen 2 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383774899,President's Choice Lemon ice tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383774905,Lemon iced tea 12 x 355 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383775834,Thé vert Miel et gingembre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383775834,President's Choice Thé vert Miel et gingembre,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383775858,Presidents Choice Buffalo wing sauce mild,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383775865,President's Choice buffalo,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383775902,Celeb calorie-reduced margarine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4913,7 +4913,7 @@ ean13,description,created_at,modified_at
 0060383779429,Cocktail de tomates et de palourdes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383779504,No Name Mini saucisses fumées en pâte,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383779672,Whole wheat flour,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383779689,Farine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383779689,President's Choice Farine,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383779788,Bacon à l'ancienne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383779825,President's choice Peaches & cream whole kernel corn / mais à grains entiers deux couleurs 341 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383779832,PC Canned peas 1pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4990,7 +4990,7 @@ ean13,description,created_at,modified_at
 0060383792336,hot cross buns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383793647,PC • Loblaws Thins whole grain long white buns 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383793753,Two-bite brownies mini brownies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383797904,Diced italian pancetta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383797904,President's Choice Diced italian pancetta,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383797980,PC Blue Menu Vegetarian Chicken Breast 936 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383799700,President's Choice Olives stuffed with red peppers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383799717,President choice Olives stuffed with almonds 375 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5009,7 +5009,7 @@ ean13,description,created_at,modified_at
 0060383814120,President’s Choice Mozzarella cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383816902,PC Organic Berries & Cherries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383820466,Blue Menu PC THINS WHOLE GRAIN ROUND BUNS 480 g 8 buns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383820473,Key lime pie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383820473,President's Choice Key lime pie,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383821142,FORTINOS Poulet entier barbecue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383822293,Menu bleu Easy cook! chicken breast portions 6,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383822477,President's Choice Original New York-Style Cheesecake 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5032,7 +5032,7 @@ ean13,description,created_at,modified_at
 0060383837440,President's Choice Mild Genoa Salami,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383837457,President's Choice Hot salami,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383837464,PC • Loblaws 1Yr Aged Canadian Cheddar 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383837471,Aged years canadian cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383837471,President's Choice Aged years canadian cheddar cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383837556,High protein bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383837563,President's Choice Hight protein bars,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383837570,Presidents Choice High Protein Bar Peanut Butter Chocolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5046,7 +5046,7 @@ ean13,description,created_at,modified_at
 0060383843823,Dark chocolate enrobed profiteroles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383843830,President's Choice Mini éclairs nappés de chocolat noir,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383845681,President's Choice Herbal Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383845698,Feeling soothed peppermint,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383845698,President's Choice Feeling soothed peppermint,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383845704,Presidents Choice • Loblaws Feeling Calm Camomile Citrus Herbal Tea 30 g (20 bags),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383845919,Arrowroot,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383846886,Brocoil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5066,7 +5066,7 @@ ean13,description,created_at,modified_at
 0060383849177,No Name Merbré au caramel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383849184,Sans marque Glace 4 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383849368,le Choix du Président BAR LAITIER Mangue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383849399,Ice cream shop flavours mango ice cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383849399,President's Choice Ice cream shop flavours mango ice cream,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383850647,Mashed potatoes and turkey with carrots and sweet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383850654,organics spaghetti in turkey meat sauce 185g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383851705,Pommes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5093,8 +5093,8 @@ ean13,description,created_at,modified_at
 0060383858933,Poivron,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383858957,English cumcubers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383859046,President's Choice chicken barbecue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383859084,3 dip,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383859237,PC Seafood Seasoning Rub,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383859084,President's Choice 3 dip,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+0060383859237,President's Choice PC Seafood Seasoning Rub,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383859374,MENU Bleu Pois Chiches 540 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383859381,Blue Menu Dark red kidney beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383859398,Blue Menu White Kidney Beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5120,13 +5120,13 @@ ean13,description,created_at,modified_at
 0060383863876,President's Choice PC Thins Multigrain Buns 480g. 8 x Thin-buns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383863951,Moules vertes de Nouvelle-Zélande,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383864163,No Name Extra Large Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383864798,Cocktail bocconcini soft fresh cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383864798,President's Choice Cocktail bocconcini soft fresh cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383865399,Crab meat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383865405,President's Choice Whole smoked oysters in oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383865429,Le choix du Président Moules fumées 85 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383865436,President's Choice Petite palourdes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383865924,null Chocolate frozen yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383865931,pc frozen yogurt vanilla,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383865931,President's Choice pc frozen yogurt vanilla,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383865955,null Frozen yogurt caramel pecan crunch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383866037,No Name Pizza Skim Mozzarella Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383866044,No Name Marble famer’s cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5141,12 +5141,12 @@ ean13,description,created_at,modified_at
 0060383867065,no name Garden du jardin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383867089,Special blend of vegetables,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383867096,No Name Légumes d’hiver,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383867553,Feta cheese in brine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383867553,President's Choice Feta cheese in brine,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383867560,PC Light feta cheese in brine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383868734,President's Choice seasoned whole chicken barbecue fully cooked 900g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383868758,President's Choice Cranberry ginger ale,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869007,Raisins/almonds/cashews/cranberries trail mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383869014,Pineapple,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383869014,President's Choice Pineapple,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383869021,Trail mix raisins apricots roasted almonds hazelnuts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869113,Sirop Chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869120,Caramel syrup ice cream and dessert topping,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5158,20 +5158,20 @@ ean13,description,created_at,modified_at
 0060383869649,Provolone,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869656,Creamy havarti cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869663,Havarti Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383869670,Choix du President,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383869670,President's Choice Choix du President,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383869687,President's Choice Long Grain Instant Rice 1.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869724,PC Marble Cheddar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869731,No Name Chapelure chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869748,Chapelure graham miel 1kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869762,null Honey Graham Crumbs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869809,Marble cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383869878,Medium cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383869878,President's Choice Medium cheddar cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383869885,President's Choice Cheese 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383869892,President's Choice Fromage cheddar marbré 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383870157,PC Medium cheddar 1pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383870164,President's Choice Cheddar blanc fort,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383870171,Sliced marble cheddar cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383870188,Gouda cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383870188,President's Choice Gouda cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383870201,Swiss Chalet Swiss cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383870218,Creamy havarti cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383870232,PC Havarti crémeux épices et fines herbes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5190,7 +5190,7 @@ ean13,description,created_at,modified_at
 0060383872670,SeaQuest Sea quest King Crab Flavored Wild Alaska Pollock,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383872830,President Choice Raisin Secs PC,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383872847,President's Choice Pitted Prunes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383872861,Blueberries sweetened dried fruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383872861,President's Choice Blueberries sweetened dried fruit,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383872878,"President's Choice Orchard Du Verger Apple, Apricot, Pear, Prune and Red Plum 700 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383872939,Medium salsa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383873134,President's Choice Long grain instant rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5223,7 +5223,7 @@ ean13,description,created_at,modified_at
 0060383878412,Omega- almond vanilla granola,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383878429,"Le choix du président Roasted cashews with sea salt 1,13 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383878436,President's Choice Deluxe Mixed Nuts with sea salt 1.13 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383878481,Smooth vegetable cocktail,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383878481,President's Choice Smooth vegetable cocktail,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383879761,President's Choice Peanut Butter & Chocolate Ice Cream 946 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383879877,No Name Nut mix,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 0060383879884,No Name Original trail mix 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5266,7 +5266,7 @@ ean13,description,created_at,modified_at
 0060383891381,no name Barres fudges 30 x 60 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383891411,null Assorted cream bars 30 x 60 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383891510,Farmer's Market Baby carrots,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383891688,White cheddar & rosemary flavoured mini cheese crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383891688,President's Choice White cheddar & rosemary flavoured mini cheese crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383891695,President's Choice Asiago & Sundried tomato,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383891855,President's Choice Sugar Cones 142 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383891879,Organics Biologique Milled flaxseed 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5275,7 +5275,7 @@ ean13,description,created_at,modified_at
 0060383892050,popping corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383893026,PC pediatric supplement,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383893095,President's Choice Rice vermicelli noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383893569,Appletreet variety,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383893569,President's Choice Appletreet variety,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383893576,President's Choice Sesame Slider Mini Burger Buns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383893682,No Name Farmer-style sausage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383894139,Parmesan cheese and garlic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5284,7 +5284,7 @@ ean13,description,created_at,modified_at
 0060383895990,President's Choice Original unsweetened fortified almond beverage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383897512,President's Choice Peanut butter filled pretzels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383897529,President's Choice Udon noodles 4 x 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383897536,Garlic scalloped edges crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383897536,President's Choice Garlic scalloped edges crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383897543,President's Choice Rosemary Crackers 185g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383897550,President's Choice Sea Salt Crackers 185 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383897567,President's Choice Dark Sweet Cherries,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5299,7 +5299,7 @@ ean13,description,created_at,modified_at
 0060383925482,Sans nom Ranch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383945466,New world Evoo extra virgin olive oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383945893,President's Choice Glaze with Balsamic Vinegar of Modena,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383976552,Sel marins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383976552,President's Choice Sel marins,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383976576,President Choice Black Peppercorn 180g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383976583,President's Choice Dried Mango 800g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383976606,Grains de poivre arc-en-ciel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5321,14 +5321,14 @@ ean13,description,created_at,modified_at
 0060383982140,no name Cheddar Cheese Snack Crackers 225 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982171,President's Choice Biscuits Soja Sésame 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982201,President's Choice Salted tops soda crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383982218,Unsalted tops soda crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383982218,President's Choice Unsalted tops soda crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383982225,President's Choice Digestive Biscuits - Plain 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982232,President’s choice PC Milk Chocolate Digestive Biscuits,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982249,President's Choice Biscuits digestifs nappés de chocolat noir 300g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982348,granola bar Mini bars dipped & chewy chocolate chip- club,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383982423,Little penguins cheddar snack crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383982423,President's Choice Little penguins cheddar snack crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383982447,Craquelins petits pingouins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383982454,Little penguins whole wheat cheddar snack crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383982454,President's Choice Little penguins whole wheat cheddar snack crackers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383982492,President Chocolate Hazelnut Flavour Rolled Wafers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982508,President's Choice Dark chocolate rolled wafers 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383982560,President’s Choice sea salt & black pepper kettle cooked peanuts 1,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5344,9 +5344,9 @@ ean13,description,created_at,modified_at
 0060383985059,Smokin habanero BBQ Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383985066,Smokin' Stampede Beer & Chipotle BBQ Sauce 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383985073,President's Choice Mediterranean vinaigrette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383985097,Basil parmesan vinaigrette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383985097,President's Choice Basil parmesan vinaigrette,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383985202,Thousand island dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383985226,null Caesar with bacon dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383985226,President's Choice Caesar with bacon dressing,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383985233,President's Choice Ranch dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383985240,Creamy coleslaw dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383985257,Caesar dressing,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5385,7 +5385,7 @@ ean13,description,created_at,modified_at
 0060383986834,President’s Choice Pure canola oil 500mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383986858,PC Organics Pure sunflower oil 590mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383986872,PC blue menu Carrot Pineapple Bran Muffins Mix 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383986889,Mangoes sweetened dried fruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383986889,President's Choice Mangoes sweetened dried fruit,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383986902,President's Choice ALFREDO,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383986919,Le choix du président Alfredo à l'ail rôti 410 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383986971,PC Organics Organic Aged White Wine Vinegar 500ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5443,9 +5443,9 @@ ean13,description,created_at,modified_at
 0060383988944,No Name Lasagne Alfredo avec brocoli,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383988968,No Name lasagna and meat sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383988975,Sans nom No name,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383989286,Egg nog,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383989286,President's Choice Egg nog,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383989309,President's Choice Ginger ale 12 x 355 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383989507,Crisp & thin whole grain crackers with grains and seeds 225g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383989507,President's Choice Crisp & thin whole grain crackers with grains and seeds 225g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383989514,Crisp & thin whole grain crackers with flax & honey,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383989569,Taco Seasoning mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383989583,Ensemble fajita,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5462,7 +5462,7 @@ ean13,description,created_at,modified_at
 0060383990268,President's Choice Lychee Soda,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383990367,No Name Collations à saveur de fruit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383990817,No Name Zoo Animals,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383991142,Atlantic salmon skinless fillets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383991142,President's Choice Atlantic salmon skinless fillets,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383991180,Rainbow trout skinless fillets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383991234,President's Choice Haddock Fillets 550 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383991357,No Name Cheddar marbré,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5472,7 +5472,7 @@ ean13,description,created_at,modified_at
 0060383991555,PC Organics Field Greens Salad Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383991579,Baby spinach,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383991760,Pure first-pressed canola oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383991807,Seasoned whole grain croutons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383991807,President's Choice Seasoned whole grain croutons,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383991814,President's Choice Zesty garlic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383991944,MOCHACCINO,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383992118,nn ketchup chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5493,10 +5493,10 @@ ean13,description,created_at,modified_at
 0060383993153,No Name Simili-bacon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993160,Assaisonement au chili,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993177,No Name Cannelle 560g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383993214,Cheese quiche bistro-style selection,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383993214,President's Choice Cheese quiche bistro-style selection,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383993290,Sans nom Seasoned Stuffing mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993412,General tao sweet and spicy stir-fry sauce 350 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383993429,Chicken korma,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383993429,President's Choice Chicken korma,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383993511,No Name Mandarine Oranges in orange gel 4 x 123 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993528,Memories of korean barbecue grilling & glazing sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993535,Memories of portugal piri piri barbecue sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5514,7 +5514,7 @@ ean13,description,created_at,modified_at
 0060383993887,President's Choice Cranberries 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993924,"PC • Loblaws Wild Blueberries, Canadian, frozen 600 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383993931,PC Blue Menu Whole Grain Macaroni Pasta 375g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383993948,Fettuccine à grains entiers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383993948,President's Choice Fettuccine à grains entiers,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383994068,President's Choice Apricots (dried),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383994075,Choix du Président Canneberges séchées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383994242,Honey Hoisin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5522,7 +5522,7 @@ ean13,description,created_at,modified_at
 0060383995096,Sunspun Cinnamon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383995164,Le choix du président Horseradish mayo sandwich spread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383995171,Roasted garlic mayo sandwich spread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383995188,Mayonnaise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383995188,President's Choice Mayonnaise,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383995324,President's Choice Manuka Honey 375 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383995447,Wellsley Farms Freeze Pops,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383995546,Le choix du président Mango chutney,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5558,7 +5558,7 @@ ean13,description,created_at,modified_at
 0060383997489,Ground Ginger,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383997496,sunspun italian seasoning 145g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383997564,sunspun ground sage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0060383997731,Whole grain whole wheat penne rigate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060383997731,President's Choice Whole grain whole wheat penne rigate,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0060383997748,Blue Menu WHOLE GRAIN ROTINI,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383997755,President's Choice Blue Menu Whole Grain Spaghetti 375 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060383997809,No names Fruit punch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6610,6 +6610,7 @@ ean13,description,created_at,modified_at
 0060410088180,Ruffles Hot Wings Chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060410088203,Ruffles Hot Wings,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060410088227,Ruffles Cool Ranch Doritos,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060410088241,Ruffles Cool Ranch,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0060410089910,Lay's Potatoe chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060410123164,Salvetat Eau minerale,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060410237106,Lays Chips,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6672,6 +6673,7 @@ ean13,description,created_at,modified_at
 0060449900651,Ok Brand Rice Sticks Gluten Free 14 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060450000005,Thé vert aux épices de pain d'épices,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060450048533,frito Lay Canada hickory sticks,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0060458903605,زيت زيتون نور قرطاج,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0060464007625,Biskies Gandum Kurma,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060464063010,Evian 330ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0060465004555,Savoia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8132,6 +8134,7 @@ ean13,description,created_at,modified_at
 0061200012088,Cadbury Caramilk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061200012095,Mr. Big minis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061200012118,Buttons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0061200012163,Cadbury Caramilk Bites,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0061200012170,Mr. Big,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061200012187,Cadbury Wunderbar Minis 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061200012200,Buttons boutons Dairy Milk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8968,6 +8971,7 @@ ean13,description,created_at,modified_at
 0061483010184,Farmer's Market Oatmeal Cookies 798 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061483010191,null Avoine et raisins secs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061483010221,Farmers market Kiwi with skin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0061483010238,La Dieta de Dulces Mexico Avocados,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0061483010306,Farmer's Market (Canada) Oatmeal raisin cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061483010313,Cookies morceaux de chocolat blanc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0061483010320,Morceaux de chocolat blanc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -25544,7 +25548,7 @@ ean13,description,created_at,modified_at
 0066701001050,St-Hubert Pepper Gravy,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0066701001067,St-Hubert Sauce (a La King) 398,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0066701001074,St-Hubert Sauce brune,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0066701001081,Sauce BBQ,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0066701001081,St Hubert Sauce BBQ,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0066701001289,Bouillon au poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0066701001296,St-Hubert Bouillon au poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0066701001500,st hubert Soupe poulet et nouilles 540 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -26932,7 +26936,7 @@ ean13,description,created_at,modified_at
 0067140700719,ziplock,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067140700795,Ziploc Sandwich Bags 600,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067140701204,ziploc medium freezer bags,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0067140701211,ziploc Karft Dinner,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0067140701211,Ziploc congélation large,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0067143000007,Price Smart Foods Roasted Garlic Bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067153948009,natural concepts Hand Sanitizer,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067156501058,Nossack Fine Meats Canadian Outback Original Beef Jerky,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -28287,6 +28291,7 @@ ean13,description,created_at,modified_at
 0067535451103,Wonka runts,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067535451608,Puzzle casse-tête bonbons en gelée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067535451615,Fruit Splash,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0067535451677,gummy Candy,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0067535453206,Super surprise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067535468750,Flip Phone Pop Watermelon Candy 30 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0067535477776,Original dubble bubble,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -29052,6 +29057,7 @@ ean13,description,created_at,modified_at
 0068062023924,Spaghettini,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068062023931,Italpasta Elbows 2.27 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068062023955,Tradizionale Penne Rigate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0068062025485,Italpasta Egg Noodle Pasta,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0068062029322,Italpasta Gluten-free Spaghetti,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068062029339,Italpasta Gulten free pasta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068062029346,Itlapasta gluten free pasta,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -30515,7 +30521,7 @@ ean13,description,created_at,modified_at
 0068200945347,Ficello black diamond,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068200945378,Cracker Barrel Fromage a effilocher poivres concasses,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068200945668,Black Diamond Bâtonnets de fromage naturel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0068200945705,Black Diamond Marble Chees,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0068200945705,Black Diamond Marble Cheddar Cheese,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 0068200945712,Fromage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068200945729,Black Diamond Chedder Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068200945743,Black Diamond MARBLE Cheddar Cheese,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -31384,6 +31390,7 @@ ean13,description,created_at,modified_at
 0068505102612,St Méthode Le Noble,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068505102636,St-Méthode Artisan-Style Loaf,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068505103008,St-Méthode Pain intégral 650g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0068505103084,La Recette St Méthode Pain avec KAMUT,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0068505103107,Saint-méthode Pain intégral,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068505103114,St-Methode Pain biologique,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0068505103145,Pain Kamut,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
