@@ -1422,6 +1422,7 @@ ean13,description,created_at,modified_at
 3594660000021,Vin apremont,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3594660000076,Vin de Savoie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3594690000046,Terrine au Cantal AOP,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3594690000053,Terrine aux myrtilles,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3594695000515,Terrine auvergnate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3594695000577,Terrine au Saint-Nectaire,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3594695000676,Pâté à la myrtille 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2009,6 +2010,7 @@ ean13,description,created_at,modified_at
 3595801901191,Ricqles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3595801901252,Orangina,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3595801901375,Tropical Oasis Mit Quellwasser und Mehrfruchsaft 1500 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3595811007500,Colin d’Akaska aux épinards,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3595814013683,La fournée dorée Pain à Burger,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3595830546479,Cranberry Orange Flavored Oatmeal Cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3595860010735,Chobani Flip S’more S’mores,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2994,7 +2996,7 @@ ean13,description,created_at,modified_at
 3596710160372,Auchan Café décaféiné torréfactionié 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710160563,Auchan Colin d'Alaska pané 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710160730,AUCHAN MMM Cantal AOP Entre-Deux 0.25 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710160747,AUCHAN MMM Bleu d'Auvergne 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710160747,Auchan Bleu d'Auvergne 0.125 kg,2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710162239,Pouce Edulcorant de table en poudre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710162284,Auchan Baba au rhum saveur vanille 240 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710164103,Auchan Cappuccino viennois au chocolat en poudre fin et onctueux 144 g e,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15298,12 +15300,12 @@ ean13,description,created_at,modified_at
 3596710557059,Auchan Compote 2.16 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557066,Auchan Compotes pomme vanille 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557073,Auchan Pomme mangue passionsans sucres ajoutés**contient des sucres naturellement présents 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710557097,Auchan puree ssa multivarietes gourdes 12x90g 1.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710557103,Auchan puree ssa multivarietes gourdes 20x90g 1.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710557097,"Auchan multi-variétés sans sucres ajoutés*3 pomme, 3 pomme fraise, 3 pomme banane, 3 pomme poire*Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fr 1.08 kg",2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
+3596710557103,"Auchan multi-variétés sans sucres ajoutés*5 pomme, 5 pomme fraise, 5 pomme banane, 5 pomme poire*Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fr 1.8 kg",2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710557110,Auchan puree ssa multivarietes gourdes 48x90g+24 offertes 6.48 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557127,Auchan POMME - allégée en sucres**30% de sucres en moins qu'une compote classique 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557134,Auchan compote allegee pomme gourdes 12x90g 1.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710557141,Auchan puree et specialite ssa multivarietes fruits jaunes gourdes 12x90g 1.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710557141,"Auchan multi-variétés fruits jaunessans sucres ajoutés*3 pomme, 3 pomme abricot, 3 pomme pêche, 3 pomme mangue passion*Contient des sucres naturellement présents dans les fruits 1.08 kg",2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710557158,Auchan puree et specialite ssa multivarietes fruits rouges gourdes 12x90g 1.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557165,Auchan Pomme Fraise sans sucres ajoutés** Contient des sucres naturellement présents 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557172,Auchan Pomme Banane sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15707,7 +15709,7 @@ ean13,description,created_at,modified_at
 3596710563401,Auchan cola 6x33cl 1.98 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563418,Auchan soda pulpe orange 6x33cl 1.98 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563425,Auchan soda agrumes 6x33cl 1.98 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710563432,Auchan Boisson aux jus de fruits Tropical 0.33 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710563432,Auchan Boisson aux jus de fruits - tropical - Saveur Tropical 0.33 l,2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710563449,Auchan cola boite 33cl 0.33 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563456,Auchan soda pulpe orange boite 33cl 0.33 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563463,Auchan soda agrumes boite 33cl 0.33 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15822,6 +15824,7 @@ ean13,description,created_at,modified_at
 3596710565078,Auchan cafe saveur caramel dosettes x10 70g 0.07 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565085,Auchan cafe saveur vanille dosettes x10 70gauchan cafe saveur vanille dosettes x10 70g 0.07 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565092,Pouce POMMECompote de pomme allégée en sucres**30% de sucres en moins qu'une compote classique. 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710565108,Pouce Pomme Banane allégée en sucres**30% de sucres en moins qu'une compote classique. 0.4 kg,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3596710565115,Pouce Pomme banane 0.71 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565146,Auchan Pomme poire sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.72 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565160,Auchan Pomme avec morceaux sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.72 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15872,10 +15875,10 @@ ean13,description,created_at,modified_at
 3596710565771,Auchan surprise glacee 300g 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565856,Auchan Gouda Holland au cumin 0.29 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565870,Auchan Galettes Bretonnes pur beurre 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710565887,Auchan biscuit coco 125g 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710565887,Auchan Sablés noix de coco 0.125 kg,2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710565894,Auchan petit beurre tablette chocolat au lait pocket 250g 0.25 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565900,Pouce Cookies pépites de chocolat 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710565917,Pouce cookies tout choco 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710565917,Pouce Cookie tout chocolat 0.2 kg,2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710565924,Auchan cookies tout chocolat 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565931,Pouce biscuit tablette chocolat noir 150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565948,AUCHAN MON LAPIN GOURMAND COEUR CHOCOLAT x5 140 g 0.14 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15925,7 +15928,7 @@ ean13,description,created_at,modified_at
 3596710567140,Auchan cake citron pavot 80g 0.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567157,Auchan cake banane 80g 0.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567164,Auchan cake marbre 80g 0.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710567171,Auchan penne saumon 280g 0.28 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710567171,Auchan penne aux saumons 280g 0.28 kg,2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
 3596710567232,Auchan very veggie tofu fume x2 250g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567249,Auchan the infuse citron vert menthe pet 1.5l 1.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567256,Auchan Polenta Fine 0.5 kg,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
@@ -15950,6 +15953,7 @@ ean13,description,created_at,modified_at
 3596710567812,Auchan sirop peche blanche bouteille verre 70cl 0.7 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567829,Auchan sirop cassis bouteille verre 70cl 0.7 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567836,Auchan sirop fruit de la passion bouteille verre 70cl 0.7 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710567843,Auchan acras de morue x12 200g 0.2 kg,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3596710567911,Auchan Bio Auchan chocolat lait bio 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567942,Cosmia box gel douche edition limitee 750 ml 100 pièces (77.3 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567997,Pouce gel douche et bain peche 500 ml 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16973,6 +16977,7 @@ ean13,description,created_at,modified_at
 3598960068538,Petit cake moélleux au bleu des causses,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960068569,Valette La merveilleuse terrine de campagne à la truffe de St Jean,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960068583,Petites meringues au miel 35 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3598960069269,Volaille sauce royale aux châtaignes et pommes des champs,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3598960069306,Confit de gésiers de canard Du Périgord,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960070616,Délicate Mousseline d'Asperges Vertes au Parmesan.,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598960070876,Valette Délice de volaille 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -17044,6 +17049,7 @@ ean13,description,created_at,modified_at
 3598962015851,Les grattons de canard,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598962016087,Ambassade Du Terroir Paté de Cailles au muscat beaumes de venise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598962016179,Les rillettes pur oie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3598962016292,Confit de gésiers de canard du sud-ouest,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3598962016704,Ambassade Du Terroir La terrine campagnarde aux noix du Périgord,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598962054997,Le bloc de foie gras de canard 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598962055314,Confit de canard,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
