@@ -3998,7 +3998,7 @@ ean13,description,created_at,modified_at
 3023290639221,Nestlé Le viennois mousse 720 g (8 x 90 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290639429,"Nestlé Yaourt à La Grecque Framboise 7,2 % 140 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290640265,La Laitière Le Petit Pot de Crème Saveur Biscuit 400 g (4 * 100 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3023290640586,Nestlé Pots de crème Saveur pistache 4,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3023290640586,Nestlé Pots de crème Saveur pistache 4 x 100 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3023290642177,Nestlé Le Petit pot de crème au Caramel 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3023290643488,LA LAITIERE CLAFOUTIS CHERRIES 4X8+,2026-09-16T17:42:53Z,2026-09-17T13:43:43Z
 3023290661369,"Nestlé Yaourt au lait entier, sucré et aromatisé (Saveurs : Coco, Fraise des Bois, Vanille, Citron) 8 Pots 1 kg (8 x 125 g)",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4337,6 +4337,7 @@ ean13,description,created_at,modified_at
 3024720027007,Bordeau Chesnel Rillette De Porc Gourmande Et Légère 150g 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3024720027120,Rillette au poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3024720027137,Au poulet oignons confits,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3024720027144,Bordeau Chesnel Au poulet rôti en cocotte 200 g,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3024720027236,Rillettes poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3024720027243,Raillettes au poulet rôti,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3024720027434,Albert Lhuissier rillettes de la Sarthe 220 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5085,6 +5086,7 @@ ean13,description,created_at,modified_at
 3027030030972,Éclats de Noisettes Grillées (Alsa) 100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3027030031252,Cerneaux de noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3027030032655,Dr. Oetker Sucre Vanilline,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3027030032709,Pépites chocolat au lait,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3027030032761,Maxi cookie chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3027030032822,Alsa Ferments lactiques spécial yaourtière 4 x 8 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3027030033508,ancel Crème Pâtissière 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

@@ -105,11 +105,11 @@ ean13,description,created_at,modified_at
 3250390000747,Saint eloi Petits pois extra fins - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000754,Saint eloi Petits pois extra fins - 1/2 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000761,Saint eloi Petits pois très fins - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390000778,Saint eloi Petits pois très fins - 1/2 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390000778,Saint Eloi Petits pois très fins - 1/2 400 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390000808,Intermarché Petits pois très fins carottes - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000815,Saint Eloi Petits pois et jeunes carottes - Très fins 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000822,Saint Eloi Petits pois extra fins carottes - 4/4 530g 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390000839,Saint Éloi Petits pois extra fins carottes - 1/2 265g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390000839,Saint Eloi Petits pois extra fins carottes - 1/2 265g 400 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390000846,Les Mousquetaires Haricots verts extra-fins - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000853,Saint eloi Haricots verts extra fins - 1/2 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000860,Saint eloi Haricots verts très fins - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -119,7 +119,7 @@ ean13,description,created_at,modified_at
 3250390000938,Les Mousquetaires Macédoine de légumes - 1/2 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000945,Les Mousquetaires Macédoine de légumes - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390000952,Saint eloi Flageolets verts fins - 4/4 530g 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390000976,Saint eloi Epinards en branches 380 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390000976,Saint Eloi Epinards en branches - 1/2 380 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390000983,Pâturages Fromage blanc,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390001010,Saint eloi Salsifis - 4/4 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390001027,Saint Eloi Salsifis - 1/2 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1183,7 +1183,7 @@ ean13,description,created_at,modified_at
 3250390305361,Intermarché Ids Gesiers De Canard,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390305613,Monique ranou LS saucisson bridé marcelou 380G 365 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390305699,Fiorini Pizza royale (cuite au feu de bois) 420 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390307068,Itineraire des saveurs Confit de manchons de canard du sud ouest 765g 765 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390307068,Itineraire de nos regions Confit de manchons de canard du sud ouest 765g 765 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390307167,Monique ranou LS SALAMI DAN.PP 15T 150G (>Barfuss) - massifié TRAD 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390307228,Monique Ranou Jambon de Bayonne 5tr. 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390307754,Monique Ranou Boudin Blanc Nature 360 g (4 x 90 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1315,7 +1315,7 @@ ean13,description,created_at,modified_at
 3250390380672,"Adélie Tarte Au Citron Meringuée, Pâte Sablée Pur Beurre, La Boîte De 500 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390380702,Jean Rozé Steak hache 10% 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390380948,Monique ranou Hachis parmentier 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390381020,Claude Léger Poélée campagnarde 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390381020,Monique ranou Poélée campagnarde 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390381044,Itinéraire des Saveurs Paëlla IDS 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390382423,Saint eloi ST Eloi Salade Melee,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390382850,Fiorini Pipe Rigate 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1369,7 +1369,7 @@ ean13,description,created_at,modified_at
 3250390402633,Odyssee Filets de cabillaud msc 800g 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390402688,Paquito Dessert de fruits pomme poire 4x100g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390405092,Paturages Yaourt étuvé bio nature 12x125g 1500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390405108,Pâturages Yaourt étuvé bio vanille 12x125g 1500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390405108,Paturages Yaourt étuvé bio vanille 12x125g 1500 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390407980,Itinéraire des Saveurs Saucisson sec d'Auvergne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390408499,Trad p&c ST FELICIEN LT COUPE 180G - Massif LS 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390408970,Intermarché LS saucisson auvergne LR 300G 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1677,7 +1677,7 @@ ean13,description,created_at,modified_at
 3250390576785,Intermarché Tablette dégustation chocolat au lait aux éclats de caramel et à la pointe de sel - 100g 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390577041,Odyssee Filets de sardines à l'huile de tournesol 100g (1/7) 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390577058,Sardines à la Tomate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390578055,Intermarché Filet de limande du nord msc 500g 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390578055,Odyssee Filet de limande du nord msc 500g 500 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390578161,Itinéraire des Saveurs Rouille 1,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390578895,Look Cola Standard Btes 6 x 33 dl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390578994,"Intermarché Look Cola PET 1,5L 1500 ml",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1968,7 +1968,7 @@ ean13,description,created_at,modified_at
 3250390710769,Netto Carottes rapees 500g 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390711445,apta performance sel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390712428,Cigalou Paprika doux 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390713685,Les Mousquetaires Tranches de colin d'Alaska MSC 4x100g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390713685,Netto Tranches de colin d'Alaska MSC 4x100g 400 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390713708,Netto Croquettes de poisson panées Ail et fines herbes MSC 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390714668,Saint Eloi Ail 100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390714675,Saint eloi Échalote surgelée coupée 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1977,7 +1977,7 @@ ean13,description,created_at,modified_at
 3250390714705,Saint eloi S.eloi Persil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390715085,Netto Lait uht 1/2 ecreme bt 50cl 500 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390715276,Filet de lieu noir fe,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390715535,Odyssée FILETS DE COLIN (Lieu) MSC 800G 800 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390715535,Odyssee FILETS DE COLIN (Lieu) MSC 800G 800 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390715733,Netto Marshmallows tubes - 300g 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390717355,Weißwein - Pinot Gris Hauller 0.75l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390717379,Hauller Riesling,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2275,7 +2275,7 @@ ean13,description,created_at,modified_at
 3250390798835,Cigalou Graines de Cardamome 24 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390798996,Sans marque Crevettes cuites 80/100 500g 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390799412,Poisson et aneth,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250390799696,Cigalou BO mélange pour poulet colombo 25 gr,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250390799696,Bouton d'or BO mélange pour poulet colombo 25 gr,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250390800972,Expert club Chardonnay blanc 2009 cuvée Prestige,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390800996,Expert club Igp pays d'oc sauvignon blanc hve 75 cl croix du pin / 750 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250390801030,Expert club La Croix du Pin Syrah 2016 75 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3026,10 +3026,10 @@ ean13,description,created_at,modified_at
 3250391136179,Netto Mini tortilla rolls goût spicy 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391136292,Capitaine cook Thon blanc à l'huile d'olive vierge extra 160g 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391136322,Capitaine cook Thon blanc à l'huile d'olive vierge extra 80g 80 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391136476,Capitaine cook Thon Albacore Huile D'olive Tranche Entière 1 / 5 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391136476,Capitaine cook Thon albacore huile d'olive vierge extra tranche 160g 160 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391136650,Capitaine cook Sardines à l'ancienne à l'huile d'olive vierge extra 69g 69 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391137176,Capitaine cook Sardines à l'ancienne à l'huile d'olive 115g (87g égoutté),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391137237,Capitaine cook Sardines à l'huile d'arachide 115 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391137237,Capitaine cook Sardines à l'huile d'arachide 115G 115 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391137268,Capitaine cook Sardines à la tomate et au pistou 115g 115 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391137299,Capitaine cook Sardines SANS ARETES à l'huile d'olive vierge extra 115g 115 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391137329,Capitaine cook Sardines millésimées à l'huile d'olive vierge extra 115g 115 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3040,7 +3040,7 @@ ean13,description,created_at,modified_at
 3250391137855,Paquito 100% pur jus ananas,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391137992,Capitaine cook Filets de maquereaux tomate aux petits légumes 185 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391138029,Capitaine cook Filets de maquereaux graines de moutarde 185 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391138050,Capitaine cook Foie de morue fumé au bois de hêtre MSC 121g 121 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391138050,Capitaine cook Foie de morue fumé au bois de hêtre 121g 121 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391138173,Netto Yaourt à boire fraise 4 x 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391138197,Netto Yaourt à boire framboise 4 x 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391138401,Netto Tomates pelées concassées au jus 1/2 383 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3074,7 +3074,7 @@ ean13,description,created_at,modified_at
 3250391150342,Muscade Concassée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391150373,Cigalou Romarin,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391150403,Cigalou Sarriette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391150465,CIGALOU mélange pour tajine 18 gr,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391150465,Bouton d'or BO mélange pour tajine 18 gr,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391150496,Cigalou Curcuma 37 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391151066,Netto RAISINS SECS sultanine 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391151097,Netto Abricots secs 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3442,7 +3442,7 @@ ean13,description,created_at,modified_at
 3250391261819,"Pâturages YAOURT A LA GRECQUE SUR LIT DE FRUITS 4X150G - framboise, mûre 600 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391261840,DUNOY Bloc de foie gras canard,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391261864,Bloc De Foie Gras De Canard Du Sud-ouest Avec De Morceaux,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391261949,Sélection Intermarché ESCALOPE NORMANDE (FILET DE POULET) 200g 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391261949,Volae ESCALOPE NORMANDE (FILET DE POULET) 200g 200 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391262038,Paturages Crème brûlée 200g (2 x 100 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391262090,Claude leger Blanquette de poulet 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391262120,Claude leger Mini Tartelettes Aperitives,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3484,8 +3484,8 @@ ean13,description,created_at,modified_at
 3250391285488,Les Mousquetaires Petit saint paulin frere augustin 340g 340 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391285556,Netto CREME de marrons à la vanille 38% 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391285938,"Paquito GOURDES Compote (pommes, pomme-fraise) allégée en sucres - 12 x 90 g - Adulte 1080 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391286058,Capitaine cook Cook Thon Alb Nat Tranche,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391286089,Capitaine cook Thon blanc germon au naturel 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391286058,Capitaine cook Thon albacore au naturel tranche 160g 160 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
+3250391286089,Capitaine cook Thon blanc au naturel Tranche pêché à la ligne 160g 160 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391286782,Bouton d'Or Ketchup -45% de sucres,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391287338,"Netto Camembert, Doux Plaisir (20 % MG) 250 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391287369,Netto FROMAGE BLANC SS MOUSSE DE CREME 4X100G (lissea) 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3502,7 +3502,7 @@ ean13,description,created_at,modified_at
 3250391290529,Les Mousquetaires Specialite soja chocolat x 4 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391290550,Netto Crevettes tropicales roses décortiquées cuites 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391290635,Intermarché Religieuse cafe 230 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391290680,Itinéraire des Saveurs Crème fraîche d'Isigny épaisse 40 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391290680,Itineraire de nos regions Creme fraiche 38% mg isigny aop 40cl 400 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391290710,Sélection intermarché Clémentines bio 750g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391290758,Saint eloi Feuille de chêne rouge,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391290819,"Odyssee Medaillon de saumon, le paquet de",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4026,7 +4026,7 @@ ean13,description,created_at,modified_at
 3250391388110,Pâturages Camembert bio 250g 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391388875,Netto Snack Pépit' - aux pépites de chocolat x10 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391389742,Chabrior Pain grillé au blé complet 500 g. 2x12 tranches,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391389803,Netto Barres céréalières à la pomme x6 - 125 g 126 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391389803,Netto Barres céréalières à la pomme x6 - 126g 126 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391389834,Netto Barres céréalières à l'abricot x6 - 125 g 126 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391389865,Netto Pop corn caramel 100g 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391390236,Bouton d'or Sauce frites 350g 350 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4166,7 +4166,7 @@ ean13,description,created_at,modified_at
 3250391423743,Chabrior Préparation pour pain aux céréales 1kg 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391423750,Chabrior Preparation pain aux cereales,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391424405,Netto Tarte aux Poireaux surgelée 400g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391424474,Volaé ROTI DE FILET DE POULET CUIT 450g 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391424474,Volae ROTI DE FILET DE POULET CUIT 450g 450 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391424498,Bouton d'or Fond de volaille 110 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391424528,Bouton d'or Fond de veau 110 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391424597,Netto Saumon Rose Du Pacifique 200g 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4437,7 +4437,7 @@ ean13,description,created_at,modified_at
 3250391478651,Netto COUPELLES Compote de fruits Pommes fraises allégée en sucres - 4 x 100 g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391478682,Netto COUPELLES Compote de fruits Pommes poires allégée en sucres - 4 x 100 g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391478712,Netto COUPELLES Purée de fruits pommes pruneaux SSA - 4 x 100 g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391478958,Paquito Abc ananas briquettes 6x20cl 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391478958,Paquito Abc ananas briquettes 6x20cl 1200 ml,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391482580,Bouton d'or Mélange fruits rouges et amandes sans sel ajouté 120 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391483471,Fiorini Torti 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391484836,Bouton d'Or Huile d'olive,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4458,7 +4458,7 @@ ean13,description,created_at,modified_at
 3250391489237,Itineraire des saveurs BARQUETTE Chili con carne et riz 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391489299,"Claude Léger Émincés de Poulet, Petits légumes & Penne 300 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391489329,Claude Léger Cassoulet toulousain 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391489350,Claude leger Ravioli sauce tomate cuisinée 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391489350,Fiorini Ravioli sauce tomate cuisinée 300 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391489411,Claude Léger Steak de Thon à la Catalane Riz Blanc 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391489442,Monique ranou Petit salé à l'auvergnate cuisiné aux lentilles 420g 420 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391489473,Monique ranou Saucisses de Toulouse cuisinées aux lentilles 840g 840 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4518,7 +4518,7 @@ ean13,description,created_at,modified_at
 3250391503698,Chabrior Petits pains grillés nature / au froment 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391503773,Pâturages Mascarpone lp 500g 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391503803,IVORIA DESSERT NOIR CORSE 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391503834,Intermarché Tablette bloc chocolat noir aux amandes entières - 200g 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391503834,Ivoria Tablette bloc chocolat noir aux amandes entières - 200g 200 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391503865,Ivoria Le Fruité chocolat noir éclats framboise 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391504169,Fiorini Nouilles plates 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391504190,Fiorini Farfalles 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4572,7 +4572,7 @@ ean13,description,created_at,modified_at
 3250391519781,Itineraire Des Saveurs Sushis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391520169,Roady Lave glace toutes saisons 5L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391520435,Itineraire Des Saveurs Jambon san daniele 70 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391520770,Elodie Bonbons à la menthe,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391520770,Elodie Bonbons à l'arôme naturel de menthe - Menthe givrée - 250g 250 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391520800,Elodie Bonbons acidulés goût tutti frutti - 250g 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391520831,Bouton d'or Bocal 37 cl d'olives noires dénoyautées 340 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391521272,Intermarché Poélée façon tomates farcies 900g RANOU 900 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4859,7 +4859,7 @@ ean13,description,created_at,modified_at
 3250391571086,Paquito 100% Pur Jus pressé Orange sans pulpe 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391571277,Valrian Vin d'espagne rosé bib 5l 5000 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391571321,Adelie Colosse Nougat Caramel (x4) 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391571352,"Adelie Glace Chocolat Blanc Et Sorbet Fruits Rouges,",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391571352,Adelie Colosse gourmand fruits rouges - chocolat blanc (S/G) enrobage chocolat blanc - céréales x4 - 100mL 400 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391571413,Itinéraire des Saveurs California Rolls Makis 220 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391571444,Itinéraire des Saveurs 4 Nems Poulet 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391571581,"Paquito Pj multifruit pet 1,5l 1500 ml",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4952,7 +4952,7 @@ ean13,description,created_at,modified_at
 3250391597680,Bouton d'or Chips craquantes - 6x30 g 180 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391598731,Netto Pur jus multifruits brique 1l 1000 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391598762,Netto Pur jus orange sans pulpe brique 1l 1000 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391598793,Molino Miettes de thon à la tomate 160g 104g (1/5) 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391598793,Netto Miettes de thon à la tomate 160g 104g (1/5) 160 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391598847,Vinaigrette échalote,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391598922,"Bouton d'Or Chouchou ""croquants & Savoureux 400 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391599042,Regain Bio Jus de pomme,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5325,7 +5325,7 @@ ean13,description,created_at,modified_at
 3250391702367,Planteur des tropiques Moka 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391702527,Netto Salade Gourmande,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391702589,Elodie Assortiment de confiseries aromatisées goût réglisse - 250g 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391702831,"Ivoria Crisp & Choc 192,5 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391702831,"Ivoria Billes de céréales maltées enrobées de chocolat au lait - CRISP & CHOC - 192,5g 192,5 g",2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391702961,Claude leger PATE BRISEE BIO MGV 230g 230 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391702992,Netto Salade a la bretonne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391704019,Chabrior Madeleines coquilles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6032,7 +6032,7 @@ ean13,description,created_at,modified_at
 3250391954384,Netto NOUILLES INSTANTANEES SAVEUR LEGUMES 3x65g 195 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391955039,Fiorini TAGLIATELLE 600g 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391955336,Labell 250ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391955398,Bouton d'or Palmiers Olives 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391955398,Les creations Palmiers Olives 100 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391955756,Adélie Bûche gourmande façon dame blanche (CG) - 900mL 900 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391955787,"Intermarche Adélie, Glace façon fondant au chocolat, la glace de 1000",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391955817,Adélie Bûche Délice des îles 900 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6108,9 +6108,9 @@ ean13,description,created_at,modified_at
 3250391979646,Capitaine cook Le sublime cœur de saumon fumé salé au sel sec,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391979677,Odyssée Filets de Hareng fumés naturel - 200g 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391979707,Odyssée Harengs fumés reduits en sel 170 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391979820,Intermarché PATE A PIZZA XXL 550g 550 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391979820,Monique ranou PATE A PIZZA XXL 550g 550 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391979882,Intermarché Specialite de fruits pomme châtaigne 4x100g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250391980253,"Les Mousquetaires Comprimés Sucralose 16,5 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250391980253,"Regain Sucralose 300 comprimes 15,6 g",2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250391980284,Regain Poudre à l'extrait de Stevia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391980314,Regain Stevia 250g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250391980345,Regain Sucralose,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6319,6 +6319,7 @@ ean13,description,created_at,modified_at
 3250392038359,Netto Jambon superieur a la broche,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392038410,Chabrior Petit déj chocolat et pépites de chocolat - 600g 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392040901,Pâturages Petit pot de crème saveur pistache sur lit de chocolat 4x100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392040994,Volae 2 filets de poulet bio blanc - 300g environ 300 g,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3250392041021,Volae 2 filets de poulet bio jaune - 300g environ 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392041052,Volae 2 cuisses de poulet bio blanc - 500g environ 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392041083,Volae 2 cuisses de poulet bio jaune - 500g environ 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6348,7 +6349,7 @@ ean13,description,created_at,modified_at
 3250392046439,Bouton d'Or Vinaigre balsamique,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392046552,pâturages mousse caramel beurre salé 60 grammes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392046583,"Netto YAOURT AUX FRUITS MIXES - FRUITS ROUGES 8X125G - fraise, framboise, fruits rouges 1000 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250392046613,"Netto YAOURT AUX FRUITS MIXES - FRUITS JAUNES 8X125G - abricot/nectarine, pêche, mangue 1000 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392046613,"Netto YAOURT AUX FRUITS MIXES - FRUITS JAUNES 8X125G - abricot, pêche, mangue 1000 g",2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250392046644,Paquito Spécialité de poire avec morceaux 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392046675,Paquito Spécialité de pêche avec morceaux 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392046705,"Paturages YAOURT AUX FRUITS MIXES - FRUITS ROUGES 8X125G - fraise, framboise, fruits rouges 1000 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6436,7 +6437,7 @@ ean13,description,created_at,modified_at
 3250392061630,Intermarché Notre savoir faire charcutier Bûchettes saucisson sec nature le saucisson de 120 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392061661,Buchettes aux noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392061722,Intermarché Mini saucissons secs aux noix 120 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250392061852,Chabrior Petit beurre avec tablette de chocolat au lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392061852,Chabrior Tablette lait 48% - 150g x 2 150 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250392062248,Paquito Cerneaux de noix 125 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392062538,Netto Croc choco bicompartiment 4x117g 468 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392062590,Monique Ranou Rôti de Porc Au poivre 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6504,7 +6505,7 @@ ean13,description,created_at,modified_at
 3250392075545,"Netto Haut cuisse déjointe poulet blanc 1,000 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392075606,Poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392075668,Poulet Netto,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250392075781,Itinéraire des Saveurs Cassoulet de Castelnaudary - 300g 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392075781,Itineraire de nos regions Cassoulet de Castelnaudary - 300g 300 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250392075903,Ivoria Ballotin chardons - 200g 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392076153,Netto Fraises entières - 750 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392076184,Netto Framboises 750 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -7426,7 +7427,7 @@ ean13,description,created_at,modified_at
 3250392312862,Adélie Glace Duo Mix fruits et lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392312954,Monique Ranou Rillettes du Mans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392313128,Monique Ranou Rillettes de Poulet Rôti 220 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250392313159,Bio paturages Yaourt étuvé bio vanille 4x125g 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392313159,Paturages Yaourt étuvé bio vanille 4x125g 500 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250392313180,Pâturages Yaourt étuvé bio citron 4x125g 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392313234,Saucisse de toulouse brasse,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392313340,Iced tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8489,7 +8490,7 @@ ean13,description,created_at,modified_at
 3250392491352,Intermarche Compote bb fruits du soleil 4 x 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392492595,Pâturages Ile flottantes noix de coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392492625,Elodie œufs au plat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250392492656,Netto Oeufs au plat tendres,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392492656,Netto Confiserie oeufs au plat - 275g 275 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250392493219,Netto COEURS DE PALMIER,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392493233,Intermarché Les Moelleuses Guimauves Framboise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392493264,Cotterley Infusion gourmande façon crème caramel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -9621,7 +9622,7 @@ ean13,description,created_at,modified_at
 3250392747473,Plateau tapas,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392747725,Netto Haricots verts extra fins C&R main BIO 37cl 330 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392747756,Capitaine Cook Houmous - BIO - 160g 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250392747787,Capitaine Cook Tzaziki BIO 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250392747787,Odyssee Tzatziki BIO 160 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250392747831,Pommette Gourdes poire abricot cereales,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392747862,Rhum arrangé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250392747893,Ti peyi Bourbon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11553,7 +11554,7 @@ ean13,description,created_at,modified_at
 3250393434570,Netto Brique de brebis 150g 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393434587,Netto Fourme d'ambert aop 200g 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393434624,Poêlée de saumon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250393434631,Bouton d'or Chips saveur fromage 135 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250393434631,Bouton d'or Chips saveur emmental 135 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250393434648,Bouton d'or Chips saveur spicy 135 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393434679,Gambas Décortiquées Cuites,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393434686,Monique Ranou Mathurin le tranché 80 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11922,6 +11923,7 @@ ean13,description,created_at,modified_at
 3250393455681,Netto Déjeuner Céréales & Fruits - 400g 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393455698,Saint eloi Riz cantonais DOYPACK 250g 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393455704,Saint eloi Riz à la méditerranéenne DOYPACK 250g 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250393455742,ON OFF Cocktail sans alcool mojito 75cl 750 ml,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3250393455827,Monique ranou Salade et torsade poulet crudités 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393455834,Monique ranou Salade et Torsades 3 fromages 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393455841,Bouton d'or Tuile saveur emmental 170 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12355,6 +12357,7 @@ ean13,description,created_at,modified_at
 3250393472916,Intermarché Huile d’Olive Vierge Extra,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393472923,Netto Huile D'olive 50 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393473005,Adelie Framboises surgelées enrobée de chocolat blanc et lait 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250393473012,Adelie Bananes surgelées enrobée de chocolat blanc et noir 150 g,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3250393473029,Jean Rozé Boeuf Bourguignon et ses Torsades 1.000 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3250393473036,Jean roze Boeuf bourguignon et ses torsades - cocotte 1kg poids fixe 1000 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393473098,Les eleveurs vous disent merci Creme legere liquide 12 % mg uht 200 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12429,13 +12432,14 @@ ean13,description,created_at,modified_at
 3250393478246,Netto Jambon sup dd torchon 4t 160g 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393478253,Netto Jambon sup ac fume 4t 160g 160 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393478277,Netto Jambon sup ac 2t 80g 80 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250393478321,Chabrior Barre de céréales protéinés cacahuètes caramel 160 g,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3250393478369,Netto NOUVEAUTE 2026 - Twisty chocolat au lait 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393478543,Chabrior Chunks 3 chocolats 100g 100 g,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3250393478697,Regain Muesli floconneux aux fruits secs BIO 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393478819,Pomme Ananas Passion,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393478826,Intermarché Compotes Paquito multi fruits,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3250393478833,Choviva Tablette lait crunchy,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
-3250393478840,Choviva Je reduis tablette lait exlats de biscuit,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250393478833,Tablette en alternative au chocolat (Choviva) JE REDUIS éclats de caramel et popcorn - 100g 100 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
+3250393478840,Tablette en alternative au chocolat (Choviva) JE REDUIS éclats de biscuits - 100g 100 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3250393479151,Paturages MIMOLETTE PORTION 230g 230 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393479168,Netto MIMOLETTE PORTION 230g 230 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393479175,Paturages GOUDA PORTION 265g 265 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12468,6 +12472,7 @@ ean13,description,created_at,modified_at
 3250393485558,Pommette Cassolette de légumes macaroni & poulet BIO - 15M à 3ans 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393485565,Pommette Assiettes Coquillettes aux Légumes Fondants BIO - 15M à 3ans 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393485572,Pommette Légumes riz saumon BIO - 15M à 3ans 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3250393486029,Elodie Confiserie oeufs au plat - 275g 275 g,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3250393486067,Pyros Energy drink std 25cl 250 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393486074,Pyros Energy drink punch 50cl 500 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3250393486098,Pyros Energy drink std PET 1L 1000 ml,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
@@ -14620,6 +14625,7 @@ ean13,description,created_at,modified_at
 3252920633616,Edulcorant liquide,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3252920634163,Le Gall Lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3252920634194,"Pack De 6 Lait Demi-écrémé Bio, 1 L 6 x 1 l",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3252920634606,Lait demi-écrémé,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3252925212359,Beurre de baratte 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3252950000679,E. Graindorge Crème Fraîche Épaisse de Normandie (42 % MG) 50 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3252950000730,Foire aux fromages normands Livarot,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -28641,7 +28647,7 @@ ean13,description,created_at,modified_at
 3256549997289,Brioche Pasquier Petits Pains Complets 270 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256549997296,Brioche Pasquier Brioche tranchée -30% sucre 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256549997302,Brioche Pasquier Pains au Lait 280g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3256549997326,Brioche Pasquier Pancakes Pasquier - Saveur vanille,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3256549997326,Brioche Pasquier Pancakes Pasquier - Saveur vanille 280 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3256549997340,Esquier Pancakes Choc Chip 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256549997364,Beignets mit schokolade-haselnuss-geschmack,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256549997388,Brioche Pasquier Les Bouchées Bretzel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -28965,6 +28971,7 @@ ean13,description,created_at,modified_at
 3256817003674,l\'Aiguebrun Pont de la coquille,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256817003698,L\'Aiguebrun Rosé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256817003711,amedee vino ceresia 750 ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3256817010672,Chardonay,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3256817011723,Cap Med Les vins Amédée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256817011846,Vi n blanc méditerranée La belle de canet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3256817013284,Chardonnay,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -38110,6 +38117,7 @@ ean13,description,created_at,modified_at
 3259426046049,"Ker Cadélac Madeleines Extra Moelleuses Noisette 1,056 Kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3259426046056,"Ker Cadélac Madeleines Extra Moelleuses Noisette 1,216 Kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3259426046070,Ker Cadélac Madeleines Longues Vanille,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3259426046094,Le moelleux,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3259426046124,Ker Cadélac Moelleux Nature -30% de sucres 368g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3259426046247,Madeleines marbrées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3259426046254,Madeleines aux pepites de chocolat noir,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

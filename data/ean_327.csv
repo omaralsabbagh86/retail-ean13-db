@@ -2598,6 +2598,7 @@ ean13,description,created_at,modified_at
 3270160852352,Picard compote allégée poire williams 130 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160852376,Picard Batonnets sables 160g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160852383,Picard Le petit poulailler 140 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3270160852390,Tarte aux noix et noix de pécan,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3270160852468,Picard Pistaches grillées 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160852543,Chips de banane plantain,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160852550,Picard Chips de légumes 100 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3471,7 +3472,7 @@ ean13,description,created_at,modified_at
 3270160878758,Picard Préparation pour tarte - Légumes du potager 700 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160878833,Picard Sachets vapeur légumes croquant,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160878918,Picard Légumes du potager 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3270160879151,Picard Haricots verts extra-fins bio 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3270160879151,picard haricots verts ultra fins bio 600 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3270160879168,"Picard Ecrasé de pomme de terre, legumes grillés, figue 450 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160879243,"Picard Écrasé de pomme de terre, patate douce et ciboulette 450 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160879328,Picard Garden peas et duo de carotte 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -13194,6 +13195,7 @@ ean13,description,created_at,modified_at
 3274935001808,La Potagère légumes nature ! 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3274935010008,Sill Veloute De Légumes Pauvre En Sel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3274935010015,Diet'Soup Veloute De Poireaux Pommes De Terre Pauvre En Sel 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3274935010060,Protein soupe,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
 3274935011630,La Potagère Soupe de poisson à la Bretonne 2 * 25 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3274935011654,La potagère Velouté De Potiron,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3274935011661,La Potagere Chorba 2 x 25 cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -18869,8 +18871,8 @@ ean13,description,created_at,modified_at
 3277390001086,Plaisir des alpes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3277390001093,Savoie Yaourt Yaourt au lait entier sucré à la mûre Bio 500 g (4 x 125 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3277390001109,Savoie Yaourt Yaourt sur lit de fraise bio 500 g (4* 125 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3277390001116,Savoie Yaourt Yaourt au lait entier sucré à la myrtille Bio 500 g (4 x 125 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3277390001123,Savoie yaourt Yaourt sur lit de framboise bio 500 g (4 x 125 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3277390001116,Plaisir des Alpes Yaourt au lait entier sucré à la myrtille Bio 500 g (4 x 125 g),2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
+3277390001123,Plaisir des Alpes Yaourt sur lit de framboise bio 500 g (4 x 125 g),2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3277390001161,Savoie Yaourt Yaourt sucré citron 500 g (4* 125 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3277390001178,Savoie Yaourt Yaourt Sucré aux Fruits de la Passion,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3277390001185,Savoie Yaourt Mangue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -20200,7 +20202,7 @@ ean13,description,created_at,modified_at
 3278692501007,Malo Mousse au chocolat au lait,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3278692501014,Mousse au chocolat noir lit praliné et gavottes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3278692501038,Malo Riz au lait nature,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3278692501045,Malo Skyr sur lit myrtilles cassis 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3278692501045,MALO Skyr sur lit myrtilles cassis 400 g,2026-09-16T17:42:53Z,2026-09-23T01:02:31Z
 3278692501052,Malo Skyr nature 450g,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3278692501076,Skyr Nature,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3278692501083,Malo Skyr Nature 850 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
