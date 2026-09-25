@@ -457,6 +457,7 @@ ean13,description,created_at,modified_at
 3270160100972,Picard Fideuà aux calmars et crevettes,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3270160101115,Picard Pomme de terre,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3270160101153,Picard Fonds d'artichauts de Bretagne 300 g e,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3270160101214,Picard Radiatori sce tomate mozzarella courgette grillée 300g,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 3270160101221,Picard Crevettes sauce au paprika et au fromage blanc 400 g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 3270160101238,Picard Fleurettes de brocoli 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160101245,Boulettes vegetariennes a la sauce cajun,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -466,13 +467,14 @@ ean13,description,created_at,modified_at
 3270160101573,picard Epinards en branche 1kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160101610,Picard Assortiment d'empanadillas 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160101627,Picard Granité au citron,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
-3270160101672,Barre Cacahuète Chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3270160101672,Picard Barre Cacahuète Chocolat,2026-09-16T17:42:53Z,2026-09-25T01:02:32Z
 3270160101801,Picard Shake aux fruits et au skyr hyperprotéiné 300 g,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
 3270160101818,Picard Salsifis coupés 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160101993,Picard Cubes de tomates à l'italienne 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160102068,Picard Petits pois doux bio 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160102259,Picard Fleurettes de brocolis 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160102488,Picard CHOUX FLEURS Bio 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3270160102716,Saumon mariné aux agrumes et au miel,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 3270160102723,Picard Jardinière Bio De Légumes 600g 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160102808,Picard Haricots plats coupés 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160102983,Picard Epinards en branches surgelés 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2484,6 +2486,7 @@ ean13,description,created_at,modified_at
 3270160844555,Picard Cookie glacé chocolat 55g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160844579,Picard Sundaes glaces 208 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160844586,Picard 4 sundaes glacés Vanille Framboise 208g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3270160844609,Picard 6 mini-bâtonnets fraise orange,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 3270160844708,picard Glace sorbet façon Caïpirinha 115g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160844715,"Picard Sorbet Fruit de la passion, sauce fruit du cactus",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3270160844746,Picard Yaourt coulis fruits rouges 160g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

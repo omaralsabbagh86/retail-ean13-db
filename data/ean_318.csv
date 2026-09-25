@@ -1318,7 +1318,7 @@ ean13,description,created_at,modified_at
 3180950066688,Stoeffler Petites Ravioles Veau & Épinards à poêler 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3180950066695,"Stoeffler Roulés à la viande ""Fleischnacka"" à poêler 4 * 75 g (300 g)",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3180950067777,Bretzel Gourmand Lardons Emmental,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3180950067784,Bretzel Gourmand Aux Fromages 220,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3180950067784,Stoeffler Bretzel Gourmand Aux Fromages 220 g,2026-09-16T17:42:53Z,2026-09-25T01:02:32Z
 3180950069894,Flammekueche,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3180950447159,Choucroute garnie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3180960015881,Jambon cuit superieur 600 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2263,7 +2263,7 @@ ean13,description,created_at,modified_at
 3181580283117,Mini pain de saint jacques,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580284022,Œuf en gelée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580284213,Salade à la périgourdine gésier canard pdt et noix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3181580284312,Qualité Traiteur Hachis parmentier de bœuf,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3181580284312,Qualité Traiteur Hachis parmentier de bœuf 300 g,2026-09-16T17:42:53Z,2026-09-25T01:02:32Z
 3181580284329,"Qualité Traiteur Brandade de morue 0,300 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580284336,Qualité Traiteur Parmentier de canard,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580284343,Régal du Four Gratin dauphinois au jambon pointe de muscade 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2292,7 +2292,8 @@ ean13,description,created_at,modified_at
 3181580286392,Chou blanc et carottes râpées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580286415,Coleslow,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580286989,"Qualité Traiteur Brandade de morue 0,780 Kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3181580287160,Qualité Traiteur Poulet Tikka Massala et Riz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3181580287153,Qualité Traiteur Penne aux légumes du soleil 280 g,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
+3181580287160,Qualité Traiteur Poulet Tikka Massala et Riz 280 g,2026-09-16T17:42:53Z,2026-09-25T01:02:32Z
 3181580287245,"L'Atelier Traiteur Piémontaise au poulet rôti 1,2 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580287290,"L'Atelier Traiteur Gnocchetti aux légumineuses, poivrons grillés 1,2 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3181580287412,Monoprix Fusilli Aux Deux Saumons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

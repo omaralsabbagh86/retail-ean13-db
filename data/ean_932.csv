@@ -525,6 +525,7 @@ ean13,description,created_at,modified_at
 9321176003048,Grandma Moses Sourdough White,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321176003321,Grandma Moses Sourdough Wholemeal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321176004007,Grandma Moses Sourdough Soy & Linseed,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+9321176004021,Grandma Moses Wholemeal Sourdough,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 9321176004038,Grandma Moses Artisan Bakery Plain Boiled Bagels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321176005042,Grandma Moses Sesame Seed Bagels,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321176006001,Grandma Moses Sourdough Wholemeal,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -689,6 +690,8 @@ ean13,description,created_at,modified_at
 9321759000013,Sauer's bakehouse Turkish bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321759000556,Wholemeal Turkish Bread 30 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321759002000,Sauer's Bakehouse Original Vanilla Flavour Pancake & Waffle Mix 400 g,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
+9321759002055,Sawyer's Bakehouse Cinnamon Bun Flavour Pancake & Waffle Mix 400 g,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
+9321759002079,Sauer's Bakehouse Gingerbread pancake and waffle mix 400 g,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 9321759007722,Knead It Bakery Turkish Bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321759100201,Sauer's Bakehouse Original Turkish Bread 2 Rolls 340 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9321778671997,Equal Gold,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1311,6 +1314,7 @@ ean13,description,created_at,modified_at
 9323450011640,Thr1ve Prawns In Goan Masala In basmati Rice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9323450011657,Thr1ve Low Carb Chicken Spaghetti In Pink sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9323450011688,"Thr1ve Crumbed Chicken Roast , Gravy n Potato",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+9323450011725,Marley Spoon Chicken Burrito Bowl with Tomato Rice,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 9323450011756,Marley Spoon Chicken Burrito Bowl with Tomato Rice and Beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9323450011763,Marley Spoon Italian Chicken Meatballs with Basil and Tomato Penne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9323450011770,Marley Spoon Lamb Ragu with Buttery Mashed Potato,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1717,6 +1721,7 @@ ean13,description,created_at,modified_at
 9324292000199,Fortune Slice Spicy Tofu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9324292000335,Super Quality Tofu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9324292000403,Fortune Fried Soft Tofu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+9324292000656,Fortune Tofu Dessert - Ginger,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 9324292000663,Fortune Tofu Dessert,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9324292002018,Fortune Traditional Chinese tofu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 9324294000142,Harmony Menopause,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
