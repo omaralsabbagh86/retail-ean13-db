@@ -797,6 +797,7 @@ ean13,description,created_at,modified_at
 3592860018471,Tartinade d’artichaut aux amandes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3592860018488,Tartinade de tomate au basilic 230 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3592860018501,Bornibus 245 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3592860018518,Petits citrons confits,2026-09-26T05:39:27Z,2026-09-26T05:39:27Z
 3592860018532,Bornibus Cornichons Extra-fins,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3592860018549,Olives grecques dénoyaitées bornibus 950 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3592860018556,Petits épis de maïs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3031,7 +3032,7 @@ ean13,description,created_at,modified_at
 3596710178308,Auchan 100% Pur jus multifruits 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710178315,Auchan Pur jus d'Orange 1 L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710178773,Auchan 100% pur jus RAISIN NOIR MUSCATÉ 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710178780,Auchan 100% pur jus POMMESans sucres ajoutés** Comme tous les jus de fruits. Contient les sucres naturellement présents dans les fruits. 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710178780,Auchan 100% pur jus POMME 1 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710178896,Auchan Jambon cru fumé 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710178957,Auchan Pate en croute richelieu pistache 2 tranches 0.19 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710178971,Auchan Biscottes au froment 0.75 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3573,7 +3574,7 @@ ean13,description,created_at,modified_at
 3596710307531,Auchan Compote de pomme poire avec morceaux 380 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710307548,AUCHAN BIO Purée de pommes Bio 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710307555,Auchan Bio Soja Bio 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710307562,Auchan Bio Soja chocolat biologique 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710307562,Auchan Soja chocolat biologique 1 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710307579,Auchan Soja vanille Bio 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710307623,Auchan Farine de blé bio T65 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710307630,Auchan Farine Semi-complète de blé T110 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4011,7 +4012,7 @@ ean13,description,created_at,modified_at
 3596710335718,Auchan Parmigiano Reggianocopeaux 0.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710335848,Auchan Instant Gourmand - Pomme kiwi 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710335862,Auchan Bille céréale Chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710335909,Auchan Pomme banane sans sucres ajoutés** contient des sucres naturellement présents. 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710335909,Auchan Pomme banane sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710335916,Auchan Pomme poire sans sucres ajoutés**Contient des sucres naturellement présents 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710335947,Auchan Miel d'acacia de Bourgogne 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710335961,Auchan Miel de la Champagne 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4032,7 +4033,7 @@ ean13,description,created_at,modified_at
 3596710336197,Barre cerealiere au chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710336203,Auchan Pastilles du bassin de vichy 230 gr,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710336210,Auchan Pomme sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710336227,Auchan Pomme pruneau sans sucres ajoutés**Contient des sucres naturellement présents. 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710336227,Auchan Pomme pruneau sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710336234,Rik & Rok Spécialité de fruits Pomme 4 x 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710336241,Rik & Rok Compotes pomme 1080 g (12 * 90 g e),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710336258,Auchan compote pomme poire 4×90g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5326,7 +5327,7 @@ ean13,description,created_at,modified_at
 3596710379897,Auchan Eau de source de montagne 4.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710379903,Auchan 100% Pur jusOrangesans pulpeRiche en vitamine C 1 l,2026-09-16T17:42:53Z,2026-09-25T01:02:32Z
 3596710379910,Auchan 100% Pur Jus - Multifruits 2 l,2026-09-16T17:42:53Z,2026-09-25T01:02:32Z
-3596710379927,Auchan 100% - Pur jus - pommeSans sucres ajoutés** Comme tous les jus de fruits. Contient les sucres naturellement présents dans les fruits. 2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710379927,Auchan 100% - Pur jus - pomme 2 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710379941,Auchan Boisson aux jus de fruits - pomme - cassis - framboise - à l'eau de source 1.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710380022,"Auchan ""Régal'Cat au saumon 0.06 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710380039,Auchan Regal Cat au Poulet 0.06 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -7054,7 +7055,7 @@ ean13,description,created_at,modified_at
 3596710420766,Auchan Dessert baby pomme banane 360 g (4 * 90 g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710420773,Auchan Tranches de saumon atlantique Norvège 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710420780,Auchan Saumon atlantique Ecosse 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710420827,Auchan Gaufrettes praliné noisette 0.11 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710420827,Auchan Gaufrettes fourrées praliné 0.11 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710420834,Auchan Gaufrettes fraise 0.11 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710420841,Auchan Gaufrettes fourrées chocolat 0.11 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710420858,Auchan Chips a l’ancienne coupe fine 6 * 30 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11847,7 +11848,7 @@ ean13,description,created_at,modified_at
 3596710492411,Auchan Pomme rhubarbe sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 3596710492428,Auchan Compote de pomme 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492435,Auchan Pomme 1.6 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710492442,Auchan Pomme fraise sans sucres ajoutés**Contient des sucres naturellement présents 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710492442,Auchan Pomme fraise sans sucres ajoutés**Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710492459,Auchan Poire 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492466,Auchan Gâche tranchée 0.45 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492473,Auchan Mini gâche NATURE 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11873,7 +11874,7 @@ ean13,description,created_at,modified_at
 3596710492688,Auchan Lait entier pasteurisé 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492695,Auchan Nectar d'orange sans sucres ajoutes* 2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492701,Auchan Nectar de pomme 2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710492718,Auchan 100% pur jus POMMESans sucres ajoutés** Comme tous les jus de fruits. Contient les sucres naturellement présents dans les fruits. 4 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710492718,Auchan 100% pur jus POMME 4 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710492756,Auchan Sardines à l'ancienne à l'huile d'olive vierge extra et au piment 0.087 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492763,Auchan Sardines à l'huile d'olive vierge extra et au citron - FILIERE RESPONSABLE 0.087 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492770,Auchan 100 % Pur jusorange très pulpéRiche en vitamine CSans sucres ajoutés** Comme tous les jus de fruits. Contient les sucres naturellement présents dans les fruits. 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12688,7 +12689,7 @@ ean13,description,created_at,modified_at
 3596710515455,Auchan Duo haricots verts et haricots beurre coupés très fins 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710515462,Auchan Duo haricots verts haricots beurre coupés très fins 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710515479,Auchan Choux de Bruxelles 0.27 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710515486,Auchan Maïs doux en grains sous vide 0.42 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710515486,Auchan Mais croquant sans résidu de pesticides 0.42 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710515493,Auchan Mais croquant sans résidu de pesticides* 0.14 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710515509,Auchan Mais 0.285 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710515516,Pouce Maïs 0.42 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -13316,7 +13317,7 @@ ean13,description,created_at,modified_at
 3596710524570,Cosmia Coffret douceur 3 pièces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710524587,"Auchan Paëlla volaille, moules du pacifique et chorizo 0.3 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710524617,Auchan Orange carotte citronEdition limitée 0.24 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710524624,AUCHAN Huile de tournesol 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710524624,Auchan Huile de tournesol 1 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710524648,Auchan Aiguillettes panées de colin d'Alaska 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710524662,Auchan Gazpacho 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710524679,Auchan Citron meringue 0.426 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -13396,8 +13397,8 @@ ean13,description,created_at,modified_at
 3596710526246,"Auchan Spicy chorizo, champignons et poivrons rouges pâte fine et croustillante 0.45 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710526284,Auchan Baby Croissance 3 - de 12 mois à 36 mois 6 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710526291,Auchan Baby Croissance 3 - de 12 mois à 36 mois 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710526307,Auchan Baby Baby croissance 3 1.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710526314,Auchan Baby Croissance Nature - 3 - de 10 mois à 3 ans 0.25 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710526307,Auchan Baby Croissance 3 - de 12 mois à 36 mois 1.5 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
+3596710526314,Auchan Baby Croissance 3 - de 12 mois à 36 mois 0.25 l,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710526390,Auchan Bio BIO*OEUFS COQUESOLIDAIRES pour soutenir nos producteurs*issus de l'agriculture biologiqueLogo ABLogo Européen (feuille étoilée) / Agriculture France ou FR- BIO-10Logo AB* Conformément au mode de prod 6 pièces (0.438 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710526543,Auchan Mangues en tranches au sirop léger 0.235 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710526550,Auchan Citron à diluer 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -14016,7 +14017,7 @@ ean13,description,created_at,modified_at
 3596710537037,Pouce Allumettes fumées 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710537044,Pouce Allumettes nature qualité supérieure 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710537051,Auchan Salsa Hot* *épicé 0.305 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710537068,Auchan Salsa Médium 0.305 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710537068,Auchan Salsa Médium - recette du Mexique 0.305 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710537075,Auchan Guacamole 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710537099,Auchan Stracciatella au fromage blanc 0.48 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710537112,Auchan Thon entier à l'huile de tournesol 0.24 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -14412,7 +14413,7 @@ ean13,description,created_at,modified_at
 3596710543526,Auchan Instant gourmand Mangue. Teneur en fruits : 35% minimum 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710543533,Auchan Instant Gourmand Abricot. Teneur en fruits : 40% minimum 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710543540,Auchan Salsa Hot* *épicé 0.305 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710543557,Auchan Salsa Médium 0.305 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710543557,Auchan Salsa Médium - recette du Mexique 0.305 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710543564,Auchan Brandade de morue parmentier 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710543571,Auchan Lasagnes bolognaise 0.45 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710543588,Auchan Lasagnes bolognaise 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -14542,7 +14543,7 @@ ean13,description,created_at,modified_at
 3596710545339,Pouce Flageolets verts fins 0.53 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710545346,Auchan Haricots verts extra fins 0.22 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710545353,Auchan Haricots verts extra fins 0.345 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710545377,Auchan filiere mais croquant sans residus de pesticides 3*285g 0.855 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710545377,Auchan Mais croquant sans résidu de pesticides* 0.855 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710545384,Pouce Macédoine de légumes 0.53 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710545391,Pouce Petits pois très fins et carottes à l'étuvée 0.53 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710545407,Auchan Choux de Bruxelles 0.53 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15022,7 +15023,7 @@ ean13,description,created_at,modified_at
 3596710552467,Auchan Salade de pommes de terre a la creme fraîche 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552474,Auchan Crème dessert saveur vanille riche en protéines 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552481,Auchan Crème dessert au chocolat riche en protéines 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710552498,Auchan mais croquant sans résidus de pesticides boite 285 gr _ lot 3+1 gratuit 1.06 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710552498,Auchan Mais croquant sans résidu de pesticides* 1.06 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710552528,Auchan Feuilletée pur beurre 0.23 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552542,Pouce Gel douche parfum amande 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552559,"Auchan FUSEEScitron, orange, framboise 0.48 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15204,8 +15205,8 @@ ean13,description,created_at,modified_at
 3596710555550,Jalisqo Bière aromatisée Tropical 0.99 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710555611,Jalisqo Bière aromatisée Tropical 0.33 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710555734,Auchan Olives vertes dénoyautées à l'orientale 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710555758,Vendome Escargots praline lait 0.182 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710555765,Vendome Escargots praline noir 0.182 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710555758,Vendome Escargotslait i praline 0.182 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
+3596710555765,Vendome Escargotsnoir | praliné 0.182 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710555772,Auchan Kabrisa cachaca - bresil 0.7 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710555789,Auchan 15 mini quiche 0.27 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710555796,Auchan Jus de pomme 1.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15875,6 +15876,7 @@ ean13,description,created_at,modified_at
 3596710565740,Auchan Lentilles 0.13 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565757,AUCHAN POIS CHICHES 130G calibre 7/8 _ UNITAIRE 0.13 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565771,Auchan surprise glacee 300g 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710565832,Auchan Cheddar 0.2 kg,2026-09-26T05:39:27Z,2026-09-26T05:39:27Z
 3596710565856,Auchan Gouda Holland au cumin 0.29 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565870,Auchan Galettes Bretonnes pur beurre 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565887,Auchan Sablés noix de coco 0.125 kg,2026-09-16T17:42:53Z,2026-09-22T01:01:52Z
@@ -15888,7 +15890,7 @@ ean13,description,created_at,modified_at
 3596710565993,Auchan tavola in italia stracciatella 150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566006,Auchan tavola in italia mini burrata 2x50g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566013,Auchan Speculoos 0.168 kg,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
-3596710566020,Auchan speculoos 500g 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710566020,Auchan Speculoos 0.5 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
 3596710566037,Auchan galettes suedoises aux flocons d avoine chocolat 150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566044,Auchan galettes suedoises aux flocons d avoine 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566112,Auchan cafe ristretto capsules alu nes x10 52g 0.052 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15939,6 +15941,7 @@ ean13,description,created_at,modified_at
 3596710567331,Auchan Cornichons fins au vinaigre 0.185 kg,2026-09-17T13:34:18Z,2026-09-20T01:02:09Z
 3596710567393,Auchan Ecrasé de pommes de terretruffe d'été 1% aromatisé 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567447,Auchan bio semoule au lait 2x140g 0.28 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710567454,Pouce chocolat noir 70% 100g 0.1 kg,2026-09-26T05:39:27Z,2026-09-26T05:39:27Z
 3596710567515,Auchan roses des sables chocolat noir 125g 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567577,Auchan chocolat noir amandes entieres 180g 0.18 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567584,Auchan chocolat noir intense 72% 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15959,6 +15962,7 @@ ean13,description,created_at,modified_at
 3596710567843,Auchan acras de morue x12 200g 0.2 kg,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3596710567911,Auchan Bio Auchan chocolat lait bio 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567942,Cosmia box gel douche edition limitee 750 ml 100 pièces (77.3 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710567973,Auchan ecrase de pommes de terre avec beurre et creme 450g 0.45 kg,2026-09-26T05:39:27Z,2026-09-26T05:39:27Z
 3596710567997,Pouce gel douche et bain peche 500 ml 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568000,Pouce savon liquide amande 500ml 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568024,Auchan skyr stracciatella 8x100g 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
