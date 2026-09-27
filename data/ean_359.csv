@@ -8096,7 +8096,7 @@ ean13,description,created_at,modified_at
 3596710439447,Auchan Olives vertes dénoyautées aux zestes de citron 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710439454,Vendôme Les Marrons Glacés - aux gousses de vanille bourbon de Madagascar 0.14 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710439461,Vendôme Marrons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710439478,Vendôme Morceaux de marrons glacés - aux gousses de vanille bourbon de Madagascar 0.25 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710439478,Vendome Morceaux de marrons glacés - aux gousses de vanille bourbon de Madagascar 0.25 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710439485,Vendôme Collection Biscuits fins au chocolat belge 0.22 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710439492,Auchan Gourmandises caramel au sel de Guérande enrobé au chocolat au lait belge 0.14 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710439515,Auchan Boisson aux jus de fruits - tropical - à l'eau de source - Goût Tropical 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -13350,7 +13350,7 @@ ean13,description,created_at,modified_at
 3596710524969,Auchan Plein Air x 24 24 pièces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710524976,Auchan Plein Air x 6 6 pièces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710524983,Pouce oeufs date jour de ponte sol x6 6 pièces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710524990,Auchan Thon blanc entier au naturel 0.16 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710524990,Auchan Thon blanc entier au naturel 0.112 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710525027,Auchan Melange de fruits exotiques au sirop léger 0.34 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710525058,Auchan Sirop de Pêche 1.3 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710525065,Auchan Sirop de Fraise 1.3 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -14984,7 +14984,7 @@ ean13,description,created_at,modified_at
 3596710551958,Pouce Gel douche parfum marine 0.3 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710551965,Pouce Gel lavant mains parfum lait et miel 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710551972,Auchan Gel lavant mains parfum floral 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710551989,Auchan Club Sandwish Thon Crudités 0.145 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710551989,Auchan Club sandwich thon crudites mayonnaise allegee 0.145 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710551996,Auchan Rosette cornichons 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552009,Auchan Poulet roti crudites 0.145 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552016,Auchan Jambon beurre 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15434,8 +15434,8 @@ ean13,description,created_at,modified_at
 3596710558919,Auchan croquettes riches en boeuf frais sans cereales pour chat sterilise 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558926,Auchan croquettes riches en saumon frais sans cereales pour chat sterilise 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558933,"Auchan croquettes allegees en mg pour chat 1,5kg 1.5 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558940,"Auchan croquettes special systeme urinaire pour chat 1,5kg 1.5 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558957,"Auchan croquettes special peau et pelage pour chat 1,5kg 1.5 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710558940,Auchan Urinaire 1.5 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
+3596710558957,Auchan Peau et pelage 1.5 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710558964,"Auchan croquettes special digestion sensible pour chat 1,5kg 1.5 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558971,Pouce Croquettes riches en bœuf 4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558988,Pouce Croquettes riches en bœuf 10 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15631,7 +15631,7 @@ ean13,description,created_at,modified_at
 3596710561674,Pouce Nictar abricot 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561698,Auchan Mousse nettoyante 0.6 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561810,Pouce Cola zéro** sans sucres 1.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710561896,Pouce olives vertes denoyautees sachet 320g 0.32 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710561896,Pouce Olives vertes dénoyautées 0.32 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710561902,Pouce olives vertes entieres sachet 400g 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561919,Auchan Olives vertes dénoyautées 0.16 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710562138,"Auchan 12 MINI FLAMMEKUECHESLardons, oignons, crème 0.36 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15735,7 +15735,7 @@ ean13,description,created_at,modified_at
 3596710563883,POUCE CAFE CLASSIQUE CAPSULES DG x16 80g 0.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563890,POUCE CAFE LUNGO CAPSULE DG x16 80g 0.08 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563906,Jalisqo biere tequila 5.9d 33cl 0.33 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710563913,Auchan bio lait frais pasteurise demi-ecreme bt 1l 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710563913,Auchan Bio LAIT FRAIS PASTEURISÉ DEMI-ECREME bio 1 l,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710563920,Auchan bio lait frais pasteurise entier bt 1l 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563937,Auchan Yaourt à boire saveur fraise 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563944,Auchan Yaourt à boire saveur fraise-banane 0.85 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15864,7 +15864,7 @@ ean13,description,created_at,modified_at
 3596710565627,Auchan creme uht fluide legere 12% bk 20cl x3 0.6 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565634,Auchan pizza pate fine thon 355 gr 0.355 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565641,Auchan mini arancini tomate mozzarella 240g 0.24 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710565658,Auchan tajine poulet boulgour 300g 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710565658,Auchan Tajine de poulet légumes et boulgour 0.3 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710565665,Auchan colombo merlu et riz basmati 280g 0.28 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565672,Auchan mini moelleux au chocolat 210 g 0.21 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710565689,Pouce pois chiches 265g 0.265 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15950,7 +15950,7 @@ ean13,description,created_at,modified_at
 3596710567676,AUCHAN CHOCOLAT NOIR 47% éclats de fèves de cacao 100G 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567706,Auchan choco dessert blanc 180g 0.18 kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
 3596710567713,Auchan chocolat lait caramel pointe de sel 100g 0.1 kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
-3596710567737,Auchan chocolat noir noisettes entieres 180g 0.18 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
+3596710567737,Auchan Chocolat noir noisettes entieres 0.18 kg,2026-09-21T01:02:25Z,2026-09-27T05:55:45Z
 3596710567751,Pouce chips nature 6x30g 0.18 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567775,Pouce chips nature 30g unitaire 0.03 kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
 3596710567782,Auchan sirop orgeat bouteille verre 70cl 0.7 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15962,7 +15962,7 @@ ean13,description,created_at,modified_at
 3596710567843,Auchan acras de morue x12 200g 0.2 kg,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
 3596710567911,Auchan Bio Auchan chocolat lait bio 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710567942,Cosmia box gel douche edition limitee 750 ml 100 pièces (77.3 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710567973,Auchan ecrase de pommes de terre avec beurre et creme 450g 0.45 kg,2026-09-26T05:39:27Z,2026-09-26T05:39:27Z
+3596710567973,Auchan Ecrasé de pommes de terre au beurre et à la crème 0.45 kg,2026-09-26T05:39:27Z,2026-09-27T05:55:45Z
 3596710567997,Pouce gel douche et bain peche 500 ml 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568000,Pouce savon liquide amande 500ml 0.5 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568024,Auchan skyr stracciatella 8x100g 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15996,7 +15996,7 @@ ean13,description,created_at,modified_at
 3596710568338,Auchan bio confiture extra myrtille 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568345,Auchan bio confiture framboise 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568352,Auchan bio marmelade orange 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710568420,Auchan billes panees mozzarella et truffe blanche d'ete 1% aromatisees x10 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710568420,Auchan Billes panées mozzarellaà la truffe blanche d'été 1% aromatisées 0.2 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710568437,Auchan pizza sandwich jambon fromage x3 360g 0.36 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710568444,Auchan pizza sandwich montagnard x3 360g 0.36 kg,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 3596710568451,Pouce 30 mini feuilletes aperitifs 275g 0.275 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

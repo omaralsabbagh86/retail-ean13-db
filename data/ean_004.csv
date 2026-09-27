@@ -3589,6 +3589,7 @@ ean13,description,created_at,modified_at
 0040295521354,Hansik Perilla Leaf & Tuna Mayo Kimbap,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0040295521392,oceankist CAPELIN,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0040295522733,Oceankist Clam Meat Cooked,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0040295552815,Pacific Surf Sea Scallops,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0040300022005,Heckers 100% Whole Wheat Flour 2 lbs/907 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0040300022203,Ceresota 100% whole wheat flour 2 lbs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0040300033032,Ceresota All Purpose Flour 25 lb,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
@@ -13953,6 +13954,7 @@ ean13,description,created_at,modified_at
 0041220018574,Passionut,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220018758,H-E-B Pork Egg Roll,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220019625,Heb Cage Free Large White Eggs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041220019724,H-E-B SUSHIYA SUSHI HOUSE CHICKEN EGG ROLL,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041220020485,"H-E-B Southwest Style Green Cabbage, Romaine Lettuce, Carrot, White Chicken Meat, Roasted Corn, Four Cheese Blend, Tortilla Strips, Green Onion, Cilantro With Cilantro Pepita Dressing Chopped Salad Bowl, Southwest Style 7 oz/198 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041220020492,"H-E-B Italian Style Romaine Lettuce, Broccoli Stalk, Red Cabbage, Pepperoni, Italian Cheese Blend, Celery, Pepperoncini, Sun Dried Tomatoes, Green Onion, Parsley With Spring Italian Dressing Chopped Salad Bowl, Italian Style 6.75 oz/191 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0041220020508,"H-E-B Backyard Bbq Romaine Lettuce, Broccoli Stalk, White Chicken Meat, Red Cabbage, Mild Cheddar Cheese, Uncured Bacon, Green Onion, Carrot, Savoy Cabbage, Crispy Onions With Bbq Ranch Dressing Chopped Salad Bowl, Backyard Bbq 6 oz/170 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -16803,7 +16805,7 @@ ean13,description,created_at,modified_at
 0041220538409,HEB Full S.T.E.A.M. Ahead Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220538560,HEB Creamy Creations Granny's Oatmeal Crumble Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220539383,Creamy Italian Dressings 15 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0041220539666,HEB Peach Guava Unsweetened Sparking Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041220539666,H-E-B Peach Guava Unsweetened Sparking Water,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0041220539680,H•E•B Unsweetened Sparkling Water Strawberry,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220539970,H-E-B Meal Simple Southwest Chicken Salad,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220540372,H-E-B Almond butter 32 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -19694,6 +19696,7 @@ ean13,description,created_at,modified_at
 0041220907809,H-E-B Asparagus Spears 12 oz/340 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041220907830,"H-E-B Enriched Macaroni Product, Oven Ready Lasagna 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041220907847,H-E-B Corn Tortillas Yellow,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041220907878,H-E-B BORRACHO BEANS,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041220907885,H-E-B Heb garlic sea salt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220908097,"H-E-B Macaroni & Cheese Tender Macaroni Pasta In A Creamy Cheddar Cheese Sauce, Macaroni & Cheese 40 oz/2.5 lbs/1.13 kg",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041220908189,H-E-B Garlic Sea Salt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -20470,7 +20473,7 @@ ean13,description,created_at,modified_at
 0041220977208,H-E-B Peppered Turkey Breast 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220977222,"H-E-B Macaroni Product, Penne Rigate 16 oz/1 lbs/454 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041220977246,Central Market White and Red Quinoa,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0041220977253,HEB turkey bacon 8 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041220977253,H-E-B turkey bacon 8 oz,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0041220977260,"H-E-B Hardwood Smoked Cured Thighs Chopped & Formed Turkey Bacon, Hardwood Smoked 3 oz/85 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041220977307,quinoa et boulgour 8.8 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041220977338,Corn oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -41876,6 +41879,7 @@ ean13,description,created_at,modified_at
 0041415513433,Publix Raspberry Elegance Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415514430,Publix Chocolate Stout Pretzel Blitz Ice Cream,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415514867,Publix shiitake mushrooms 5 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041415516434,Publix Peanut Butter Pretzel Ice Cream,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041415516632,publix strawberry cucumber mint tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415516809,Publix Italian Chicken,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415516861,Publix Peanut Butter Cup Trail Mix,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -42314,6 +42318,7 @@ ean13,description,created_at,modified_at
 0041415890619,Publix Chicken Caesar Pinwheeld 4.69 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415891616,Board Head Salsalito Turkey Salad,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415897908,Bakery Old- Fashioned Eclairs 7 OZ/198 g,2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
+0041415905610,Publix Turkey Wrap,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041415906839,Publix Greenwise Smoked chicken Sausage- Italian With Provolone And Romano 12 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041415948907,Publix Bread Pudding 28 oz/794 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041415949904,"Publix Guava Bread Pudding, Guava 28 oz/794 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -43406,9 +43411,11 @@ ean13,description,created_at,modified_at
 0041420090738,Black Forest Organic Gummy Forest Friends 8 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041420090745,Black Forest Organic Gummy Bears,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041420090769,ORGANIC BLACK FOREST Gummy Bears 18 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041420090905,Funables 22 ct Fruit Medley snacks,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041420091490,"Lemonhead Berry Awesome Assorted Fruit Flavor Chewy Candies, Berry Awesome 19.2 OZ/1.2 LB/544 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041420091506,"Black Forest Organic Organic Gummy Bears, Cherry, Orange, Apple, Lemon, Pineapple 2.75 oz/78 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041420091599,Brach's Candy,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041420091674,Funables Blippi Fruit Snacks 8 oz,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041420091872,Trolli Spicy Crawlers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041420091919,"Brach'S Marshmallow Chicks & Rabbits Candy, Marshmallow 7.5 oz/213 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041420091971,Trolli Spicy Crawlers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -51668,6 +51675,7 @@ ean13,description,created_at,modified_at
 0041508192774,Pompelmo,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041508199483,San Pellegrino Ciao Peach 330 mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041508200981,Acqua Panna,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041508201414,Sanpellegrino Aranciata Rossa,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041508212670,Sanpelllegrino Lemonade Zero,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041508221450,Sanpellegrino Zero Blood Orange,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041508232845,"Sanpellegrino Aranciata Italian Sparkling Drinks, Orange 11.15 fl oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -51841,7 +51849,7 @@ ean13,description,created_at,modified_at
 0041508806787,"S. Pellegrino S.Pellegrino Sparkling Natural Mineral Water, 33.8 fl oz plastic water bottles (12 pack) 405.6 OZA",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041508811835,"S. Pellegrino S.Pellegrino Sparkling Natural Mineral Water, 25.3 fl oz glass bottles (12 pack) 304.32 OZA",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0041508834469,Nestle Waters Purified Drinking water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0041508873734,Sanpellegrino Ciao Limoncello,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0041508873734,Sanpellegrino Ciao Limoncello 11.15 oz,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0041508902076,Sanpellegrino Pompelmo Sparkling Water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041508913553,Sanpellegrino Limonata Italian Sparkling Drinks 11.5 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041508922456,San pelegrino 500ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -57533,6 +57541,7 @@ ean13,description,created_at,modified_at
 0041733060183,カルディ guacamole,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041735000026,Pics Sweetened Brewed Tea 59 fl oz/1.85 Quart/1.75,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041735000071,Pics Brewed Tea 59 fl oz/1.85 Quart/1.75,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0041735000101,California Pizza Kitchen Cispy Thin Crust Pizza White Recipe,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0041735000118,Pics Stuffed crust three meat pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0041735000125,Pics Stuffed Crust Supreme Pizza 35.6 oz/1.009 kg,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0041735000156,Enhanced Alkaline Water + Electrolytes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -66107,7 +66116,7 @@ ean13,description,created_at,modified_at
 0042421162783,Boar’s Head Traditional Hummus,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0042421162790,"Boar'S Head Genoa Salame, Prosciutto Riserva Stradolce & Sopressata Charcuterie Trio 6 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0042421162820,Boar'S Head Spinach Greek Yogurt Dip 12 oz,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
-0042421162882,Boar's Head PepperHouse Smoked Hummus,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0042421162882,boars head Pepper HOUSE smoked hummus 28 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0042421162899,"Boar'S Head Uncured Bianco D'Oro Italian Dry Salame Charcuterie,, Uncured Bianco D'Oro Italian Dry Salame 12 OZ/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0042421162905,Boar's Head Pepperoni 12 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0042421162929,Boar’s Head Salted Caramel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -69702,6 +69711,7 @@ ean13,description,created_at,modified_at
 0043100753551,Strawberry Açaí Starbucks Refresher,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0043101083930,Kind Frozen Treat Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0043104173133,StarCulinar Senf 875ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0043104177001,Weiss weiche Lebkuchen Herzen Sterne Brezeln Vollmilch,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0043107028584,Reichenhof Chili Sin Carne 1pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0043108225647,Oikos Yogourt grec nature 0% mg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0043110054891,Formaggio a pasta filata 125g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -75901,6 +75911,7 @@ ean13,description,created_at,modified_at
 0044400191708,Gorton's Parmesan Fish Bites 32 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0044400191906,Gorton's Gortons Classic Crispy Battered Fish Fillets,2026-09-21T01:02:25Z,2026-09-21T01:02:25Z
 0044400192002,Gorton'S Crunchy Breaded Fish Fillets 58.1 oz/1.65 kg,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0044400192200,Gorton's Tequila Lime Flavored Coated Fish Fillets,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0044400192804,Gorton'S Crunchy Panko Breaded Fish Fillets 4 lbs/1.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0044400193009,Gorton's Beer Battered Fish Fillets,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0044400193108,Gorton's Fish Fillets Crispy Battered,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -77660,6 +77671,7 @@ ean13,description,created_at,modified_at
 0044987621391,Walnut Sunflower Seeds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0044987621414,Sea Salt Sunflower Seeds,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0044987658793,Mizuho 100% Pure Sesame Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0044987690670,MIZUHO Mountain Bamboo Shoots Sliced,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0044987690687,Mizuh Mountain Bamboo Shoots Sheet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0044987694883,Red bean mochi cake with egg yolk,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0044987705701,Fresh Young Coconut 9 x 26 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -79744,6 +79756,9 @@ ean13,description,created_at,modified_at
 0045735001878,"Nucita Chocolate Flavored Candy Coins Red, Chocolate 1 lbs/454 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0045735001885,"Nucita Chocolate Flavored Candy Coins Blue, Chocolate 1 lb/454 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0045735001892,"Nucita Chocolate Flavored Candy Coins (Dark Blue), Chocolate 1 lbs/454 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
+0045735002134,pulpiquin,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
+0045735002141,pulpiquin 19 g,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
+0045735002165,nucita pulpiquin,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0045742231428,Sliced carrots,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0045745078020,aspeck 1pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0045760065753,Birra Moretti Sale Di Mare,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -82937,6 +82952,7 @@ ean13,description,created_at,modified_at
 0046567049533,"Nob Hill Trading Co Fajita Blend - Adobo Style, Fire Roasted 12 oz",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0046567049540,Nob Hill Sweet Corn,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0046567049601,Nob Hill Bouillon 4 CT,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0046567049632,Nob Hill Trading Co Mortadella,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0046567049649,Nob Hill Prosciutto Crudo,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0046567049663,Nob Hill Trading Co Genoa Salami,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0046567049670,Nob Hill Trading Co Hot Soppressata,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -84407,6 +84423,7 @@ ean13,description,created_at,modified_at
 0047263199775,Panorama Orchards Strawberry Rhubarb spread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0047263209016,House Of Webster Wild huckelberry preserves,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0047263209030,Uncle bucks wild blackbery preserves,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0047263209177,General Store Blackberry Preserves,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0047263209283,Cherry preserve,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0047263209290,All Natural Orange Marmalade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0047263209412,Green jalapeno pepper jelly,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -95077,7 +95094,7 @@ ean13,description,created_at,modified_at
 0049705572214,Coffee cake muffin 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0049705572238,Market Basket Pumpkin Pie Whoopie Pie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0049705572245,Market Basket Raisin bran muffin 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0049705572252,Jessica's Brick Oven Sourdough,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0049705572252,Jessica’s brick oven Sourdough 1.25 lb,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0049705572337,Market Basket Blueberry Cornbread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0049705572467,"Market Basket, Banana Nut Bread",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0049705572498,Market Basket Scala bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

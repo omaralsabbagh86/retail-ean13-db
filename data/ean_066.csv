@@ -1281,7 +1281,10 @@ ean13,description,created_at,modified_at
 0661475521041,Bioitalia Sauce tomate biologique,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0661475522048,Bioitalia Rosée,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0661475523045,Bioitalia Aglio,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0661475614033,Bioitalia Basil Pesto And Dried Tomatoes Farro,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0661475613036,"bioitalia soupe épautre,legumineuse 300gr",2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
+0661475614033,Bioitalia Basil Pesto And Dried Tomatoes Farro 250gr,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
+0661475615030,bioitalia lentille citrouille et curcuma 300gr,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
+0661475616037,bioitalia riz rouge complet 250gr,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0661475822049,Biscuits au chocolat biologiques,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0661475881046,Bioitalia organic grissini,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0661475882043,Bioitalia Cracker Sticks 2 x 60 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1465,6 +1468,7 @@ ean13,description,created_at,modified_at
 0661799092708,"Dee Dee'S Gourmet, Cheese Straws Jalapeno 4.125 oz/117 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0661799092753,"Dee Dee'S Gourmet, Classic Southern Recipe Cheese Straws, Pimento, Pimento 4.125 oz/117 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0661799092760,Dee Dee'S Gourmet Cheese Straws Pimento 8.125 oz/230 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0661799097529,Rollin' Oats Organic Extra Virgin Olive Oil,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0661799114707,Hermann The German Cappuccino Candy 5.29 oz/150 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0661799114714,"Honey World Inc. Ginger & Orange Candy, Ginger & Orange 5.29 oz/150 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0661799114721,"Honey World Inc. Traditional German Hard Candy, Lemon Candy 5.29 oz/150 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -6010,6 +6014,7 @@ ean13,description,created_at,modified_at
 0667554293458,Proteinbar Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0667554448261,bath and body works pink chiffon 236ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0667554687240,victoria's secret puré seduction,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0667554738478,Hello Beautiful Ultimate Hydration Body Cream,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0667554738485,Bath & BodyWorks INTO THE NIGHT 50ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0667554765740,Bath&Body Works Antibacterial Spray,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0667554906600,"Bath & Body Works Marble 3-In-1 Hair, Face, and Body Wash 295 mL",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

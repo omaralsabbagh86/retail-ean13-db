@@ -2562,6 +2562,7 @@ ean13,description,created_at,modified_at
 0092163125836,Harrisburg milk chocolate,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 0092163125850,ASTOR CHOCOLATE CRISPY MILK CHOCOLATE,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0092163126123,Crisped Rice Milk Chocolate Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0092163126161,Astor Chocolate St Louis Milk Chocolate,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0092163127496,Astor Chocolate The Cleve S’mores,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0092163127663,Mast Store Cheerwine Float Chocolate Bar,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0092163128219,Güdlife Pistachio Créeme Krunch,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -6094,7 +6095,7 @@ ean13,description,created_at,modified_at
 0093966010732,Organic Valley 0% protein plus milk 48oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0093966010749,Organic Valley Protein Plus 2% Reduced Fat Ultra-Filtered Milk 48 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0093966010756,Organic Valley Protein Plus while ultra filtered milk 48 fl oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0093966010770,Organic Valley Organic Butter with Olive Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0093966010770,Organic Valley Organic Butter with Olive Oil 8 oz,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0093966010855,Organic Valley Colby Jack Cheese Stick,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0093966113105,O.VALLEY RAW MILD CHEDDAR 226G,2026-09-16T17:42:53Z,2026-09-17T13:43:43Z
 0093966113204,"Organic Valley Raw Sharp Cheddar Cheese, 8 oz",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -9009,6 +9010,7 @@ ean13,description,created_at,modified_at
 0095506518005,Ensalada cuatro estaciones COVIRAN,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0095509760920,Kimchi,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0095509906366,HVY Tonic Cannabis - Infused Beverage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0095515040023,Whole Foods Market Beef Pot Roast + Mashed Potatoes,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0095520142347,Donauwellen,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0095523000972,Natural Delights Pitted Dates,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0095523002365,Natural Delights Dates 24 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12219,6 +12221,7 @@ ean13,description,created_at,modified_at
 0097137353079,"Nildo'S Famous Alfredo Sauce, Famous Alfredo 13 OZ/368 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0097137353260,Farfelle and Sausage 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0097137353277,Chicken fettuccine alfredo 10 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0097137353284,Macaroni and Cheese,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0097137353314,"Jewel-Osco Italian Mac & Cheese With Bacon Topping Cavatappi Noodles In Creamy White Cheddar Topped With Toasted Breadcrumbs And Chopped Bacon, Italian Mac & Cheese With Bacon Topping 36 oz",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0097137353505,"Perfect Pasta Inc. Rigatoni And Vodka Al Dente Rigatoni Pasta In A Creamy Vodka Sauce Topped With Shredded Parmesan Cheese, Rigatoni And Vodka 10 OZ/283.5 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0097137353529,"Perfect Pasta Sausage And Peppers Cooked Mild Italian Sausage In Tomato Basil Sauce With Sliced Green And Red Bell Peppers, Sausage And Peppers 10 oz/283.5 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
@@ -13169,6 +13172,7 @@ ean13,description,created_at,modified_at
 0097923545602,"Natural Delights, Spiced Date Rolls, Pecan Pumpkin Pie, Pecan Pumpkin Pie 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0097923545619,"Natural Delights, Dark Chocolate Date Rolls, Orange 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0097923545626,"Bard Valley Natural Delights, Date Rolls, Lemon Coconut, Lemon Coconut 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0097923550040,Natural delights Fresh medjool dates 8 oz,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0097923550071,"Natural Delights Medjool Pitted Fresh Dates, Medjool 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0097923580016,"Datepac, Medjool Dates",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0097928094969,"Senor Rico Desserts, Rice Pudding 8 oz/227 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -16495,6 +16499,7 @@ ean13,description,created_at,modified_at
 0099482439668,365 Everyday Value Toffee Popcorn Crunch 10 oz/284 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0099482439675,365 Everyday Value Broccoli Rabe 16 oz/1 lbs/454 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0099482439682,365 Everyday Value Super Sweet Yellow Corn On The Cob,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0099482439699,365 Whole Foods Market Super Sweet Yellow Corn 32 oz,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0099482439705,365 Whole Foods Market No Salt Added Green Peas 32 OZ/2 LB/907 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0099482439712,"365 Everyday Value Vegetable Medley Carrots, Peas, Green Beans, Corn, Baby Lima Beans, Vegetable Medley 32 oz/2 lbs/907 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0099482439729,365 Whole Foods Market Cut Green Beans 32 OZ/2 LB/907 g,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -19527,7 +19532,7 @@ ean13,description,created_at,modified_at
 0099482525088,Whole Foods Market Cashews Dry Roasted with Sea Salt 8 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0099482525200,Whole Foods Market Snap Peas,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0099482525231,Whole Foods Market Organic Breakfast Blend Black Tea,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0099482525286,365 Whole Foods Market Almond Flour Cheddar Flavored Crackers,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0099482525286,365 Whole Foods market Almond flour cheddar flavored crackers 5 oz,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 0099482525293,365 Whole Foods Market Rosemary & Sea Salt Crackers 5 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0099482525309,"Whole Foods Market Dark Chocolate Peppermint Truffles With Peppermint Candy Pieces, Dark Chocolate Peppermint 7 oz/198 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0099482525354,365 Whole Foods Market Organic Sharp Cheddar 6 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -20298,6 +20303,7 @@ ean13,description,created_at,modified_at
 0099482548247,Whole Foods Cajun Style Chicken Sausage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0099482548254,365 Whole Foods Market Maple Chicken Breakfast Sausage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0099482548421,Whole Foods Market Three Bean Chili Soup,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0099482548469,365 Whole Foods Market Dark Chocolate Peanut Butter Cups,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 0099482548537,365 Whole Foods Market Ground Beef,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0099482548575,Whole Foods Market Organic Castelvetrano Pitted Olives,2026-09-24T01:02:22Z,2026-09-24T01:02:22Z
 0099482549411,Whole Foods Market Blood Orange and Citrus Juice,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

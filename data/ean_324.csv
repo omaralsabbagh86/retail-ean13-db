@@ -804,7 +804,7 @@ ean13,description,created_at,modified_at
 3240931549521,Lustucru Tortellini à Poeler Crunchy fondant,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931549538,Lustucru Tortellini à poêler,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931549545,Lustucru Tortillant à poêler crunchy fondant,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3240931549552,Lustucru tortellini à poêler crunchy fondant 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3240931549552,Pates fraiches crunchy fondant poulet roti creme lustucru 280g 280 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3240931549569,Lustucru Gnocchi a poeler extra chevre lardons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931549576,Lustucru Gnocchi à poêler Camembert,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3240931549613,Gnocchi à Poêler - extra - Fromage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -970,7 +970,7 @@ ean13,description,created_at,modified_at
 3242271000656,Sodebo salade&cie 320g poulet pane 320 g,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 3242271000663,Sodebo Salade Garden 240 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242271000670,"SODEBO Salade de pâtes, jambon speck et mozzarella 270 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3242271000755,Sodebo Xtrembox Tomate Mozzalle 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3242271000755,Sodebo xtrembox 400g radiatori tomate mozza 400 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3242271000762,Sodebo Dolce pizza bianca,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242271000779,Sodebo Suédois - Thon Et Tomates Marinées 135 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242271000885,Sodebo Méga Viennois - Thon Œuf Sauce Andalouse 270 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1084,10 +1084,10 @@ ean13,description,created_at,modified_at
 3242272256953,Sodebo CremioBox - Thon à la crème 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272257158,Sodebo CremioBox - Jambon Champignons à la crème 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272257356,Sodebo Cremiobox Lardons oignons,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3242272260059,Sodebo XtremBox Radiatori carbo 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3242272260554,Sodebo XtremBox - Radiatori Bolognaise 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3242272261056,Sodebo XtremBox - Radiatori 4 fromages 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3242272261650,Sodebo XtremBox - Radiatori Bœuf Sauce au poivre 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3242272260059,Sodebo xtrembox 400g radiatori a la carbonara 400 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
+3242272260554,Sodebo xtrembox 400g radiatori a la bolognaise 400 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
+3242272261056,Sodebo xtrembox 400g radiatori 4 fromages 400 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
+3242272261650,Sodebo xtrembox 400g radiatori boeuf poivre 400 g,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3242272261759,Sodebo XtremBox Radiatori Boeuf saveur BBQ 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272261858,Sodebo Radiator Bœuf au Bleu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272262053,Sodebo XtremBox - Radiatori Poulet Sweet Curry 400 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1302,6 +1302,7 @@ ean13,description,created_at,modified_at
 3242272920069,Sodebo Méga sandwich jambon oeuf 270 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272920359,Sodebo Le Méga jambon cheddar sauce burger 270 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272920557,Sodebo Sandwich le méga jambon chorizo mayo légère 270 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3242272921042,Mega Viennois Poulet Rôti Œuf,2026-09-27T05:55:45Z,2026-09-27T05:55:45Z
 3242272921059,Sodebo Sandwich mega viennois poulet rôti oeuf 270 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272921066,Sodebo Sandwich Le Méga - Baguette - Poulet,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3242272921943,Sodebo Le mega poulet roti oeuf,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
