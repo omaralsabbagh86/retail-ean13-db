@@ -2340,6 +2340,7 @@ ean13,description,created_at,modified_at
 3596580001201,Le Campagnou Beurre doux le moulé 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596580001225,Le Campagnou Beurre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596580001324,Beurre demi sel,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596580001522,Beurre demi-sel 200 g,2026-09-28T06:02:26Z,2026-09-28T06:02:26Z
 3596580002109,Loyez Woessen La charette beurre doux 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596580002123,La Charrette Beurre Le Moulé 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596580002208,La Charette Beurre doux 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15891,8 +15892,8 @@ ean13,description,created_at,modified_at
 3596710566006,Auchan tavola in italia mini burrata 2x50g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566013,Auchan Speculoos 0.168 kg,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 3596710566020,Auchan Speculoos 0.5 kg,2026-09-16T17:42:53Z,2026-09-26T05:39:27Z
-3596710566037,Auchan galettes suedoises aux flocons d avoine chocolat 150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710566044,Auchan galettes suedoises aux flocons d avoine 100g 0.1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710566037,Auchan Galettes chocolat flocons d'avoineRecette suédoise 0.15 kg,2026-09-16T17:42:53Z,2026-09-28T06:02:26Z
+3596710566044,Auchan Galettes flocons d'avoineRecette suédoise 0.1 kg,2026-09-16T17:42:53Z,2026-09-28T06:02:26Z
 3596710566112,Auchan cafe ristretto capsules alu nes x10 52g 0.052 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566129,Auchan Fortissimo 0.104 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566136,Auchan Fortissimo 0.052 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15915,12 +15916,14 @@ ean13,description,created_at,modified_at
 3596710566556,Auchan Bio Sable coeur chocolat noisette 0.155 kg,2026-09-16T17:42:53Z,2026-09-17T13:34:18Z
 3596710566570,Pouce pate de tete 300g 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566587,Auchan pate de tete persille 180g 0.18 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710566594,Auchan terroir fleur de sel de guerande pot 125g 0.125 kg,2026-09-28T06:02:26Z,2026-09-28T06:02:26Z
 3596710566600,Auchan croissants pur beurre x6 360 gr 0.36 kg,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 3596710566617,Auchan pains au chocolat pur beurre x6 450 gr 0.45 kg,2026-09-17T13:34:18Z,2026-09-17T13:34:18Z
 3596710566754,Cosmia rouleau à cheveux auto gripping x12 12 pièces (0.046 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566761,Cosmia eponge konjac diam. 6cm 1 pièce (0.005 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566785,Cosmia Brosse de massage 1 pièce (0.113 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566792,Auchan Emincés de truite fumée aux herbes de Provence 0.1 kg,2026-09-16T17:42:53Z,2026-09-21T01:02:25Z
+3596710566907,Auchan pois croquants 600g 0.6 kg,2026-09-28T06:02:26Z,2026-09-28T06:02:26Z
 3596710566952,Auchan Sauce curry 0.35 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566976,Auchan bistro bœuf bourguignon torsade 280g 0.28 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710566983,Vendome papillotes lait noir pralines sachet 300g 0.3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15980,7 +15983,7 @@ ean13,description,created_at,modified_at
 3596710568178,Auchan confiture framboises 730g 0.73 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568185,Auchan confiture extra 4 fruits rouges 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568192,Auchan confiture extra 4 fruits rouges 730g 0.73 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710568208,Auchan gelee extra groseille 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710568208,Auchan gelee extra groseilles 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-28T06:02:26Z
 3596710568215,Auchan gelee extra mures 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568222,Auchan confiture extra figues 360g 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710568239,Auchan confiture la gourmande fraise 67% fruits 320g 0.32 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16011,7 +16014,7 @@ ean13,description,created_at,modified_at
 3596710569199,Cosmia Pinceau fond de teint 1 pièce (0.019 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710569205,Cosmia pinceau eyeliner / bois verni 1 pièce (0.003 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710569229,Cosmia 5 applicateurs fard à paupières 5 pièces (0.003 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710569236,Auchan gaufrettes legeres fourrees vanille 110g 0.11 kg,2026-09-23T01:02:31Z,2026-09-23T01:02:31Z
+3596710569236,Auchan gaufrettes fourrees vanille x15 110g 0.11 kg,2026-09-23T01:02:31Z,2026-09-28T06:02:26Z
 3596710569809,Auchan sans gluten biscuits nappes chocolat noir 150g 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710569816,Auchan sans gluten batonnets chocolat au lait 130g 0.13 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710569823,Auchan sans gluten tartelettes framboise 130g 0.13 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -16661,6 +16664,7 @@ ean13,description,created_at,modified_at
 3598761363382,Kit Crème chantilly MAISON,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598761409721,Herbe à chat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598761423345,Nature & Découvertes Ma recette de MOCHI maison,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3598761432439,Chocolat Noir,2026-09-28T06:02:26Z,2026-09-28T06:02:26Z
 3598810001609,Casino Haricots Verts Extra Fins Bio,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598860447709,Bornibus Harissa 260 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3598860668883,Bornibus Tartinade d'artichaut 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
