@@ -845,7 +845,7 @@ ean13,description,created_at,modified_at
 3291330011881,Miko glace Biscuit Américain 180ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3291330011904,Yoplait Yaourt ferme sans lactose,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3291330011935,Crème dessert chocolat,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3291330011966,Caresse Antillaise Jus citron vert gingembre,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3291330011966,Caresse Antillaise citron vert gingembre,2026-09-16T17:42:53Z,2026-09-29T06:20:27Z
 3291330011973,Caresse Antillaise Citron Vert Gingembre 50cl,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3291330011980,Panier de yoplai,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3291330012031,Floup cassis,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3152,6 +3152,7 @@ ean13,description,created_at,modified_at
 3292590606930,Thiriet Bonnet glacé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3292590606947,Thiriet Le mug glacé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3292590606954,Thiriet Le mug glacé vanille framboise,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3292590606961,La pomme de pin glacée,2026-09-29T06:20:27Z,2026-09-29T06:20:27Z
 3292590609801,Thiriet Entremet glace marron,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3292590609818,Thiriet Entremets glacé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3292590609825,Thiriet Entremet glacé confiture de lait abricot,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8659,6 +8660,7 @@ ean13,description,created_at,modified_at
 3299512169191,Dinde rôtie aux champignons et duo de riz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3299512169207,Boulette au boeuf sauce tomzte et tordades,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3299512169214,Chili con carne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3299512169221,Petit salé aux lentilles,2026-09-29T06:20:27Z,2026-09-29T06:20:27Z
 3299512169238,Bœuf braisé,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3299512169412,William Saurin Colin d'Alaska sauce citron et son riz 280 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3299512169429,"William Saurin Saumon, fondue de poireaux et son blé 280 g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

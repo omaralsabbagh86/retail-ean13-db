@@ -76,7 +76,7 @@ ean13,description,created_at,modified_at
 4270000196119,Echter Deutscher Honig,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270000197925,Bergamot Tonic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270000197932,Blueberry tonic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-4270000202803,Jalapeño & Date,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+4270000202803,Crazy Bastard Sauce Jalapeño & Date,2026-09-16T17:42:53Z,2026-09-29T06:20:27Z
 4270000202810,crazy bastard sauce Scotch bonnet and caribbean spices 100mL,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270000202827,Crazy Bastard Sauce Chipotle & PineApple 130ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270000202834,Crazy Bastard Sauce Habanero & Tomatillo 100ml,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -1137,6 +1137,9 @@ ean13,description,created_at,modified_at
 4270002697324,Crunch Taste Cocoa Granola,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270002704121,Three Oaks Roastery Espresso kräftig 250g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270002704138,55 Coffee Espresso kräftig 1kg,2026-09-19T01:01:43Z,2026-09-19T01:01:43Z
+4270002705722,"CIDER WERK Blanker Keerl | BIO-Cider herb | 6er Träger 6% vol. 6 x 0,33l Mehrwegflasche, inkl. 0,32 € Pfand 14,50 € 7,32 € pro 1 l 330ml",2026-09-29T06:20:27Z,2026-09-29T06:20:27Z
+4270002705739,"CIDER WERK Seute Deern | BIO-Cider süß | 0,33l | 6er Träger 6,5% vol. 6 x 0,33l Mehrwegflasche, inkl. 0,32 € Pfand 14,50 € 7,32 € pro 1 l 330ml",2026-09-29T06:20:27Z,2026-09-29T06:20:27Z
+4270002705753,"CIDER WERK Witte Fruu | BIO-Cider naturtrüb | 0,33l 5,3% vol. 6 x 0,33l Mehrwegflaschen inkl. 0,48 € Pfand 14,50 € 7,32 € pro 1 l 330ml",2026-09-29T06:20:27Z,2026-09-29T06:20:27Z
 4270002705784,"Masch-Cider | Cider medium-süß 7,8% vol. 6 x 0,33l Mehrwegflaschen inkl. 0,48 € Pfand 14,50 € 7,32 € pro 1 l 330ml",2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 4270002727410,Bulgurbällchrn 1pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 4270002735668,TEAJOLIE Winter Magic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
