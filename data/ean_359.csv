@@ -10156,8 +10156,8 @@ ean13,description,created_at,modified_at
 3596710469505,Auchan 6 oeufs - poules élevés au sol,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710469567,Auchan 6 œufs moyen 6 pièces,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710469611,Auchan Cornichons aigres-doux 0.36 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710469635,Auchan JUS Multi Vitaminé 1.2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710469642,Auchan JUS Multi Vitaminé 0.2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710469635,Auchan Jus Multi Vitamines 1.2 l,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710469642,Auchan Jus Multi vitamines partiellement à base de concentrés 0.2 l,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710469659,Auchan Jus de raisin partiellement à base de concentré 1.2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710469666,Auchan Jus de raisin partiellement à base de concentré 0.2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710469673,Auchan Nectar orange pêche abricot partiellement à base de concentré 1.2 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11586,7 +11586,7 @@ ean13,description,created_at,modified_at
 3596710488971,Auchan Maïs doux en grains sous-vide 0.42 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710488988,Auchan Maïs 0.42 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710488995,Auchan Maïs 0.285 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710489008,Auchan Maïs 0.855 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710489008,Auchan Maïs sans résidu de pesticides 3 * 285 g,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710489015,Auchan Maïs 0.14 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710489022,Auchan Maïs 0.14 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710489039,Auchan Mon goûter fondant tout chocolat 0.45 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11843,8 +11843,8 @@ ean13,description,created_at,modified_at
 3596710492350,Auchan Compote Pomme Vanille Sans Sucres Ajoutés 710 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492367,Auchan Poire avec morceaux sans sucres ajoutes 0.58 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492374,Auchan Compote de pommes allégée en sucres 400g (4x100g),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710492381,Pouce Compote de pommes bananes 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710492398,Auchan Pomme pêche sans sucres ajoutés**Contient des sucres naturellement présents. 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710492381,Auchan Compote de pommes bananes 400g,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710492398,Auchan Pomme pêche sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710492404,Auchan Pomme abricot sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710492411,Auchan Pomme rhubarbe sans sucres ajoutés**Conformément à la réglementation applicable aux purées. Contient des sucres naturellement présents dans les fruits. 0.4 kg,2026-09-16T17:42:53Z,2026-09-20T01:02:09Z
 3596710492428,Auchan Compote de pomme 0.8 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12854,7 +12854,7 @@ ean13,description,created_at,modified_at
 3596710517442,Auchan Biscuits avec tablette de chocolat au lait 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710517466,Auchan Biscuit Tablette chocolat noir et blanc 0.115 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710517473,Auchan Barre cookie - Chocolat au lait - Pocket 0.168 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710517480,auchan Mini rond chocolat et lait pocket 0.225 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710517480,Auchan Mini rond chocolat et lait pocket 0.225 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710517497,Auchan Choco stick tout chocolat 0.125 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710517503,Auchan Choco Stick chocolat blanc 0.115 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710517510,Auchan Petites barres au lait x24 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15034,7 +15034,7 @@ ean13,description,created_at,modified_at
 3596710552603,Auchan Petit beurre tablette chocolat blanc 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552610,Auchan Petit beurre tablette chocolat noisette 0.15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552627,Auchan Petit beurre tablette chocolat noir 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710552634,Auchan Petit beurre tablette chocolat lait 150 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710552634,Auchan Petit beurre tablette chocolat au lait 150 g,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710552641,Auchan box panache mini roules 3 ref 405 uvc 60.75 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552658,Auchan Queijo de leite de cabra,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552665,Pouce Yaourt aromatisé 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15046,7 +15046,7 @@ ean13,description,created_at,modified_at
 3596710552726,Auchan pate a tartiner cacao noisettes 13% 750g 0.75 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552733,Auchan Pasta cao 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552740,Auchan pate a tartiner cacao noisettes 13% 400g 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710552757,Auchan PASTA CAO aux noisettes et au cacao 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710552757,Auchan PASTA CAO aux noisettes et au cacao 0.19 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710552764,Auchan Pasta cao duo 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552771,Auchan Pasta CAO type chocolat blanc 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710552801,Auchan cosmos dentifrice menthe 75ml 0.075 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15327,7 +15327,7 @@ ean13,description,created_at,modified_at
 3596710557394,Auchan jus de legumes verts pet 75cl 0.75 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557448,Auchan Truite fumee 0.25 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557462,Auchan 100% pur jus PRESSEORANGE MANDARINE RAISIN 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710557479,Pouce Huille olive 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710557479,Huile d'olive Pouce 1L 1 l,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710557486,Auchan Insecticide anti-parasites 0.4 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557493,Auchan Insecticides anti-volants 0.4 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710557509,Auchan diffuseur anti-moustiques + 1 recharge 1 pièce (0.084 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15427,17 +15427,17 @@ ean13,description,created_at,modified_at
 3596710558780,Auchan Au SAUMON et aux LEGUMES 4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558797,Auchan au BOEUF au POULET et aux LEGUMES 7.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558803,Auchan Au POULET et aux LEGUMES 7.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558865,Auchan croquettes riches en dinde fraiche sans cereales pour chaton 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710558865,Auchan Riche en DINDE FRAICHE 80% de protéines d'origine animale Fabriqué SANS CEREALES 1.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710558872,Auchan croquettes riches en poulet frais sans cereales pour chat senior 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558889,Auchan croquettes riches en poulet frais sans cereales pour chat sterilise 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558896,Auchan croquettes riches en poulet frais sans cereales pour chat sterilise 3kg 3 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558902,Auchan croquettes riches en poulet frais sans cereales pour chat sterilise 7.5kg 7.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558919,Auchan croquettes riches en boeuf frais sans cereales pour chat sterilise 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558926,Auchan croquettes riches en saumon frais sans cereales pour chat sterilise 1.5kg 1.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710558933,"Auchan croquettes allegees en mg pour chat 1,5kg 1.5 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710558889,Auchan Riche en POULET FRAIS 80% de protéines d'origine animale fabriqué SANS CEREALES 1.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710558896,Auchan Riche en POULET FRAIS 80% de protéines d'origine animale fabriqué SANS CEREALES 3 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710558902,Auchan Riche en POULET FRAIS 80% de protéines d'origine animale fabriqué SANS CEREALES 7.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710558919,Auchan Riche en BOEUF FRAIS 80% de protéines d'origine animale Fabriqué SANS CEREALES 1.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710558926,Auchan Riche en SAUMON FRAIS 80% de protéines d'origine animale Fabriqué SANS CEREALES 1.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
+3596710558933,Auchan Controle du poids 1.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710558940,Auchan Urinaire 1.5 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
 3596710558957,Auchan Peau et pelage 1.5 kg,2026-09-16T17:42:53Z,2026-09-27T05:55:45Z
-3596710558964,"Auchan croquettes special digestion sensible pour chat 1,5kg 1.5 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710558964,Auchan Digestion sensible 1.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710558971,Pouce Croquettes riches en bœuf 4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558988,Pouce Croquettes riches en bœuf 10 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710558995,Pouce Croquettes riches en bœuf 15 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15625,7 +15625,7 @@ ean13,description,created_at,modified_at
 3596710561506,Auchan Beurr mouleé demi-sel 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561513,Auchan beuure moule doux 0.25 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561520,Auchan Beurre moule doux 82% 500g 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710561582,Pouce veloute de legumes 1l 1 l,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710561582,Pouce Velouté de légumes 1 l,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710561612,Auchan yaourt aux fruits cremeux 16x125 2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561643,Auchan Sucre blanc morceaux 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710561667,Cosmia brosse de massage en bois fsc 1 pièce (0.129 kg),2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -15674,7 +15674,7 @@ ean13,description,created_at,modified_at
 3596710562855,Auchan Auc rape 3 fromages pour pates 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710562862,"Auchan Rapée trois fromages fondue et savoureux, format familial 0.35 kg",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710562886,Pouce emmental rape 200g 0.2 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3596710562893,Pouce Gruyère 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3596710562893,Pouce Emmental râpé 0.5 kg,2026-09-16T17:42:53Z,2026-09-30T06:05:25Z
 3596710562909,Auchan 24 p'tits triangles 400g 0.4 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710562916,Pouce emmental rape 1kg 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3596710563005,Auchan bocal fruits du verger au sirop leger 500g pne 0.5 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -17678,6 +17678,9 @@ ean13,description,created_at,modified_at
 3599741007890,Findus chiken shop,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3599741007906,Chiken shop,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3599741007913,Findus Chicken Shop,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3599741007975,Wings de Poulet Sriracha,2026-09-30T06:05:25Z,2026-09-30T06:05:25Z
+3599741007982,Crispy Chicken façon Louisiane,2026-09-30T06:05:25Z,2026-09-30T06:05:25Z
+3599741007999,Chicken Fries à la Mexicaine,2026-09-30T06:05:25Z,2026-09-30T06:05:25Z
 3599741440611,Findus Dos de cabillaud 440 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3599741445814,Findus Epinard,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3599741481904,Pommes croustine,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
