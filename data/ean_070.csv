@@ -456,6 +456,7 @@ ean13,description,created_at,modified_at
 0700256853664,"The Italian Ice Shoppe Cherry Gourmet Italian Ices, Cherry 16 oz",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0700259648502,"Meijer Hardwood Smoked Polska Kielbasa, Hardwood Smoked 12 oz/340 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0700260700701,Harengs moutarde a l’ancienne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0700283201100,Big Sky Huckleberry Ale,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0700284990355,Bobo’s Pb and j,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0700287552543,Erbil Kurdish Yogurt Drink,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0700287771555,Kurdish yogurt,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -2406,6 +2407,7 @@ ean13,description,created_at,modified_at
 0702176007738,Pom’Potes sportif,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0702198227282,Lomo ibérico bellota,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0702203138145,crab classic,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0702209010186,Selver Sushi in salat lumekrabiga,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0702210083100,"Toblerone Swiss Milk Chocolate With Honey And Almond Nougat Bars, Swiss Milk Chocolate With Honey And Almond",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0702218347341,"Texas Texas Premium Homestyle Diced Tomatoes & Habaneros Salsa, Premium Homestyle Diced Tomatoes & Habaneros 16 oz/1 lbs/454 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0702218347358,"Texas Texas Premium Homestyle Diced Tomatoes & Jalapenos Salsa, Premium Homestyle Diced Tomatoes & Jalapenos 16 oz/1 lbs/454 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -2626,6 +2628,7 @@ ean13,description,created_at,modified_at
 0702627002732,Klinger's Bread Co. Sourdough Pan Baked,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0702627002848,"Klinger'S Bread Company Honey Wheat & Oat Bread, Honey Wheat & Oat 17 oz",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0702627003142,S'Klinger’s Bread Company Organic Farm Bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0702627004682,Klinger's Bakery Golden Sandwich Bun,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0702627005559,Klinger's Bread Company Whole Grain Organic Bread,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0702627005993,Klinger's Vermont Maple Pull-Apart 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0702636946058,Arancini al ragu,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4080,6 +4083,7 @@ ean13,description,created_at,modified_at
 0704276004679,Peppermint macademia mini bites premium shortbread cookies 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0704276004686,Premium Shortbread Cookies : Macadamia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0704276004693,Mini Pumpkin Bites 16 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0704276004815,Honolulu Cookie Company Cookies,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0704276004822,Honolulu Cookie Company Chocolate Dipped Shortbread Cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0704276004846,Honolulu Cookie Company Shortbread cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0704276004853,Honolulu Cookie Premium Shortbread Cookies,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -5997,6 +6001,7 @@ ean13,description,created_at,modified_at
 0705632865088,Vitamine C,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0705632865095,Vitamine C,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0705632865187,Complexe probiotiques immunité,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0705632865194,Complexe Probiotiques Perméa +,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0705632865248,"Orfito by Onatera Glutathion complexe 2300 90 gélules 45,5g",2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0705632865255,Orfito Vitamine D3,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0705632865323,Super Açaï & Chia,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -7393,7 +7398,7 @@ ean13,description,created_at,modified_at
 0707772989198,Clean Vegan Protein,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0707772989204,Clean vegan protien,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0707772989211,Innoshred,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0707828071013,White Bell toni,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0707828071013,White Bell tuna,2026-09-16T17:42:53Z,2026-10-01T06:39:12Z
 0707828071556,Skipper Thon en morceaux 185 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0707828072058,white bell Sardine 100g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0707828072072,White Bell Spiced Sardines in Vegetable Oil,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -8636,6 +8641,7 @@ ean13,description,created_at,modified_at
 0708820008885,"Meijer Whole Grain Hot Dog Buns, Whole Grain 12.5 oz/354 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820008892,"Meijer Brioche Sandwich Buns, Brioche 20 OZ/56 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820008908,"Meijer Blue Corn Organic Tortilla Chips, Blue Corn 10 oz/283 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0708820009035,FREDERIK'S by meijer FRESH PRESSED apple cider,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0708820009318,True goodness Lemonade,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708820009332,Meijer Zero sugar cranberry grape,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708820010604,Meijer Apple Chicken Sausage,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -9361,6 +9367,7 @@ ean13,description,created_at,modified_at
 0708820249721,"Purple Cow Brookie Dough Vanilla & Chocolate Ice Cream With Fudge Brownies & Chocolate Chip Cookie Dough, Brookie Dough 1 PT/473 mL",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820249752,"Purple Cow Caramel Truffle Vanilla Ice Cream With Sea Salt Truffles & A Salty Caramel Swirl, Caramel Truffle 1 PT/473 mL",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0708820249837,"Meijer Salted Organic Butter Quarters, Salted 16 oz/1 lbs/454 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
+0708820249950,PURPLE COW by meijer PARTY POPS,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0708820250024,Frederik's by Meijer Chicago Style Hot Dog Buns,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708820250031,"Meijer Hawaiian Style Hot Dog Buns, Hawaiian Style 14 oz/397 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0708820252295,"Meijer Garlic Sriracha Bbq Sauce, Garlic Sriracha 14 oz/397 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -9575,6 +9582,7 @@ ean13,description,created_at,modified_at
 0708820306998,"Meijer Extra Crispy Shoestring Fries French Fried Potatoes, Extra Crispy Shoestring Fries 26 oz/737 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820307209,"Meijer Crinkle Cut Fries French Fried Potatoes, Crinkle Cut Fries 32 oz/2 lbs/907 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820307223,"Meijer Extra Crispy Rounds Shredded Potatoes, Extra Crispy Rounds 30 oz/850 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
+0708820307414,Meijer Tortellini,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0708820308114,"Meijer Teriyaki Salmon Portions With Spicy Asian Butter & Vegetables, Teriyaki With Spicy Asian Butter & Vegetables 11.5 oz/326 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820308176,"Meijer Seafood Stuffed Salmon With Broccoli Florets, Seafood With Broccoli Florets 11 oz/312 g",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708820309036,Meijer Corn Dogs 42.72 oz/2.67 lbs/1.21 kg,2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
@@ -11397,6 +11405,7 @@ ean13,description,created_at,modified_at
 0708938000917,Leche Evaporada,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708938000948,Adobo,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708938001082,Pizza sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0708938001105,ECONO Marinara Pasta Sauce,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0708938001112,Meat flavored pasta sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708938001136,Traditional Pasta Sauce,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708938001150,Pink beans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11715,9 +11724,9 @@ ean13,description,created_at,modified_at
 0708953641065,Lotus Foods Brown Udon Rice Noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708953641072,"Lotus Foods Traditional Pho Rice Noodles 100% Organic Heirloom Rice, Traditional Pho Rice Noodles 8 OZ/227 G",2026-09-16T17:42:53Z,2026-09-16T17:53:12Z
 0708953641126,Lotus Foods Pad Thai Traditional Rice Noodles 8 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0708953641133,Lotus Foods Gourmet organic brown rice pad thai noodles 8 oz,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0708953641133,Lotus Foods Gourmet organic brown rice pad thai noodles 227g,2026-09-16T17:42:53Z,2026-10-01T06:39:12Z
 0708953641157,Lotus Foods Organic Buckwheat & Brown Rice Soba Rice Noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-0708953641164,Lotus Foods Organic Brown Udon Rice Noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0708953641164,Lotus Foods Organic Brown Udon Rice Noodles 227g,2026-09-16T17:42:53Z,2026-10-01T06:39:12Z
 0708953641171,Lotus Foods Organic Traditional Pho Rice Noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708953641225,Lotus Foods Pad Thai Traditional Rice Noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0708953641331,Lotus Foods Pad Thai Brown Rice Noodles,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -11994,6 +12003,7 @@ ean13,description,created_at,modified_at
 0709251504465,Krystal aqua water,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709257025780,3 Dimensional Nutraceuticals ISO 3D Hydrolyzed Whey Protein Isolate,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709257091310,Tropix Klean Protein,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
+0709257091341,TROPIX KLEAN PROTEIN,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0709262279895,Papilli Brossette Proxi-Blue,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709262353410,Papilli Brossette Plast N°3P,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709262353502,Papilli Brossette Plast PL 10L,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -12027,6 +12037,7 @@ ean13,description,created_at,modified_at
 0709317923544,Peanut butter,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709317923612,"Hawaii Selection Macadamia Nut Flavored Premium Pancake Mix, Macadamia Nut 8 oz/226 g",2026-09-16T17:53:12Z,2026-09-16T17:53:12Z
 0709317924107,Hawaii Selection Chocolate Custard Pudding,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+0709326100066,Unity Brewing Co Detour Double IPA Ale,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 0709326101162,Lime Pilsner,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709326128060,Grapefruit Nosh IPA,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 0709334328124,Frive Chilli Tempeh Donburi,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

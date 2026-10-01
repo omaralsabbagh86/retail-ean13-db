@@ -1,12 +1,12 @@
 {
- "last_run": "2026-10-01T01:09:13Z",
+ "last_run": "2026-10-01T06:39:12Z",
  "records_by_source": {
   "item_master": 585564,
   "manual": 2,
-  "openfacts": 3184882,
+  "openfacts": 3190286,
   "usda": 418881,
   "webdatacommons": 3052,
-  "wikidata": 2195
+  "wikidata": 2198
  },
  "sources": {
   "discogs": {},
@@ -20,7 +20,7 @@
     "added": 0,
     "updated": 0
    },
-   "last_success": "2026-09-30T06:05:25Z"
+   "last_success": "2026-10-01T06:39:12Z"
   },
   "lookup_apis": {
    "attempts": {},
@@ -28,14 +28,14 @@
     "added": 0,
     "updated": 0
    },
-   "last_success": "2026-09-30T06:05:25Z"
+   "last_success": "2026-10-01T06:39:12Z"
   },
   "openfacts": {
    "last_result": {
-    "added": 3761,
-    "updated": 827
+    "added": 5404,
+    "updated": 2463
    },
-   "last_success": "2026-09-30T06:05:25Z",
+   "last_success": "2026-10-01T06:39:12Z",
    "processed_deltas": [
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788394705_1788481108.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1788481108_1788567533.json.gz",
@@ -64,6 +64,7 @@
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1790468320_1790554719.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1790554719_1790641115.json.gz",
     "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1790641115_1790727532.json.gz",
+    "https://static.openbeautyfacts.org/data/delta/openbeautyfacts_products_1790727532_1790813940.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788415813_1788503475.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788503475_1788589401.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1788589401_1788675653.json.gz",
@@ -90,6 +91,8 @@
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1790404855_1790490413.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1790490413_1790576782.json.gz",
     "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1790576782_1790663107.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1790663107_1790749069.json.gz",
+    "https://static.openfoodfacts.org/data/delta/openfoodfacts_products_1790749069_1790836258.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788394560_1788480962.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788480962_1788567361.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1788567361_1788653765.json.gz",
@@ -117,6 +120,7 @@
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1790468169_1790554563.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1790554563_1790640965.json.gz",
     "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1790640965_1790727363.json.gz",
+    "https://static.openpetfoodfacts.org/data/delta/openpetfoodfacts_products_1790727363_1790813786.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788404521_1788490921.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788490921_1788577321.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1788577321_1788663725.json.gz",
@@ -143,7 +147,8 @@
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1790391751_1790478128.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1790478128_1790564520.json.gz",
     "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1790564520_1790650922.json.gz",
-    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1790650922_1790737336.json.gz"
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1790650922_1790737336.json.gz",
+    "https://static.openproductsfacts.org/data/delta/openproductsfacts_products_1790737336_1790823742.json.gz"
    ],
    "seeded": {
     "beauty": "2026-09-16T17:42:53Z",
@@ -323,11 +328,11 @@
   },
   "wikidata": {
    "last_result": {
-    "added": 8,
+    "added": 3,
     "updated": 18
    },
-   "last_success": "2026-09-24T01:02:22Z"
+   "last_success": "2026-10-01T06:39:12Z"
   }
  },
- "total_records": 4194576
+ "total_records": 4199983
 }
