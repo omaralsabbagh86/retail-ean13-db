@@ -4793,6 +4793,7 @@ ean13,description,created_at,modified_at
 3263850000164,Leader Price Brocolis en fleurettes 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263850000218,Leader Price Jambon de Bayonne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263850000225,Leader Price Épinards Hachés à la Crème 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3263850000232,Leader Price jambon cru fumé 100 g,2026-10-03T05:52:07Z,2026-10-03T05:52:07Z
 3263850000263,Leader Price Ham and cheese pizza 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263850000270,Leader Price Pizza 4 Fromages 450 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263850000287,Pizza,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -10832,7 +10833,7 @@ ean13,description,created_at,modified_at
 3263859421410,Œufs de poules élevées en plein air (x 12)Moyen Leader Price 12 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263859421496,Leader Price Oeuf plein air Moyen ×12 12 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263859421519,Leader Price 6 œufs plein air Label Rouge,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3263859421526,Leader Price œufs frais plein air 6 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3263859421526,Leader Price oeufs frais plein air 6 pcs,2026-09-16T17:42:53Z,2026-10-03T05:52:07Z
 3263859421816,Leader Price 10 œufs de poules élevées en plein air Bio 10 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263859421823,Leader Price Œuf de poules élevées en plein air Bio 10 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3263859421915,Leader Price Gros oeufs plein air 6 pcs,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -17770,6 +17771,7 @@ ean13,description,created_at,modified_at
 3266191051291,Les origines 100% cacao 80 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191051383,La Vie Claire Sablés aux fruits rouges,2026-09-24T01:02:22Z,2026-09-24T01:02:22Z
 3266191051390,La Vie Claire Filets d'anchois marinés aux olives,2026-09-22T01:01:52Z,2026-09-22T01:01:52Z
+3266191051574,Poudre à lever,2026-10-03T05:52:07Z,2026-10-03T05:52:07Z
 3266191051604,La Vie Claire Moutarde miel,2026-09-24T01:02:22Z,2026-09-24T01:02:22Z
 3266191051628,Crème fraîche épaisse,2026-10-01T06:39:12Z,2026-10-01T06:39:12Z
 3266191051659,Vinaigrette Tomates Séchées,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -18247,6 +18249,7 @@ ean13,description,created_at,modified_at
 3266191068565,La Vie Claire Purée de poires,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191068572,La Vie Claire Soupe de legumes anciens et chataigne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191068589,La Vie Claire Gaspacho légumes d’été,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3266191069050,Fromage blanc au lait de chèvre frais,2026-10-03T05:52:07Z,2026-10-03T05:52:07Z
 3266191070186,La Vie Claire Les 8 mini pains briochés 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191070193,La Vie Claire Le boulot de campagne,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3266191070209,La Vie Claire La Camusette CEREALES,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z

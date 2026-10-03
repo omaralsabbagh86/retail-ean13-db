@@ -933,7 +933,7 @@ ean13,description,created_at,modified_at
 3350031718649,Monoprix Torti (Al dente 7 min.) 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350031718656,Groupe Casino Coquillettes (Al dente 9 min.) 1 kg,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350031718779,Monoprix Croquant de Cordes - Biscuits soufflés aux éclats d'amandes 90 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3350031720086,MONOPIX BIO Galettes de riz complet 115 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3350031720086,MONOPIX BIO Galettes de riz complet 100 g,2026-09-16T17:42:53Z,2026-10-03T05:52:07Z
 3350031720611,Monoprix Pépites croustillantes éclats de chocolat noir 375 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350031720949,Monoprix Miel de romarin 500 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350031721205,Monoprix Miel 250 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -3737,7 +3737,7 @@ ean13,description,created_at,modified_at
 3350033890459,Monoprix Riz au lait à la vanille 4 X 115 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350033896505,Monoprix Bio Poulet aux olives,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350033896512,Monoprix Couscous à la marocaine 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
-3350033896529,Monoprix poulet lait de coco curry 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3350033896529,"Monoprix Poulet lait de coco curry, riz basmati parfumé 300 g",2026-09-16T17:42:53Z,2026-10-03T05:52:07Z
 3350033896536,Monoprix Porc au caramel 300 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350033896543,Monoprix Bio Poulet tikka masala 300 grammes,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350033896550,Monoprix Riz Arborio Spécial Risotto,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4486,6 +4486,7 @@ ean13,description,created_at,modified_at
 3350034053600,"Jamón de bellota, 100% ibérico",2026-09-29T06:20:27Z,2026-09-29T06:20:27Z
 3350034053617,Saucisson sec supérieur aux noisettes 150 g,2026-09-20T01:02:09Z,2026-09-20T01:02:09Z
 3350034053648,Monoprix Billes de scamorza fumée 200 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3350034053655,Monoprix Gourmet Calissons d'Aix,2026-10-03T05:52:07Z,2026-10-03T05:52:07Z
 3350034053716,Gateau à la noix de coco,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350034053747,Rillettes de saumon,2026-09-25T01:02:32Z,2026-09-25T01:02:32Z
 3350034053754,Rillettes de thon,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
@@ -4583,6 +4584,7 @@ ean13,description,created_at,modified_at
 3350240040333,Maison Prunier Rillettes du Mans,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350240040517,Maison prunier Rillettes du Mans 400g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350240041613,Maison Prunier Rillette,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
+3350240043112,Rillettes du Mans 2 x 50 g,2026-10-03T05:52:07Z,2026-10-03T05:52:07Z
 3350240051018,Maison prunier Rillettes d'oie rôtie en marmite 220 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350240051230,Prunier Rillettes d'oies 170 g,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
 3350240051285,Maison Prunier Rillettes d'oie,2026-09-16T17:42:53Z,2026-09-16T17:42:53Z
